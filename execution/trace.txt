@@ -1,0 +1,112 @@
+task_id	hash	native_id	name	status	exit	submit	duration	realtime	%cpu	peak_rss	peak_vmem	rchar	wchar
+4	01/2f09a4	57800	kraken_pipeline:run_common:getParams	COMPLETED	0	2024-05-24 13:57:06.746	2.8s	6ms	0.0%	0	0	37 KB	4.5 KB
+6	e3/1a0686	57913	kraken_pipeline:output_results (1)	COMPLETED	0	2024-05-24 13:57:09.514	466ms	3ms	0.0%	0	0	32.6 KB	177 B
+2	ce/f8cea8	57781	kraken_pipeline:run_common:getVersions	COMPLETED	0	2024-05-24 13:57:06.739	4.1s	1.4s	114.7%	65.2 MB	380.9 MB	12.1 MB	8.7 MB
+1	99/3c5e8b	57766	validate_sample_sheet	COMPLETED	0	2024-05-24 13:57:06.727	11.2s	8.3s	100.4%	424 MB	768.6 MB	46.8 MB	26.7 MB
+10	5b/e95e9b	57985	fastcat (3)	COMPLETED	0	2024-05-24 13:57:17.928	558ms	191ms	107.0%	48.5 MB	160.7 MB	11 MB	12.1 MB
+8	8e/8c84ef	58017	fastcat (1)	COMPLETED	0	2024-05-24 13:57:18.490	385ms	41ms	94.1%	80.7 MB	174.6 MB	934.9 KB	1002.2 KB
+12	c0/fc806d	58049	fastcat (5)	COMPLETED	0	2024-05-24 13:57:18.877	497ms	139ms	130.9%	85.3 MB	174.5 MB	8.8 MB	9.6 MB
+15	25/634502	58147	fastcat (8)	COMPLETED	0	2024-05-24 13:57:19.376	1.8s	1.4s	132.4%	86.2 MB	174.8 MB	95.9 MB	101.6 MB
+11	36/f79242	58179	fastcat (4)	COMPLETED	0	2024-05-24 13:57:21.165	1s	666ms	130.3%	85.5 MB	174.5 MB	44.3 MB	47.2 MB
+13	ad/e12976	58212	fastcat (6)	COMPLETED	0	2024-05-24 13:57:22.192	531ms	162ms	115.2%	85.2 MB	174.5 MB	9.4 MB	10.1 MB
+16	83/f577f5	58244	fastcat (9)	COMPLETED	0	2024-05-24 13:57:22.726	446ms	100ms	125.3%	79.9 MB	169.3 MB	6.5 MB	7.3 MB
+9	7a/671840	58276	fastcat (2)	COMPLETED	0	2024-05-24 13:57:23.174	527ms	183ms	123.5%	85.2 MB	174.5 MB	11.8 MB	12.8 MB
+17	5a/242ebc	58308	fastcat (10)	COMPLETED	0	2024-05-24 13:57:23.703	2.1s	1.7s	132.8%	86.2 MB	174.8 MB	116.3 MB	123.6 MB
+14	a5/620fe3	58342	fastcat (7)	COMPLETED	0	2024-05-24 13:57:25.774	587ms	244ms	133.3%	59 MB	173.9 MB	17.8 MB	19.9 MB
+7	15/a98225	57949	kraken_pipeline:run_common:abricateVersion	COMPLETED	0	2024-05-24 13:57:10.881	36.4s	240ms	96.4%	5.8 MB	284.2 MB	627 KB	303 B
+19	34/c0f5ca	58054	kraken_pipeline:run_amr:abricate (47)	COMPLETED	0	2024-05-24 13:57:18.883	29s	1.2s	109.5%	5.6 MB	284.2 MB	2.5 MB	1 MB
+28	e6/96b088	58385	kraken_pipeline:output_results (2)	COMPLETED	0	2024-05-24 13:57:47.921	727ms	6ms	0.0%	0	0	32.6 KB	182 B
+18	dc/4d774b	58051	kraken_pipeline:run_amr:abricate (124)	COMPLETED	0	2024-05-24 13:57:18.881	32.4s	3.9s	98.1%	187.1 MB	1.9 GB	16.5 MB	12.6 MB
+20	51/927328	58384	kraken_pipeline:run_amr:abricate (180)	COMPLETED	0	2024-05-24 13:57:47.917	4.2s	3.3s	100.9%	182 MB	1.8 GB	13.4 MB	9.8 MB
+29	b3/9ff33d	58394	kraken_pipeline:run_amr:abricate_json (1)	COMPLETED	0	2024-05-24 13:57:47.926	13.4s	12.2s	90.0%	421.3 MB	770.2 MB	46.7 MB	26.7 MB
+31	fa/d213e9	58516	kraken_pipeline:run_amr:abricate_json (3)	COMPLETED	0	2024-05-24 13:57:52.174	11.6s	10.7s	97.9%	420.6 MB	770 MB	46.7 MB	26.7 MB
+30	bb/530499	58515	kraken_pipeline:run_amr:abricate_json (2)	COMPLETED	0	2024-05-24 13:57:52.171	12s	11.3s	97.0%	421.6 MB	770.2 MB	46.7 MB	26.7 MB
+22	84/dc0eb0	58514	kraken_pipeline:run_amr:abricate (126)	COMPLETED	0	2024-05-24 13:57:52.169	15s	14.1s	88.8%	213.2 MB	1.9 GB	61.5 MB	48 MB
+23	d7/1edd09	58645	kraken_pipeline:run_amr:abricate (192)	COMPLETED	0	2024-05-24 13:58:07.164	4.4s	3.6s	106.2%	176.9 MB	1.8 GB	14.1 MB	10.3 MB
+32	2a/ce4110	58605	kraken_pipeline:run_amr:progressive_amr (47)	COMPLETED	0	2024-05-24 13:58:02.367	10.1s	9.2s	102.2%	421.5 MB	770.1 MB	46.7 MB	26.7 MB
+24	8f/e26fbc	58708	kraken_pipeline:run_amr:abricate (334)	COMPLETED	0	2024-05-24 13:58:11.569	3.6s	2.7s	102.7%	162.3 MB	1.6 GB	10.5 MB	7.7 MB
+33	ba/fc215a	58646	kraken_pipeline:run_amr:abricate_json (4)	COMPLETED	0	2024-05-24 13:58:07.166	9.9s	9.4s	104.9%	422.5 MB	770 MB	46.7 MB	26.7 MB
+21	fa/7af35a	58479	kraken_pipeline:run_amr:abricate (307)	COMPLETED	0	2024-05-24 13:57:51.308	26s	25.3s	93.4%	261.4 MB	1.9 GB	131.4 MB	103.2 MB
+25	7d/755065	58805	kraken_pipeline:run_amr:abricate (83)	COMPLETED	0	2024-05-24 13:58:15.158	6.2s	5.3s	98.6%	182.6 MB	1.8 GB	17.5 MB	13.1 MB
+34	67/eb159b	58709	kraken_pipeline:run_amr:abricate_json (5)	COMPLETED	0	2024-05-24 13:58:11.571	10.3s	9.8s	102.8%	420.9 MB	770 MB	46.7 MB	26.7 MB
+35	b8/f9a66d	58771	kraken_pipeline:run_amr:progressive_amr (180)	COMPLETED	0	2024-05-24 13:58:13.489	10.3s	9.6s	102.6%	422 MB	770.1 MB	46.7 MB	26.7 MB
+36	6e/0c05ff	58840	kraken_pipeline:run_amr:abricate_json (6)	COMPLETED	0	2024-05-24 13:58:17.106	10.5s	9.9s	101.7%	422.9 MB	770.2 MB	46.7 MB	26.7 MB
+27	17/710479	58907	kraken_pipeline:run_amr:abricate (259)	COMPLETED	0	2024-05-24 13:58:21.337	7.8s	6.7s	95.5%	199.2 MB	1.9 GB	26.2 MB	20.6 MB
+37	de/b80e7e	58942	kraken_pipeline:run_amr:abricate_json (7)	COMPLETED	0	2024-05-24 13:58:21.885	10.7s	10s	101.9%	422 MB	770.2 MB	46.7 MB	26.7 MB
+38	2e/f61b64	58974	kraken_pipeline:run_amr:abricate_json (8)	COMPLETED	0	2024-05-24 13:58:23.769	10.5s	9.9s	101.7%	422.3 MB	770 MB	46.7 MB	26.7 MB
+39	ff/81cd37	59007	kraken_pipeline:run_amr:progressive_amr (124)	COMPLETED	0	2024-05-24 13:58:27.633	9.4s	8.9s	102.8%	422.2 MB	770 MB	46.7 MB	26.7 MB
+40	56/12ffd4	59043	kraken_pipeline:run_amr:abricate_json (9)	COMPLETED	0	2024-05-24 13:58:29.184	9.3s	8.8s	102.4%	422.6 MB	769.9 MB	46.7 MB	26.7 MB
+41	b7/2a013c	59083	kraken_pipeline:run_amr:progressive_amr (126)	COMPLETED	0	2024-05-24 13:58:37.065	8.1s	7.6s	104.7%	423.1 MB	770.2 MB	46.7 MB	26.7 MB
+26	67/d8885a	58872	kraken_pipeline:run_amr:abricate (424)	COMPLETED	0	2024-05-24 13:58:17.345	30.2s	29.4s	97.4%	284.8 MB	1.9 GB	159.2 MB	125.4 MB
+42	4c/8984d5	59125	kraken_pipeline:run_amr:progressive_amr (192)	COMPLETED	0	2024-05-24 13:58:45.121	8s	7.5s	106.1%	425.8 MB	770.1 MB	46.7 MB	26.7 MB
+43	f7/3294fb	59169	kraken_pipeline:run_amr:abricate_json (10)	COMPLETED	0	2024-05-24 13:58:47.556	7.8s	7.4s	106.7%	422.8 MB	770.1 MB	46.7 MB	26.7 MB
+44	4c/3bde2a	59202	kraken_pipeline:run_amr:progressive_amr (334)	COMPLETED	0	2024-05-24 13:58:53.077	7.6s	7.3s	106.8%	424.1 MB	770.1 MB	46.7 MB	26.7 MB
+45	94/f32d8a	59249	kraken_pipeline:run_amr:progressive_amr (307)	COMPLETED	0	2024-05-24 13:59:00.691	7.5s	7.1s	108.4%	422.6 MB	770.1 MB	46.7 MB	26.7 MB
+46	84/4021da	59293	kraken_pipeline:run_amr:progressive_amr (83)	COMPLETED	0	2024-05-24 13:59:08.170	7.6s	7.2s	108.4%	424.9 MB	770.1 MB	46.7 MB	26.7 MB
+47	ab/f707e1	59341	kraken_pipeline:run_amr:progressive_amr (259)	COMPLETED	0	2024-05-24 13:59:15.754	7.6s	7.2s	108.1%	423.5 MB	770.2 MB	46.7 MB	26.7 MB
+48	73/e5c153	59390	kraken_pipeline:run_amr:progressive_amr (424)	COMPLETED	0	2024-05-24 13:59:23.388	7.6s	7.2s	108.1%	424.7 MB	770.1 MB	46.7 MB	26.7 MB
+5	d7/1e5ef1	57772	prepare_databases:download_unpack_taxonomy	COMPLETED	0	2024-05-24 13:57:06.734	3m 9s	3m 6s	5.2%	10.2 MB	16.6 MB	246.1 MB	1.8 GB
+3	d8/8a996e	57786	prepare_databases:unpack_download_kraken2_database	COMPLETED	0	2024-05-24 13:57:06.742	1h 22m 4s	1h 22m 1s	5.7%	10.5 MB	16.6 MB	18.5 GB	20.5 GB
+49	37/af58dc	59736	prepare_databases:determine_bracken_length	COMPLETED	0	2024-05-24 15:19:10.300	522ms	12ms	0.0%	2.1 MB	3.4 MB	54 KB	798 B
+56	d5/c0c6c4	59811	kraken_pipeline:run_kraken2 (334)	COMPLETED	0	2024-05-24 15:19:10.825	9.3s	8.8s	4.3%	914.8 MB	7.9 GB	4.8 MB	374.1 KB
+57	56/3f2e27	59737	kraken_pipeline:run_kraken2 (83)	COMPLETED	0	2024-05-24 15:19:10.304	19.4s	18.9s	7.2%	1.9 GB	7.7 GB	8.3 MB	502.3 KB
+51	b2/0b73b7	59886	kraken_pipeline:run_kraken2 (47)	COMPLETED	0	2024-05-24 15:19:29.684	2.8s	2.4s	11.5%	161.9 MB	7.8 GB	876.7 KB	55.3 KB
+55	d5/c63cf5	59850	kraken_pipeline:run_kraken2 (192)	COMPLETED	0	2024-05-24 15:19:20.136	28.1s	22.2s	6.3%	1.6 GB	7.9 GB	6.6 MB	387.7 KB
+50	7a/b87abd	59924	kraken_pipeline:run_kraken2 (124)	COMPLETED	0	2024-05-24 15:19:32.514	19.1s	13.1s	6.4%	1.9 GB	7.7 GB	7.9 MB	593.5 KB
+52	5b/0ca6b5	59997	kraken_pipeline:run_kraken2 (180)	COMPLETED	0	2024-05-24 15:19:51.656	18.3s	23.2s	4.2%	1.7 GB	7.8 GB	6.2 MB	399.7 KB
+54	0e/e5ec68	60033	kraken_pipeline:run_kraken2 (126)	COMPLETED	0	2024-05-24 15:20:09.919	1m 16s	1m 16s	9.2%	3.3 GB	7.8 GB	30.2 MB	1.5 MB
+53	35/fbaf81	59961	kraken_pipeline:run_kraken2 (307)	COMPLETED	0	2024-05-24 15:19:48.286	2m 27s	2m 32s	9.5%	3.9 GB	7.8 GB	65 MB	2.8 MB
+59	18/ec387d	60120	kraken_pipeline:run_kraken2 (259)	COMPLETED	0	2024-05-24 15:22:15.515	15.6s	15s	9.0%	1.7 GB	7.7 GB	12.7 MB	958.7 KB
+61	16/59299e	60162	kraken_pipeline:run_bracken (83)	COMPLETED	0	2024-05-24 15:22:31.130	19.2s	18.5s	105.8%	420.8 MB	902 MB	512.3 MB	26.7 MB
+60	68/ab53ce	60161	kraken_pipeline:run_bracken (334)	COMPLETED	0	2024-05-24 15:22:31.128	19.3s	18.5s	111.3%	420.3 MB	902.4 MB	512.3 MB	26.7 MB
+62	cd/359742	60253	kraken_pipeline:run_bracken (47)	COMPLETED	0	2024-05-24 15:22:50.366	18.1s	17.4s	112.9%	422.6 MB	1 GB	512.3 MB	26.7 MB
+63	1c/e6334e	60273	kraken_pipeline:run_bracken (192)	COMPLETED	0	2024-05-24 15:22:50.405	18.2s	17.4s	114.6%	422.5 MB	1.1 GB	512.3 MB	26.7 MB
+58	ee/14b36b	60075	kraken_pipeline:run_kraken2 (424)	COMPLETED	0	2024-05-24 15:21:26.406	1m 56s	1m 55s	15.3%	4.1 GB	7.8 GB	78.7 MB	3.9 MB
+65	12/26dd12	60374	kraken_pipeline:run_bracken (180)	COMPLETED	0	2024-05-24 15:23:08.599	16.6s	16s	121.2%	717.7 MB	1.4 GB	512.3 MB	26.7 MB
+64	b9/886e64	60337	kraken_pipeline:run_bracken (124)	COMPLETED	0	2024-05-24 15:23:08.500	16.7s	16.2s	120.9%	698.8 MB	1.4 GB	512.3 MB	26.7 MB
+66	0e/95a240	60421	kraken_pipeline:run_bracken (126)	COMPLETED	0	2024-05-24 15:23:21.964	15.3s	14.8s	114.2%	774 MB	1.5 GB	512.4 MB	26.8 MB
+68	ca/d04ded	60500	kraken_pipeline:run_bracken (259)	COMPLETED	0	2024-05-24 15:23:25.209	15.5s	15s	115.0%	719.1 MB	1.4 GB	512.3 MB	26.7 MB
+67	15/1631ad	60464	kraken_pipeline:run_bracken (307)	COMPLETED	0	2024-05-24 15:23:25.155	15.8s	15.4s	114.7%	454.5 MB	1.1 GB	512.4 MB	26.8 MB
+72	a9/ea48a5	60589	kraken_pipeline:output_kraken2_read_assignments (47)	COMPLETED	0	2024-05-24 15:23:40.668	2.4s	2s	193.7%	467.4 MB	1.1 GB	433.4 MB	107.5 KB
+70	d9/41a1ae	60590	kraken_pipeline:output_kraken2_read_assignments (334)	COMPLETED	0	2024-05-24 15:23:40.670	2.4s	1.9s	194.5%	513.5 MB	1.1 GB	433.7 MB	752.4 KB
+73	c5/666e29	60653	kraken_pipeline:output_kraken2_read_assignments (192)	COMPLETED	0	2024-05-24 15:23:40.952	2.3s	1.9s	200.7%	496.4 MB	1.1 GB	433.7 MB	748.7 KB
+74	0c/66cf94	60716	kraken_pipeline:output_kraken2_read_assignments (124)	COMPLETED	0	2024-05-24 15:23:43.097	2.4s	1.9s	194.0%	496.6 MB	1.1 GB	433.9 MB	1.1 MB
+76	0e/499774	60691	kraken_pipeline:output_kraken2_read_assignments (126)	COMPLETED	0	2024-05-24 15:23:43.060	2.5s	2s	194.0%	473.1 MB	1.1 GB	434.8 MB	3 MB
+71	c1/60e510	60755	kraken_pipeline:output_kraken2_read_assignments (83)	COMPLETED	0	2024-05-24 15:23:43.290	2.3s	1.8s	190.8%	512.3 MB	1.1 GB	433.8 MB	983.5 KB
+78	14/bdc3fe	60856	kraken_pipeline:output_kraken2_read_assignments (259)	COMPLETED	0	2024-05-24 15:23:45.631	2.4s	2s	191.3%	511.4 MB	1.1 GB	434.3 MB	1.9 MB
+75	f5/0ea53f	60827	kraken_pipeline:output_kraken2_read_assignments (180)	COMPLETED	0	2024-05-24 15:23:45.589	2.5s	2s	185.8%	487.1 MB	1.1 GB	433.7 MB	792.4 KB
+77	14/33736d	60791	kraken_pipeline:output_kraken2_read_assignments (307)	COMPLETED	0	2024-05-24 15:23:45.496	2.7s	2.2s	189.4%	878.8 MB	1.5 GB	436.2 MB	5.7 MB
+80	04/7e6598	60920	kraken_pipeline:output_results (3)	COMPLETED	0	2024-05-24 15:23:48.104	592ms	3ms	0.0%	0	0	32.7 KB	193 B
+83	d0/c53a79	60983	kraken_pipeline:output_results (6)	COMPLETED	0	2024-05-24 15:23:48.155	618ms	7ms	72.7%	0	0	32.8 KB	196 B
+81	f7/164649	60924	kraken_pipeline:output_results (4)	COMPLETED	0	2024-05-24 15:23:48.107	708ms	4ms	0.0%	0	0	32.7 KB	193 B
+82	4c/451de3	60982	kraken_pipeline:output_results (5)	COMPLETED	0	2024-05-24 15:23:48.153	714ms	4ms	0.0%	0	0	32.7 KB	193 B
+84	4d/0c3ae6	61050	kraken_pipeline:output_results (7)	COMPLETED	0	2024-05-24 15:23:48.700	649ms	3ms	0.0%	0	0	32.7 KB	193 B
+85	12/b6c17e	61084	kraken_pipeline:output_results (8)	COMPLETED	0	2024-05-24 15:23:48.777	613ms	6ms	0.0%	0	0	32.7 KB	193 B
+86	1f/f45fa2	61108	kraken_pipeline:output_results (9)	COMPLETED	0	2024-05-24 15:23:48.817	609ms	2ms	0.0%	0	0	32.7 KB	193 B
+87	67/70229a	61132	kraken_pipeline:output_results (10)	COMPLETED	0	2024-05-24 15:23:48.869	602ms	4ms	0.0%	0	0	32.7 KB	193 B
+88	76/c428d2	61183	kraken_pipeline:output_results (11)	COMPLETED	0	2024-05-24 15:23:49.354	564ms	3ms	0.0%	0	0	32.7 KB	193 B
+79	47/be4560	60898	kraken_pipeline:output_kraken2_read_assignments (424)	COMPLETED	0	2024-05-24 15:23:48.068	2.5s	2s	185.1%	449.2 MB	1.1 GB	437.3 MB	7.9 MB
+89	3f/ca8a44	61221	kraken_pipeline:output_results (12)	COMPLETED	0	2024-05-24 15:23:50.534	298ms	1ms	0.0%	0	0	32.7 KB	193 B
+69	bc/9673ee	60549	kraken_pipeline:run_bracken (424)	COMPLETED	0	2024-05-24 15:23:37.238	17.7s	17.3s	113.2%	423.9 MB	770.3 MB	512.4 MB	26.8 MB
+90	3d/34128a	61263	kraken_pipeline:createAbundanceTables	COMPLETED	0	2024-05-24 15:23:54.912	7.6s	7.3s	106.8%	421.1 MB	770.3 MB	46.8 MB	26.7 MB
+100	72/9aa5e3	61324	kraken_pipeline:output_results (13)	COMPLETED	0	2024-05-24 15:24:02.561	411ms	3ms	0.0%	0	0	32.7 KB	193 B
+97	50/8852bf	61345	kraken_pipeline:makeReport (7)	COMPLETED	0	2024-05-24 15:24:02.580	22.8s	22.1s	97.6%	421.4 MB	839.6 MB	66.1 MB	32.2 MB
+91	37/118cbd	61347	kraken_pipeline:makeReport (1)	COMPLETED	0	2024-05-24 15:24:02.582	22.9s	22.1s	97.9%	422.1 MB	836.6 MB	66.1 MB	32.2 MB
+94	29/45f0a7	61831	kraken_pipeline:makeReport (4)	COMPLETED	0	2024-05-24 15:24:02.974	22.5s	21.7s	100.6%	424.4 MB	840.7 MB	66.1 MB	32.2 MB
+93	42/5c63fa	61336	kraken_pipeline:makeReport (3)	COMPLETED	0	2024-05-24 15:24:02.575	23s	22.1s	97.7%	421.6 MB	828.7 MB	66.1 MB	32.2 MB
+92	d5/090825	61349	kraken_pipeline:makeReport (2)	COMPLETED	0	2024-05-24 15:24:02.584	23s	22.1s	97.7%	420.4 MB	833.7 MB	66.1 MB	32.2 MB
+98	f8/31526a	61338	kraken_pipeline:makeReport (8)	COMPLETED	0	2024-05-24 15:24:02.577	23.1s	22.1s	98.1%	419.8 MB	843.7 MB	66.1 MB	32.2 MB
+104	c9/0bad91	62218	kraken_pipeline:output_results (16)	COMPLETED	0	2024-05-24 15:24:25.622	621ms	4ms	0.0%	0	0	32.8 KB	193 B
+103	75/6f4ed1	62327	kraken_pipeline:output_results (15)	COMPLETED	0	2024-05-24 15:24:25.672	641ms	3ms	0.0%	0	0	32.8 KB	193 B
+105	78/e70db9	62330	kraken_pipeline:output_results (17)	COMPLETED	0	2024-05-24 15:24:25.673	929ms	6ms	0.0%	0	0	32.8 KB	193 B
+102	e0/c7fe44	62217	kraken_pipeline:output_results (14)	COMPLETED	0	2024-05-24 15:24:25.620	1s	7ms	0.0%	0	0	32.8 KB	193 B
+106	d0/87a5a6	62454	kraken_pipeline:output_results (18)	COMPLETED	0	2024-05-24 15:24:26.247	775ms	4ms	0.0%	0	0	32.8 KB	193 B
+107	56/ff3186	62482	kraken_pipeline:output_results (19)	COMPLETED	0	2024-05-24 15:24:26.315	751ms	5ms	0.0%	0	0	32.8 KB	193 B
+96	3a/3fec95	61933	kraken_pipeline:makeReport (6)	COMPLETED	0	2024-05-24 15:24:25.364	18.1s	17.3s	102.8%	429.6 MB	837.7 MB	66.1 MB	32.2 MB
+108	dd/928791	62532	kraken_pipeline:output_results (20)	COMPLETED	0	2024-05-24 15:24:43.505	447ms	4ms	0.0%	0	0	32.8 KB	193 B
+95	66/c0f9b2	62040	kraken_pipeline:makeReport (5)	COMPLETED	0	2024-05-24 15:24:25.505	18.5s	17.6s	100.2%	422.3 MB	837.7 MB	66.1 MB	32.2 MB
+101	d6/c83e97	62042	kraken_pipeline:makeReport (10)	COMPLETED	0	2024-05-24 15:24:25.507	18.6s	17.6s	100.7%	421.6 MB	837.7 MB	66.1 MB	32.2 MB
+99	47/0f824d	62094	kraken_pipeline:makeReport (9)	COMPLETED	0	2024-05-24 15:24:25.551	18.6s	17.6s	100.9%	427.1 MB	840.7 MB	66.1 MB	32.2 MB
+109	ec/fed19d	62575	kraken_pipeline:output_results (21)	COMPLETED	0	2024-05-24 15:24:44.019	504ms	4ms	0.0%	0	0	32.8 KB	193 B
+110	e3/48d52e	62603	kraken_pipeline:output_results (22)	COMPLETED	0	2024-05-24 15:24:44.063	488ms	4ms	0.0%	0	0	32.8 KB	193 B
+111	87/7cd2f8	62632	kraken_pipeline:output_results (23)	COMPLETED	0	2024-05-24 15:24:44.121	472ms	2ms	0.0%	0	0	32.8 KB	193 B

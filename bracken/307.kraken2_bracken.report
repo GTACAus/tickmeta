@@ -1,0 +1,106 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Salmonella enterica	28901	S	481	16	497	0.21684
+Escherichia coli	562	S	242	129	371	0.16187
+Escherichia marmotae	1499973	S	8	0	8	0.00349
+Escherichia albertii	208962	S	1	0	1	0.00044
+Citrobacter freundii	546	S	1	0	1	0.00044
+Shigella sonnei	624	S	1	0	1	0.00044
+Francisella halioticida	549298	S	33	0	33	0.01440
+Pseudomonas sp. AO-1	2855434	S	3	5	8	0.00349
+Pseudomonas sp. phDV1	253237	S	1	7	8	0.00349
+Pseudomonas sp. AN-B15	2697023	S	1	3	4	0.00175
+Pseudomonas wenzhouensis	2906062	S	1	0	1	0.00044
+Marinobacter sp. AN1	2886046	S	1	0	1	0.00044
+Vibrio anguillarum	55601	S	6	0	6	0.00262
+Vibrio lentus	136468	S	1	0	1	0.00044
+Vibrio japonicus	1824638	S	1	0	1	0.00044
+Vibrio parahaemolyticus	670	S	1	0	1	0.00044
+Stenotrophomonas sp. DR822	2871174	S	1	0	1	0.00044
+Stenotrophomonas maltophilia	40324	S	1	0	1	0.00044
+Xanthomonas translucens	343	S	1	0	1	0.00044
+Halomonas sp. JS92-SW72	2306583	S	2	0	2	0.00087
+Rickettsia massiliae	35791	S	3	9	12	0.00524
+Rickettsia amblyommatis	33989	S	2	2	4	0.00175
+Rickettsia rickettsii	783	S	1	8	9	0.00393
+Rickettsia tillamookensis	2761623	S	1	0	1	0.00044
+Rickettsia gravesii	354585	S	1	0	1	0.00044
+Rickettsia sibirica	35793	S	1	7	8	0.00349
+Rickettsia asiatica	238800	S	1	3	4	0.00175
+Rickettsia monacensis	109232	S	1	2	3	0.00131
+Rickettsia peacockii	47589	S	1	6	7	0.00305
+Rickettsia rhipicephali	33992	S	1	4	5	0.00218
+Rickettsia montanensis	33991	S	1	2	3	0.00131
+Rickettsia australis	787	S	1	0	1	0.00044
+Rickettsia conorii	781	S	1	6	7	0.00305
+Mesorhizobium amorphae	71433	S	1	0	1	0.00044
+Mesorhizobium sp. B2-8-5	2589903	S	1	0	1	0.00044
+Aquibium oceanicum	1670800	S	1	0	1	0.00044
+Ensifer alkalisoli	1752398	S	1	0	1	0.00044
+Brucella intermedia	94625	S	1	0	1	0.00044
+Sphingopyxis alaskensis	117207	S	1	0	1	0.00044
+Sphingopyxis sp. OPL5	2486273	S	1	0	1	0.00044
+Aquisediminimonas profunda	1550733	S	1	0	1	0.00044
+Brevundimonas sp. LM2	1938605	S	1	0	1	0.00044
+Yoonia vestfoldensis	245188	S	1	0	1	0.00044
+Alcaligenes sp. SORT26	2813780	S	1	0	1	0.00044
+Massilia forsythiae	2728020	S	1	0	1	0.00044
+Cupriavidus oxalaticus	96344	S	1	0	1	0.00044
+Sphaerotilus sp. FB-5	2914710	S	1	0	1	0.00044
+Clostridium botulinum	1491	S	185	13	198	0.08639
+Alkaliphilus metalliredigens	208226	S	1	0	1	0.00044
+Ruminococcus champanellensis	1161942	S	1	0	1	0.00044
+Halanaerobium praevalens	2331	S	1	0	1	0.00044
+Zhaonella formicivorans	2528593	S	1	0	1	0.00044
+Bacillus cereus	1396	S	6	4	10	0.00436
+Paenibacillus sp. YPD9-1	2908839	S	1	0	1	0.00044
+Cohnella sp. LGH	1619153	S	1	0	1	0.00044
+Staphylococcus arlettae	29378	S	1	0	1	0.00044
+Novibacillus thermophilus	1471761	S	1	0	1	0.00044
+Aerococcus viridans	1377	S	1	0	1	0.00044
+Corynebacterium sp. SCR221107	3017361	S	1	0	1	0.00044
+Corynebacterium propinquum	43769	S	1	0	1	0.00044
+Corynebacterium jeddahense	1414719	S	1	0	1	0.00044
+Corynebacterium urogenitale	2487892	S	1	0	1	0.00044
+Mycobacterium simiae	1784	S	1	0	1	0.00044
+Mycobacterium senriense	2775496	S	1	0	1	0.00044
+Mycobacteroides abscessus	36809	S	1	0	1	0.00044
+Streptomyces sp. W1SF4	2305220	S	1	0	1	0.00044
+Streptomyces sp. HL-66	2964669	S	1	0	1	0.00044
+Streptomyces sp. AMCC400023	2056258	S	1	0	1	0.00044
+Streptomyces sp. S1D4-11	2721246	S	1	0	1	0.00044
+Streptomyces gilvosporeus	553510	S	1	0	1	0.00044
+Janibacter melonis	262209	S	1	0	1	0.00044
+Arsenicicoccus sp. oral taxon 190	1658671	S	1	0	1	0.00044
+Curtobacterium sp. BH-2-1-1	1905847	S	1	0	1	0.00044
+Glutamicibacter mishrai	1775880	S	1	0	1	0.00044
+Cutibacterium acnes	1747	S	4	0	4	0.00175
+Actinoplanes derwentensis	113562	S	1	0	1	0.00044
+Blastococcus saxobsidens	138336	S	1	0	1	0.00044
+Collinsella aerofaciens	74426	S	1	0	1	0.00044
+Acholeplasma laidlawii	2148	S	1	0	1	0.00044
+Mariniplasma anaerobium	2735436	S	1	0	1	0.00044
+Flavobacterium sp. CJ74	2294119	S	1	0	1	0.00044
+Polaribacter sp. KT25b	1855336	S	1	0	1	0.00044
+Seonamhaeicola sp. ML3	2937786	S	1	0	1	0.00044
+Aliarcobacter butzleri	28197	S	2	0	2	0.00087
+Campylobacter canadensis	449520	S	1	0	1	0.00044
+Chondromyces crocatus	52	S	1	0	1	0.00044
+Pirellula staleyi	125	S	1	0	1	0.00044
+Leptospira sp. GIMC2001	1513297	S	1	0	1	0.00044
+Desulfolithobacter dissulfuricans	2795293	S	1	0	1	0.00044
+Homo sapiens	9606	S	835	16	851	0.37129
+Fusarium keratoplasticum	1328300	S	1	1	2	0.00087
+Colletotrichum higginsianum	80884	S	1	0	1	0.00044
+Zygosaccharomyces rouxii	4956	S	1	0	1	0.00044
+Candida dubliniensis	42374	S	1	0	1	0.00044
+Puccinia striiformis	27350	S	2	0	2	0.00087
+Malassezia restricta	76775	S	1	0	1	0.00044
+Babesia bigemina	5866	S	125	0	125	0.05454
+Plasmodium relictum	85471	S	7	0	7	0.00305
+Plasmodium vivax	5855	S	1	0	1	0.00044
+Dictyostelium discoideum	44689	S	2	0	2	0.00087
+Leishmania braziliensis	5660	S	1	0	1	0.00044
+Halorussus sp. XZYJT49	2938695	S	1	0	1	0.00044
+Halolamina sp. CBA1230	1853690	S	1	0	1	0.00044
+Natronococcus occultus	29288	S	1	0	1	0.00044
+Methanobacterium formicicum	2162	S	1	0	1	0.00044

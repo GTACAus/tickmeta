@@ -1,0 +1,65 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Salmonella enterica	28901	S	110	3	113	0.27494
+Escherichia coli	562	S	22	12	34	0.08273
+Escherichia marmotae	1499973	S	1	0	1	0.00243
+Pantoea agglomerans	549	S	1	0	1	0.00243
+Pseudomonas sp. phDV1	253237	S	2	4	6	0.01460
+Pseudomonas sp. AN-B15	2697023	S	1	1	2	0.00487
+Pseudomonas wenzhouensis	2906062	S	1	0	1	0.00243
+Pseudomonas oryzihabitans	47885	S	1	0	1	0.00243
+Pseudomonas oleovorans	301	S	1	2	3	0.00730
+Francisella persica	954	S	4	1	5	0.01217
+Francisella halioticida	549298	S	1	0	1	0.00243
+Vibrio anguillarum	55601	S	2	0	2	0.00487
+Luteimonas yindakuii	2565782	S	1	0	1	0.00243
+Acinetobacter indicus	756892	S	1	0	1	0.00243
+Gilvimarinus sp. DA14	2956798	S	1	0	1	0.00243
+Candidatus Midichloria mitochondrii	234827	S	3	0	3	0.00730
+Ehrlichia ruminantium	779	S	1	0	1	0.00243
+Mesorhizobium sp. M7D.F.Ca.US.005.01.1.1	2493678	S	1	0	1	0.00243
+Caulobacter mirabilis	69666	S	1	0	1	0.00243
+Oceanicola sp. D3	2587163	S	1	0	1	0.00243
+Wielerella bovis	2917790	S	2	0	2	0.00487
+Pseudoduganella lutea	321985	S	1	0	1	0.00243
+Corynebacterium humireducens	1223514	S	9	0	9	0.02190
+Corynebacterium efficiens	152794	S	7	0	7	0.01703
+Corynebacterium urogenitale	2487892	S	5	0	5	0.01217
+Corynebacterium halotolerans	225326	S	2	0	2	0.00487
+Corynebacterium doosanense	1121358	S	2	0	2	0.00487
+Corynebacterium casei	160386	S	1	1	2	0.00487
+Corynebacterium segmentosum	43990	S	1	0	1	0.00243
+Corynebacterium liangguodongii	2079535	S	1	0	1	0.00243
+Corynebacterium freneyi	134034	S	1	0	1	0.00243
+Corynebacterium marinum	349751	S	1	0	1	0.00243
+Corynebacterium glutamicum	1718	S	1	1	2	0.00487
+Corynebacterium xerosis	1725	S	1	0	1	0.00243
+Corynebacterium maris	575200	S	1	0	1	0.00243
+Mycolicibacterium fortuitum	1766	S	1	0	1	0.00243
+Rhodococcus fascians	1828	S	1	0	1	0.00243
+Cutibacterium acnes	1747	S	12	0	12	0.02920
+Propioniciclava sp. MC1595	2760308	S	1	0	1	0.00243
+Nocardioides humi	449461	S	1	0	1	0.00243
+Nocardioides anomalus	2712223	S	1	0	1	0.00243
+Micrococcus luteus	1270	S	1	1	2	0.00487
+Glutamicibacter halophytocola	1933880	S	1	0	1	0.00243
+Ornithinimicrobium pratense	2593973	S	1	0	1	0.00243
+Ornithinimicrobium sp. HY006	2508882	S	1	0	1	0.00243
+Gardnerella leopoldii	2792978	S	1	0	1	0.00243
+Amycolatopsis sp. CA-230715	2745196	S	1	0	1	0.00243
+Aquihabitans sp. G128	2849779	S	1	0	1	0.00243
+Xiamenia xianingshaonis	2682776	S	1	0	1	0.00243
+Clostridium botulinum	1491	S	10	0	10	0.02433
+Staphylococcus chromogenes	46126	S	1	0	1	0.00243
+Staphylococcus agnetis	985762	S	1	0	1	0.00243
+Suicoccus acidiformans	2036206	S	1	0	1	0.00243
+Mycoplasma struthionis	538220	S	1	0	1	0.00243
+Algibacter sp. L1A34	2686365	S	1	0	1	0.00243
+Desulfococcus multivorans	897	S	1	0	1	0.00243
+Homo sapiens	9606	S	119	2	121	0.29440
+Naumovozyma dairenensis	27289	S	4	0	4	0.00973
+Candida albicans	5476	S	1	0	1	0.00243
+Puccinia striiformis	27350	S	1	0	1	0.00243
+Babesia bigemina	5866	S	6	1	7	0.01703
+Toxoplasma gondii	5811	S	1	0	1	0.00243
+Trypanosoma brucei	5691	S	4	0	4	0.00973
+Leishmania mexicana	5665	S	1	1	2	0.00487

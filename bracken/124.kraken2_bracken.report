@@ -1,0 +1,52 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Escherichia coli	562	S	432	14	446	0.55611
+Salmonella enterica	28901	S	113	3	116	0.14464
+Francisella halioticida	549298	S	22	0	22	0.02743
+Pseudomonas sp. phDV1	253237	S	1	3	4	0.00499
+Pseudomonas oleovorans	301	S	1	1	2	0.00249
+Candidatus Coxiella mudrowiae	2054173	S	1	0	1	0.00125
+Corynebacterium camporealensis	161896	S	44	7	51	0.06359
+Corynebacterium sanguinis	2594913	S	14	7	21	0.02618
+Corynebacterium urogenitale	2487892	S	10	0	10	0.01247
+Corynebacterium yudongzhengii	2080740	S	8	0	8	0.00998
+Corynebacterium qintianiae	2709392	S	8	1	9	0.01122
+Corynebacterium mycetoides	38302	S	5	2	7	0.00873
+Corynebacterium timonense	441500	S	4	0	4	0.00499
+Corynebacterium sp. CNCTC7651	2815361	S	2	0	2	0.00249
+Corynebacterium sp. NML98-0116	702967	S	1	6	7	0.00873
+Corynebacterium humireducens	1223514	S	1	0	1	0.00125
+Corynebacterium imitans	156978	S	1	0	1	0.00125
+Corynebacterium tuberculostearicum	38304	S	1	0	1	0.00125
+Corynebacterium liangguodongii	2079535	S	1	0	1	0.00125
+Corynebacterium terpenotabidum	89154	S	1	0	1	0.00125
+Corynebacterium heidelbergense	2055947	S	1	0	1	0.00125
+Corynebacterium kefirresidentii	1979527	S	1	0	1	0.00125
+Corynebacterium frankenforstense	1230998	S	1	0	1	0.00125
+Corynebacterium lactis	1231000	S	1	0	1	0.00125
+Corynebacterium urealyticum	43771	S	1	0	1	0.00125
+Corynebacterium testudinoris	136857	S	1	0	1	0.00125
+Corynebacterium ihumii	1232427	S	1	0	1	0.00125
+Corynebacterium doosanense	1121358	S	1	0	1	0.00125
+Corynebacterium comes	2675218	S	1	0	1	0.00125
+Corynebacterium hindlerae	699041	S	1	0	1	0.00125
+Corynebacterium glaucum	187491	S	1	0	1	0.00125
+Corynebacterium atypicum	191610	S	1	0	1	0.00125
+Corynebacterium ureicelerivorans	401472	S	1	0	1	0.00125
+Gordonia otitidis	249058	S	1	0	1	0.00125
+Gordonia phthalatica	1136941	S	1	0	1	0.00125
+Nocardia iowensis	204891	S	1	0	1	0.00125
+Mycolicibacterium aurum	1791	S	1	0	1	0.00125
+Dietzia kunjamensis	322509	S	1	1	2	0.00249
+Micrococcus luteus	1270	S	1	0	1	0.00125
+Rothia kristinae	37923	S	1	0	1	0.00125
+Brachybacterium sp. P6-10-X1	1903186	S	1	0	1	0.00125
+Janibacter limosus	53458	S	1	0	1	0.00125
+Leifsonia sp. PS1209	2724914	S	1	0	1	0.00125
+Pseudonocardia dioxanivorans	240495	S	1	0	1	0.00125
+Alloactinosynnema sp. L-07	1653480	S	1	0	1	0.00125
+Cutibacterium acnes	1747	S	1	0	1	0.00125
+Streptomyces sp. SUK 48	2582831	S	1	0	1	0.00125
+Staphylococcus chromogenes	46126	S	1	0	1	0.00125
+Flavivirga eckloniae	1803846	S	1	0	1	0.00125
+Homo sapiens	9606	S	41	2	43	0.05362
+Babesia bigemina	5866	S	2	0	2	0.00249

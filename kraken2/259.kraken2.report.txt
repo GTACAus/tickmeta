@@ -1,0 +1,163 @@
+ 93.84	16094	16094	U	0	unclassified
+  6.16	1057	0	R	1	root
+  6.16	1057	67	R1	131567	  cellular organisms
+  4.78	820	3	D	2	    Bacteria
+  4.29	736	0	P	1224	      Pseudomonadota
+  4.29	735	4	C	1236	        Gammaproteobacteria
+  3.67	630	1	O	91347	          Enterobacterales
+  3.66	628	2	F	543	            Enterobacteriaceae
+  2.26	387	0	G	561	              Escherichia
+  2.23	383	18	S	562	                Escherichia coli
+  1.81	310	310	S1	2810407	                  Escherichia coli O126:H45
+  0.32	55	55	S1	409438	                  Escherichia coli SE11
+  0.02	3	3	S	1499973	                Escherichia marmotae
+  0.01	1	1	S	208962	                Escherichia albertii
+  1.39	239	0	G	590	              Salmonella
+  1.39	239	0	S	28901	                Salmonella enterica
+  1.39	239	0	S1	59201	                  Salmonella enterica subsp. enterica
+  1.39	239	239	S2	486999	                    Salmonella enterica subsp. enterica serovar Meleagridis
+  0.01	1	1	F	1903409	            Erwiniaceae
+  0.48	83	0	O	72273	          Thiotrichales
+  0.48	83	0	F	34064	            Francisellaceae
+  0.48	83	0	G	262	              Francisella
+  0.45	78	78	S	549298	                Francisella halioticida
+  0.02	3	0	S	954	                Francisella persica
+  0.02	3	3	S1	1086726	                  Francisella persica ATCC VR-331
+  0.01	1	1	S	263	                Francisella tularensis
+  0.01	1	0	G1	2610885	                unclassified Francisella
+  0.01	1	1	S	2589986	                  Francisella sp. Scap27
+  0.09	16	0	O	72274	          Pseudomonadales
+  0.09	16	2	F	135621	            Pseudomonadaceae
+  0.08	14	4	G	286	              Pseudomonas
+  0.02	3	2	G1	196821	                unclassified Pseudomonas
+  0.01	1	1	S	253237	                  Pseudomonas sp. phDV1
+  0.01	2	0	G1	136843	                Pseudomonas fluorescens group
+  0.01	1	1	S	78543	                  Pseudomonas migulae
+  0.01	1	0	S	294	                  Pseudomonas fluorescens
+  0.01	1	1	S1	746360	                    Pseudomonas fluorescens WH6
+  0.01	1	1	S	1691904	                Pseudomonas sediminis
+  0.01	1	1	S	1274359	                Pseudomonas sihuiensis
+  0.01	1	1	S	489632	                Pseudomonas chengduensis
+  0.01	1	0	G1	136845	                Pseudomonas putida group
+  0.01	1	1	S	76759	                  Pseudomonas monteilii
+  0.01	1	0	G1	136841	                Pseudomonas aeruginosa group
+  0.01	1	0	G2	1232139	                  Pseudomonas oleovorans/pseudoalcaligenes group
+  0.01	1	0	S	301	                    Pseudomonas oleovorans
+  0.01	1	1	S1	1182590	                      Pseudomonas oleovorans CECT 5344
+  0.01	1	0	O	135623	          Vibrionales
+  0.01	1	0	F	641	            Vibrionaceae
+  0.01	1	0	G	662	              Vibrio
+  0.01	1	1	S	55601	                Vibrio anguillarum
+  0.01	1	0	O	135622	          Alteromonadales
+  0.01	1	0	F	267893	            Idiomarinaceae
+  0.01	1	0	G	135575	              Idiomarina
+  0.01	1	1	S	86102	                Idiomarina abyssalis
+  0.01	1	0	C	28211	        Alphaproteobacteria
+  0.01	1	0	O	766	          Rickettsiales
+  0.01	1	0	F	775	            Rickettsiaceae
+  0.01	1	0	F1	33988	              Rickettsieae
+  0.01	1	0	G	780	                Rickettsia
+  0.01	1	0	G1	114277	                  spotted fever group
+  0.01	1	0	S	787	                    Rickettsia australis
+  0.01	1	1	S1	1105110	                      Rickettsia australis str. Cutlack
+  0.47	80	0	D1	1783272	      Terrabacteria group
+  0.43	73	6	P	1239	        Bacillota
+  0.37	63	0	C	186801	          Clostridia
+  0.37	63	0	O	186802	            Eubacteriales
+  0.37	63	0	F	31979	              Clostridiaceae
+  0.37	63	0	G	1485	                Clostridium
+  0.37	63	63	S	1491	                  Clostridium botulinum
+  0.02	4	0	C	91061	          Bacilli
+  0.02	4	0	O	1385	            Bacillales
+  0.02	4	0	F	186817	              Bacillaceae
+  0.02	4	0	G	1386	                Bacillus
+  0.02	4	0	G1	86661	                  Bacillus cereus group
+  0.02	4	0	S	1396	                    Bacillus cereus
+  0.02	4	4	S1	526973	                      Bacillus cereus m1293
+  0.04	7	0	P	201174	        Actinomycetota
+  0.04	7	0	C	1760	          Actinomycetes
+  0.02	4	0	O	85007	            Mycobacteriales
+  0.02	4	0	F	1653	              Corynebacteriaceae
+  0.02	4	0	G	1716	                Corynebacterium
+  0.01	2	2	S	161896	                  Corynebacterium camporealensis
+  0.01	2	0	S	575200	                  Corynebacterium maris
+  0.01	2	2	S1	1224163	                    Corynebacterium maris DSM 45190
+  0.01	2	0	O	85011	            Kitasatosporales
+  0.01	2	0	F	2062	              Streptomycetaceae
+  0.01	1	1	G	1883	                Streptomyces
+  0.01	1	0	G	228398	                Streptacidiphilus
+  0.01	1	0	G1	2643834	                  unclassified Streptacidiphilus
+  0.01	1	1	S	2705012	                    Streptacidiphilus sp. PB12-B1b
+  0.01	1	0	O	85009	            Propionibacteriales
+  0.01	1	0	F	31957	              Propionibacteriaceae
+  0.01	1	0	G	1912216	                Cutibacterium
+  0.01	1	1	S	1747	                  Cutibacterium acnes
+  0.01	1	0	D1	1783270	      FCB group
+  0.01	1	0	D2	68336	        Bacteroidetes/Chlorobi group
+  0.01	1	0	P	976	          Bacteroidota
+  0.01	1	0	C	117743	            Flavobacteriia
+  0.01	1	0	O	200644	              Flavobacteriales
+  0.01	1	0	F	2762318	                Weeksellaceae
+  0.01	1	0	F1	2782232	                  Chryseobacterium group
+  0.01	1	0	G	2782231	                    Kaistella
+  0.01	1	1	S	266749	                      Kaistella jeonii
+  0.99	170	1	D	2759	    Eukaryota
+  0.62	107	0	D1	33154	      Opisthokonta
+  0.61	105	0	K	33208	        Metazoa
+  0.61	105	0	K1	6072	          Eumetazoa
+  0.61	105	0	K2	33213	            Bilateria
+  0.61	105	0	K3	33511	              Deuterostomia
+  0.61	105	0	P	7711	                Chordata
+  0.61	105	0	P1	89593	                  Craniata
+  0.61	105	0	P2	7742	                    Vertebrata
+  0.61	105	0	P3	7776	                      Gnathostomata
+  0.61	105	0	P4	117570	                        Teleostomi
+  0.61	105	0	P5	117571	                          Euteleostomi
+  0.61	105	0	P6	8287	                            Sarcopterygii
+  0.61	105	0	P7	1338369	                              Dipnotetrapodomorpha
+  0.61	105	0	P8	32523	                                Tetrapoda
+  0.61	105	0	P9	32524	                                  Amniota
+  0.61	105	0	C	40674	                                    Mammalia
+  0.61	105	0	C1	32525	                                      Theria
+  0.61	105	0	C2	9347	                                        Eutheria
+  0.61	105	0	C3	1437010	                                          Boreoeutheria
+  0.61	105	0	C4	314146	                                            Euarchontoglires
+  0.61	105	0	O	9443	                                              Primates
+  0.61	105	0	O1	376913	                                                Haplorrhini
+  0.61	105	0	O2	314293	                                                  Simiiformes
+  0.61	105	0	O3	9526	                                                    Catarrhini
+  0.61	105	0	O4	314295	                                                      Hominoidea
+  0.61	105	0	F	9604	                                                        Hominidae
+  0.61	105	0	F1	207598	                                                          Homininae
+  0.61	105	0	G	9605	                                                            Homo
+  0.61	105	105	S	9606	                                                              Homo sapiens
+  0.01	2	0	K	4751	        Fungi
+  0.01	2	0	K1	451864	          Dikarya
+  0.01	1	0	P	4890	            Ascomycota
+  0.01	1	0	P1	716545	              saccharomyceta
+  0.01	1	0	P2	147537	                Saccharomycotina
+  0.01	1	0	C	4891	                  Saccharomycetes
+  0.01	1	0	O	4892	                    Saccharomycetales
+  0.01	1	0	F	4893	                      Saccharomycetaceae
+  0.01	1	0	G	278028	                        Naumovozyma
+  0.01	1	0	S	27289	                          Naumovozyma dairenensis
+  0.01	1	1	S1	1071378	                            Naumovozyma dairenensis CBS 421
+  0.01	1	0	P	5204	            Basidiomycota
+  0.01	1	0	P1	29000	              Pucciniomycotina
+  0.01	1	0	C	162484	                Pucciniomycetes
+  0.01	1	0	O	5258	                  Pucciniales
+  0.01	1	0	F	5262	                    Pucciniaceae
+  0.01	1	0	G	5296	                      Puccinia
+  0.01	1	1	S	208348	                        Puccinia triticina
+  0.36	62	0	D1	2698737	      Sar
+  0.36	62	0	D2	33630	        Alveolata
+  0.36	62	0	P	5794	          Apicomplexa
+  0.36	62	0	C	422676	            Aconoidasida
+  0.36	61	0	O	5863	              Piroplasmida
+  0.36	61	0	F	32594	                Babesiidae
+  0.36	61	0	G	5864	                  Babesia
+  0.36	61	61	S	5866	                    Babesia bigemina
+  0.01	1	0	O	5819	              Haemosporida
+  0.01	1	0	F	1639119	                Plasmodiidae
+  0.01	1	0	G	5820	                  Plasmodium
+  0.01	1	1	G1	418107	                    Plasmodium (Laverania)
