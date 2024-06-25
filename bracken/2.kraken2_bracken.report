@@ -1,0 +1,13 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Homo sapiens	9606	S	32	4	36	0.43902
+Babesia bigemina	5866	S	18	2	20	0.24390
+Plasmodium relictum	85471	S	1	0	1	0.01220
+Toxoplasma gondii	5811	S	1	0	1	0.01220
+Clostridium botulinum	1491	S	13	1	14	0.17073
+[Clostridium] scindens	29347	S	1	0	1	0.01220
+Corynebacterium camporealensis	161896	S	1	0	1	0.01220
+Pseudomonas sp. GOM7	2998079	S	2	0	2	0.02439
+Pseudomonas sp. Colony2	2861799	S	1	0	1	0.01220
+Vibrio anguillarum	55601	S	1	0	1	0.01220
+Wielerella bovis	2917790	S	1	0	1	0.01220
+Nitrosarchaeum sp. AC2	2259673	S	1	0	1	0.01220

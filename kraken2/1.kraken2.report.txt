@@ -1,0 +1,113 @@
+ 90.09	827	827	U	0	unclassified
+  9.91	91	0	R	1	root
+  9.91	91	1	R1	131567	  cellular organisms
+  7.19	66	0	D	2759	    Eukaryota
+  7.08	65	3	D1	33154	      Opisthokonta
+  6.75	62	0	K	33208	        Metazoa
+  6.75	62	0	K1	6072	          Eumetazoa
+  6.75	62	0	K2	33213	            Bilateria
+  6.75	62	0	K3	33511	              Deuterostomia
+  6.75	62	0	P	7711	                Chordata
+  6.75	62	0	P1	89593	                  Craniata
+  6.75	62	0	P2	7742	                    Vertebrata
+  6.75	62	0	P3	7776	                      Gnathostomata
+  6.75	62	0	P4	117570	                        Teleostomi
+  6.75	62	0	P5	117571	                          Euteleostomi
+  6.75	62	0	P6	8287	                            Sarcopterygii
+  6.75	62	0	P7	1338369	                              Dipnotetrapodomorpha
+  6.75	62	0	P8	32523	                                Tetrapoda
+  6.75	62	0	P9	32524	                                  Amniota
+  6.75	62	0	C	40674	                                    Mammalia
+  6.75	62	0	C1	32525	                                      Theria
+  6.75	62	0	C2	9347	                                        Eutheria
+  6.75	62	0	C3	1437010	                                          Boreoeutheria
+  6.75	62	0	C4	314146	                                            Euarchontoglires
+  6.75	62	0	O	9443	                                              Primates
+  6.75	62	0	O1	376913	                                                Haplorrhini
+  6.75	62	0	O2	314293	                                                  Simiiformes
+  6.75	62	0	O3	9526	                                                    Catarrhini
+  6.75	62	0	O4	314295	                                                      Hominoidea
+  6.75	62	0	F	9604	                                                        Hominidae
+  6.75	62	0	F1	207598	                                                          Homininae
+  6.75	62	0	G	9605	                                                            Homo
+  6.75	62	62	S	9606	                                                              Homo sapiens
+  0.11	1	0	D1	2611341	      Metamonada
+  0.11	1	0	P	5719	        Parabasalia
+  0.11	1	0	O	37104	          Trichomonadida
+  0.11	1	0	F	181550	            Trichomonadidae
+  0.11	1	0	G	5721	              Trichomonas
+  0.11	1	0	S	5722	                Trichomonas vaginalis
+  0.11	1	1	S1	412133	                  Trichomonas vaginalis G3
+  2.61	24	3	D	2	    Bacteria
+  1.63	15	0	P	1224	      Pseudomonadota
+  0.76	7	0	C	1236	        Gammaproteobacteria
+  0.44	4	0	O	91347	          Enterobacterales
+  0.44	4	2	F	543	            Enterobacteriaceae
+  0.22	2	0	G	561	              Escherichia
+  0.22	2	2	S	1499973	                Escherichia marmotae
+  0.11	1	0	O	2887326	          Moraxellales
+  0.11	1	0	F	468	            Moraxellaceae
+  0.11	1	0	G	475	              Moraxella
+  0.11	1	1	S	34062	                Moraxella osloensis
+  0.11	1	0	O	135622	          Alteromonadales
+  0.11	1	0	F	267892	            Ferrimonadaceae
+  0.11	1	0	G	44011	              Ferrimonas
+  0.11	1	0	G1	2620587	                unclassified Ferrimonas
+  0.11	1	1	S	2822844	                  Ferrimonas sp. SCSIO 43195
+  0.11	1	0	O	135623	          Vibrionales
+  0.11	1	0	F	641	            Vibrionaceae
+  0.11	1	0	G	662	              Vibrio
+  0.11	1	1	S	55601	                Vibrio anguillarum
+  0.65	6	0	C	28216	        Betaproteobacteria
+  0.65	6	0	O	206351	          Neisseriales
+  0.65	6	0	F	481	            Neisseriaceae
+  0.65	6	0	G	2944815	              Wielerella
+  0.65	6	6	S	2917790	                Wielerella bovis
+  0.22	2	0	C	28211	        Alphaproteobacteria
+  0.11	1	0	O	204457	          Sphingomonadales
+  0.11	1	0	F	335929	            Erythrobacteraceae
+  0.11	1	0	F1	2800788	              Erythrobacter/Porphyrobacter group
+  0.11	1	0	G	1041	                Erythrobacter
+  0.11	1	0	G1	2633097	                  unclassified Erythrobacter
+  0.11	1	1	S	2653850	                    Erythrobacter sp. 3-20A1M
+  0.11	1	0	O	356	          Hyphomicrobiales
+  0.11	1	0	F	41294	            Nitrobacteraceae
+  0.11	1	1	G	374	              Bradyrhizobium
+  0.44	4	0	D1	1783272	      Terrabacteria group
+  0.33	3	0	P	1239	        Bacillota
+  0.22	2	0	C	91061	          Bacilli
+  0.22	2	0	O	1385	            Bacillales
+  0.11	1	0	F	90964	              Staphylococcaceae
+  0.11	1	0	G	1279	                Staphylococcus
+  0.11	1	1	S	1282	                  Staphylococcus epidermidis
+  0.11	1	0	F	186820	              Listeriaceae
+  0.11	1	0	G	2755	                Brochothrix
+  0.11	1	1	S	2756	                  Brochothrix thermosphacta
+  0.11	1	0	C	186801	          Clostridia
+  0.11	1	0	O	186802	            Eubacteriales
+  0.11	1	0	F	31979	              Clostridiaceae
+  0.11	1	0	G	1485	                Clostridium
+  0.11	1	1	S	1491	                  Clostridium botulinum
+  0.11	1	0	D2	1798711	        Cyanobacteriota/Melainabacteria group
+  0.11	1	0	P	1117	          Cyanobacteriota
+  0.11	1	0	C	3028117	            Cyanophyceae
+  0.11	1	0	O	1890424	              Synechococcales
+  0.11	1	0	F	1890426	                Synechococcaceae
+  0.11	1	0	G	1129	                  Synechococcus
+  0.11	1	0	G1	2626047	                    unclassified Synechococcus
+  0.11	1	1	S	221341	                      Synechococcus sp. Minos11
+  0.22	2	0	D1	1783270	      FCB group
+  0.22	2	0	D2	68336	        Bacteroidetes/Chlorobi group
+  0.22	2	0	P	976	          Bacteroidota
+  0.11	1	0	C	117743	            Flavobacteriia
+  0.11	1	0	O	200644	              Flavobacteriales
+  0.11	1	0	F	2762318	                Weeksellaceae
+  0.11	1	0	F1	2782232	                  Chryseobacterium group
+  0.11	1	0	G	2782229	                    Epilithonimonas
+  0.11	1	1	S	2487072	                      Epilithonimonas vandammei
+  0.11	1	0	C	200643	            Bacteroidia
+  0.11	1	0	O	171549	              Bacteroidales
+  0.11	1	0	F	2005525	                Tannerellaceae
+  0.11	1	0	G	375288	                  Parabacteroides
+  0.11	1	0	S	823	                    Parabacteroides distasonis
+  0.11	1	1	S1	435591	                      Parabacteroides distasonis ATCC 8503

@@ -1,0 +1,1006 @@
+tax	1	10	11	12	13	14	15	16	17	18	19	2	20	3	4	5	6	7	8	9	total
+Unclassified;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown	827	23624	2046	45	328	364	10	1259	2274	1936	5842	305	105	10094	5694	1339	406	1881	15806	157	74342
+Eukaryota;Metazoa;Chordata;Mammalia;Primates;Hominidae;Homo;Homo sapiens	65	13513	682	4	87	38	39	91	115	1100	910	36	69	748	629	668	306	553	1442	136	21231
+Eukaryota;Eukaryota_Incertae_sedis;Apicomplexa;Aconoidasida;Piroplasmida;Babesiidae;Babesia;Babesia bigemina	0	8476	416	0	4	6	0	8	2	307	317	20	0	1145	96	0	0	292	182	0	11271
+Bacteria;Bacteria_none;Bacillota;Clostridia;Eubacteriales;Clostridiaceae;Clostridium;Clostridium botulinum	1	4460	578	0	1	4	12	6	1	139	375	14	0	1272	47	0	2	134	186	0	7232
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus paralicheniformis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	342	0	0	0	0	342
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus cereus	0	2	0	0	0	0	0	0	0	0	20	0	0	156	0	0	0	2	0	0	180
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli	0	18	0	0	0	0	0	0	2	0	0	0	0	26	0	0	1	0	30	0	77
+Bacteria;Bacteria_none;Pseudomonadota;Betaproteobacteria;Neisseriales;Neisseriaceae;Wielerella;Wielerella bovis	6	0	0	0	0	0	0	0	14	0	3	1	0	1	36	0	0	0	0	0	61
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus agnetis	0	24	12	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	1	39
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Propionibacteriales;Propionibacteriaceae;Cutibacterium;Cutibacterium acnes	0	1	1	0	0	0	1	0	0	7	4	0	6	1	8	2	1	0	1	4	37
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus aureus	0	18	0	0	0	0	0	0	0	0	0	0	4	0	2	0	3	0	0	1	28
+Eukaryota;Fungi;Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Naumovozyma;Naumovozyma dairenensis	0	4	0	0	0	0	0	1	0	0	0	0	0	0	1	17	0	1	3	0	27
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia marmotae	5	8	0	0	0	0	0	0	0	1	0	0	0	6	0	0	1	2	0	0	23
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Mycobacteriales;Corynebacteriaceae;Corynebacterium;Corynebacterium urogenitale	0	2	0	0	0	0	0	0	0	0	0	0	4	0	16	0	0	0	0	0	22
+Bacteria;Bacteria_none;Bacillota;Clostridia;Eubacteriales;Clostridiaceae;Clostridium;Clostridium sporogenes	0	3	0	0	0	0	17	0	0	0	0	0	0	1	0	0	0	0	0	0	21
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus chromogenes	0	15	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0	0	18
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus licheniformis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	17	0	0	0	0	17
+Eukaryota;Eukaryota_Incertae_sedis;Apicomplexa;Aconoidasida;Haemosporida;Plasmodiidae;Plasmodium;Plasmodium relictum	0	2	0	0	0	0	0	0	5	0	3	1	0	1	4	0	0	0	0	0	16
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus epidermidis	1	1	0	0	0	0	0	0	0	0	0	0	0	0	4	3	3	0	2	2	16
+Eukaryota;Fungi;Basidiomycota;Malasseziomycetes;Malasseziales;Malasseziaceae;Malassezia;Malassezia restricta	0	0	3	0	0	0	0	0	0	1	0	0	1	0	0	1	7	2	0	0	15
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Salmonella;Salmonella enterica	0	1	0	0	1	0	0	0	0	0	2	0	0	5	0	1	0	0	2	0	12
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Mycobacteriales;Corynebacteriaceae;Corynebacterium;Corynebacterium glaucum	0	6	0	0	0	0	0	0	0	0	0	0	0	0	4	1	0	0	0	0	11
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus subtilis	0	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	10
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Rickettsiales;Candidatus Midichloriaceae;Candidatus Midichloria;Candidatus Midichloria mitochondrii	0	1	0	0	0	0	0	4	0	0	0	0	0	0	4	0	0	0	0	0	9
+Bacteria;Bacteria_none;Bacillota;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus crispatus	0	6	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	9
+Eukaryota;Fungi;Ascomycota;Sordariomycetes;Glomerellales;Glomerellaceae;Colletotrichum;Colletotrichum lupini	0	2	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	6	0	9
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Macrococcus;Macrococcus brunensis	0	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio;Vibrio anguillarum	1	0	0	0	0	0	0	1	3	0	0	1	0	0	2	0	0	0	0	0	8
+Bacteria;Bacteria_none;Bacillota;Bacilli;Lactobacillales;Lactobacillaceae;Limosilactobacillus;Limosilactobacillus panis	0	5	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	7
+Eukaryota;Eukaryota_Incertae_sedis;Apicomplexa;Aconoidasida;Haemosporida;Plasmodiidae;Plasmodium;Plasmodium malariae	0	6	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	7
+Bacteria;Bacteria_none;Cyanobacteriota;Cyanophyceae;Nostocales;Calotrichaceae;Calothrix;Calothrix brevissima	0	6	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	7
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Mycobacteriales;Corynebacteriaceae;Corynebacterium;Corynebacterium amycolatum	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6
+Eukaryota;Fungi;Basidiomycota;Pucciniomycetes;Pucciniales;Pucciniaceae;Puccinia;Puccinia striiformis	0	3	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	6
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Aeromonadales;Aeromonadaceae;Dongshaea;Dongshaea marina	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	5
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Mycobacteriales;Corynebacteriaceae;Corynebacterium;Corynebacterium sanguinis	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	5
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Moraxellales;Moraxellaceae;Moraxella;Moraxella osloensis	1	1	0	0	0	0	0	0	0	0	2	0	0	0	0	1	0	0	0	0	5
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp. GCEP-101	0	0	0	0	0	0	0	0	0	4	0	0	0	0	1	0	0	0	0	0	5
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Mycobacteriales;Corynebacteriaceae;Corynebacterium;Corynebacterium pseudogenitalium	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	5
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus safensis	0	1	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	5
+Eukaryota;Eukaryota_Incertae_sedis;Euglenozoa;Kinetoplastea;Trypanosomatida;Trypanosomatidae;Trypanosoma;Trypanosoma brucei	0	4	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	5
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus hominis	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	5
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Thiotrichales;Francisellaceae;Francisella;Francisella persica	0	2	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	1	0	5
+Bacteria;Bacteria_none;Bacillota;Tissierellia;Tissierellales;Peptoniphilaceae;Finegoldia;Finegoldia magna	0	0	0	0	0	0	0	0	0	1	4	0	0	0	0	0	0	0	0	0	5
+Eukaryota;Eukaryota_Incertae_sedis;Apicomplexa;Conoidasida;Eucoccidiorida;Sarcocystidae;Toxoplasma;Toxoplasma gondii	0	0	0	0	0	0	0	0	1	0	1	1	0	0	0	0	0	0	1	0	4
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Buchnera;Buchnera aphidicola	0	3	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	4
+Eukaryota;Eukaryota_Incertae_sedis;Euglenozoa;Kinetoplastea;Trypanosomatida;Trypanosomatidae;Leishmania;Leishmania mexicana	0	2	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	4
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Planococcaceae;Solibacillus;Solibacillus silvestris	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	2	0	0	0	0	4
+Bacteria;Bacteria_none;Bacillota;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;Streptococcus suis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	4
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus capitis	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	2	0	0	0	0	4
+Bacteria;Bacteria_none;Bacillota;Bacilli;Lactobacillales;Carnobacteriaceae;Granulicatella;Granulicatella elegans	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	3	0	0	0	4
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Oceanospirillales;Halomonadaceae;Halomonas;Halomonas sp. 3H	0	2	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	4
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Micrococcales;Ornithinimicrobiaceae;Ornithinimicrobium;Ornithinimicrobium ciconiae	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4
+Eukaryota;Eukaryota_Incertae_sedis;Apicomplexa;Aconoidasida;Haemosporida;Plasmodiidae;Plasmodium;Plasmodium gaboni	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Sphingomonadales;Erythrobacteraceae;Erythrobacter;Erythrobacter sp. 3-20A1M	1	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	1	0	4
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus sp. NRL 22/194	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4
+Bacteria;Bacteria_none;Fusobacteriota;Fusobacteriia;Fusobacteriales;Fusobacteriaceae;Fusobacterium;Fusobacterium nucleatum	0	1	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	4
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces sp. HUAS 15-9	0	2	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	4
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Moraxellales;Moraxellaceae;Moraxella;Moraxella sp. FZFQ2102	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4
+Bacteria;Bacteria_none;Bacteroidota;Bacteroidia;Bacteroidales;Tannerellaceae;Parabacteroides;Parabacteroides faecis	0	2	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	4
+Bacteria;Bacteria_none;Bacillota;Clostridia;Eubacteriales;Peptostreptococcaceae;Romboutsia;Romboutsia hominis	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	1	0	0	4
+Eukaryota;Fungi;Ascomycota;Sordariomycetes;Hypocreales;Nectriaceae;Fusarium;Fusarium graminearum	0	2	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	3
+Eukaryota;Fungi;Ascomycota;Sordariomycetes;Magnaporthales;Pyriculariaceae;Pyricularia;Pyricularia oryzae	0	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	3
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus equorum	0	1	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	3
+Archaea;Archaea_none;Euryarchaeota;Thermococci;Thermococcales;Thermococcaceae;Thermococcus;Thermococcus sp. 2319x1	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+Bacteria;Bacteria_none;Bacteroidota;Chitinophagia;Chitinophagales;Chitinophagaceae;Lacibacter;Lacibacter sp. S13-6-22	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus petrasii	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Mycobacteriales;Mycobacteriaceae;Mycolicibacterium;Mycolicibacterium neoaurum	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	1	0	0	3
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Xanthomonas;Xanthomonas campestris	0	2	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	3
+Eukaryota;Fungi;Ascomycota;Sordariomycetes;Hypocreales;Nectriaceae;Fusarium;Fusarium musae	0	2	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	3
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Rhizobium;Rhizobium leguminosarum	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Raoultella;Raoultella ornithinolytica	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus cohnii	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Mycobacteriales;Corynebacteriaceae;Corynebacterium;Corynebacterium yudongzhengii	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	3
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Actinomycetales;Actinomycetaceae;Actinomyces;Actinomyces sp. 432	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	3
+Bacteria;Bacteria_none;Spirochaetota;Spirochaetia;Leptospirales;Leptospiraceae;Leptospira;Leptospira kirschneri	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Mycobacteriales;Corynebacteriaceae;Corynebacterium;Corynebacterium striatum	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	3
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Mycobacteriales;Corynebacteriaceae;Corynebacterium;Corynebacterium pseudotuberculosis	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+Bacteria;Bacteria_none;Bacillota;Bacilli;Lactobacillales;Enterococcaceae;Enterococcus;Enterococcus casseliflavus	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	3
+Bacteria;Bacteria_none;Bacillota;Bacilli;Lactobacillales;Enterococcaceae;Enterococcus;Enterococcus faecalis	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+Bacteria;Bacteria_none;Bacillota;Bacilli;Lactobacillales;Enterococcaceae;Enterococcus;Enterococcus faecium	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Mycobacteriales;Corynebacteriaceae;Corynebacterium;Corynebacterium lactis	0	0	0	0	0	0	0	0	0	0	0	0	1	0	2	0	0	0	0	0	3
+Eukaryota;Fungi;Ascomycota;Saccharomycetes;Saccharomycetales;Dipodascaceae;Yarrowia;Yarrowia lipolytica	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	3
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio;Vibrio parahaemolyticus	0	1	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	3
+Eukaryota;Fungi;Basidiomycota;Agaricomycetes;Agaricales;Strophariaceae;Psilocybe;Psilocybe cubensis	0	2	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	3
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Alteromonadales;Ferrimonadaceae;Ferrimonas;Ferrimonas sp. SCSIO 43195	1	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	3
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas fluorescens	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	1	0	0	3
+Bacteria;Bacteria_none;Pseudomonadota;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Polynucleobacter;Polynucleobacter necessarius	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	3
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas libanensis	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	2	0	3
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas brassicacearum	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+Bacteria;Bacteria_none;Bacteroidota;Bacteroidia;Bacteroidales;Tannerellaceae;Parabacteroides;Parabacteroides distasonis	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+Bacteria;Bacteria_none;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Elizabethkingia;Elizabethkingia sp. M8	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Bacillaceae;Peribacillus;Peribacillus frigoritolerans	0	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	3
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Pasteurellales;Pasteurellaceae;Haemophilus;Haemophilus parainfluenzae	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus mycoides	0	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Jeotgalicoccus;Jeotgalicoccus saudimassiliensis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	3
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Nitrobacteraceae;Bradyrhizobium;Bradyrhizobium japonicum	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus anthracis	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	3
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus altitudinis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	3
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Bacillaceae;Alkalihalobacillus;Alkalihalobacillus clausii	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	3
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Oceanospirillales;Saccharospirillaceae;Gynuella;Gynuella sunshinyii	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	1	0	3
+Eukaryota;Fungi;Basidiomycota;Tremellomycetes;Tremellales;Cryptococcaceae;Cryptococcus;Cryptococcus neoformans	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	3
+Bacteria;Bacteria_none;Cyanobacteriota;Cyanophyceae;Chroococcales;Microcystaceae;Microcystis;Microcystis aeruginosa	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+Bacteria;Bacteria_none;Bacillota;Tissierellia;Tissierellia_Incertae_sedis;Tissierellia_Incertae_sedis_Incertae_sedis;Sedimentibacter;Sedimentibacter sp. zth1	0	2	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	3
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Moraxellales;Moraxellaceae;Acinetobacter;Acinetobacter haemolyticus	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+Eukaryota;Fungi;Ascomycota;Sordariomycetes;Hypocreales;Clavicipitaceae;Ustilaginoidea;Ustilaginoidea virens	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	2	0	3
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Enterobacter;Enterobacter bugandensis	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+Bacteria;Bacteria_none;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;Flavobacterium nackdongense	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+Eukaryota;Eukaryota_Incertae_sedis;Apicomplexa;Aconoidasida;Haemosporida;Plasmodiidae;Plasmodium;Plasmodium sp. gorilla clade G2	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces buecherae	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	3
+Eukaryota;Fungi;Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Aspergillus;Aspergillus fumigatus	0	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	3
+Eukaryota;Eukaryota_Incertae_sedis;Parabasalia;Parabasalia_Incertae_sedis;Trichomonadida;Trichomonadidae;Trichomonas;Trichomonas vaginalis	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Legionellales;Legionellaceae;Legionella;Legionella pneumophila	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Morganellaceae;Providencia;Providencia sp. R33	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Rhodobacterales;Roseobacteraceae;Jannaschia;Jannaschia sp. M317	0	1	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	3
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Mycobacteriales;Corynebacteriaceae;Corynebacterium;Corynebacterium camporealensis	0	0	0	0	0	0	0	0	0	0	0	1	0	0	2	0	0	0	0	0	3
+Eukaryota;Fungi;Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Penicillium;Penicillium oxalicum	0	1	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	3
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Micrococcales;Micrococcaceae;Paenarthrobacter;Paenarthrobacter aurescens	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	3
+Bacteria;Bacteria_none;Bacteroidota;Bacteroidia;Marinilabiliales;Prolixibacteraceae;Maribellus;Maribellus comscasis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	2
+Bacteria;Bacteria_none;Pseudomonadota;Epsilonproteobacteria;Campylobacterales;Arcobacteraceae;Halarcobacter;Halarcobacter anaerophilus	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriales_Incertae_sedis;Candidatus Karelsulcia;Candidatus Karelsulcia muelleri	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Pseudomonadota;Epsilonproteobacteria;Campylobacterales;Arcobacteraceae;Arcobacter;Arcobacter aquimarinus	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	2
+Bacteria;Bacteria_none;Bacillota;Clostridia;Eubacteriales;Clostridiaceae;Clostridium;Clostridium beijerinckii	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Pseudomonadota;Betaproteobacteria;Burkholderiales;Comamonadaceae;Variovorax;Variovorax sp. HW608	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Bacillota;Clostridia;Eubacteriales;Lachnospiraceae;Enterocloster;Enterocloster bolteae	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus sophorae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	2
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Pantoea;Pantoea vagans	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Capnocytophaga;Capnocytophaga endodontalis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	2
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus sp. FSL H7-0357	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Alteromonadales;Pseudoalteromonadaceae;Pseudoalteromonas;Pseudoalteromonas spongiae	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Oceanospirillales;Oceanospirillaceae;Marinomonas;Marinomonas posidonica	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	2
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Oceanospirillales;Oceanospirillaceae;Bacterioplanoides;Bacterioplanoides sp. SCSIO 12839	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	2
+Bacteria;Bacteria_none;Pseudomonadota;Betaproteobacteria;Burkholderiales;Comamonadaceae;Variovorax;Variovorax sp. RA8	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus urinalis	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Bacteroidota;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides sp. CACC 737	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Bacillota;Clostridia;Eubacteriales;Clostridiaceae;Sarcina;Sarcina sp. JB2	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Bacillota;Clostridia;Eubacteriales;Peptostreptococcaceae;Clostridioides;Clostridioides difficile	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium arthrosphaerae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	2
+Bacteria;Bacteria_none;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium sp. ZHDP1	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Bacillota;Clostridia;Eubacteriales;Clostridiaceae;Paraclostridium;Paraclostridium bifermentans	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	2
+Bacteria;Bacteria_none;Bacillota;Clostridia;Eubacteriales;Clostridiaceae;Clostridium;Clostridium saccharobutylicum	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Bacillota;Clostridia;Eubacteriales;Clostridiaceae;Clostridium;Clostridium perfringens	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Bacteroidota;Flavobacteriia;Flavobacteriales;Crocinitomicaceae;Paracrocinitomix;Paracrocinitomix mangrovi	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Epilithonimonas;Epilithonimonas vandammei	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Bacillota;Clostridia;Eubacteriales;Clostridiaceae;Clostridium;Clostridium felsineum	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Pseudomonadota;Betaproteobacteria;Burkholderiales;Comamonadaceae;Acidovorax;Acidovorax citrulli	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Marinobacteraceae;Marinobacter;Marinobacter sp. JH2	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Bacteroidota;Bacteroidia;Bacteroidales;Prevotellaceae;Prevotella;Prevotella herbatica	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	2
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Morganellaceae;Proteus;Proteus mirabilis	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Bacillaceae;Sediminibacillus;Sediminibacillus dalangtanensis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	2
+Bacteria;Bacteria_none;Bacteroidota;Bacteroidia;Bacteroidales;Prevotellaceae;Prevotella;Prevotella dentalis	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Pasteurellales;Pasteurellaceae;Pasteurella;Pasteurella multocida	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Pseudomonadota;Betaproteobacteria;Burkholderiales;Comamonadaceae;Comamonas;Comamonas odontotermitis	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Bacillales_Incertae_sedis;Gemella;Gemella sp. zg-570	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Pantoea;Pantoea agglomerans	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2
+Bacteria;Bacteria_none;Pseudomonadota;Betaproteobacteria;Burkholderiales;Comamonadaceae;Rhodoferax;Rhodoferax sp. MIZ03	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Alteromonadales;Pseudoalteromonadaceae;Pseudoalteromonas;Pseudoalteromonas issachenkonii	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Bacillota;Clostridia;Eubacteriales;Lachnospiraceae;Lachnoclostridium;Lachnoclostridium phytofermentans	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	2
+Bacteria;Bacteria_none;Bacillota;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;Streptococcus parauberis	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Macrococcus;Macrococcus armenti	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	2
+Bacteria;Bacteria_none;Bacillota;Clostridia;Halanaerobiales;Halanaerobiales_Incertae_sedis;Anoxybacter;Anoxybacter fermentans	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	2
+Bacteria;Bacteria_none;Pseudomonadota;Betaproteobacteria;Neisseriales;Chromobacteriaceae;Paludibacterium;Paludibacterium yongneupense	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Bacillota;Clostridia;Thermoanaerobacterales;Thermoanaerobacterales Family III. Incertae Sedis;Thermoanaerobacterium;Thermoanaerobacterium thermosaccharolyticum	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Pseudomonadota;Epsilonproteobacteria;Campylobacterales;Campylobacteraceae;Campylobacter;Campylobacter gracilis	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Dokdonia;Dokdonia donghaensis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	2
+Bacteria;Bacteria_none;Pseudomonadota;Betaproteobacteria;Neisseriales;Neisseriaceae;Alysiella;Alysiella filiformis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	2
+Bacteria;Bacteria_none;Pseudomonadota;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria;Neisseria animaloris	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;Flavobacterium commune	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Bacillota;Clostridia;Eubacteriales;Lachnospiraceae;Roseburia;Roseburia hominis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	2
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Aeromonadales;Aeromonadaceae;Aeromonas;Aeromonas salmonicida	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Moraxellales;Moraxellaceae;Moraxella;Moraxella bovis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	2
+Bacteria;Bacteria_none;Bacillota;Bacilli;Lactobacillales;Lactobacillaceae;Limosilactobacillus;Limosilactobacillus fermentum	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	2
+Bacteria;Bacteria_none;Bacillota;Clostridia;Eubacteriales;Proteinivoraceae;Alkalicella;Alkalicella caledoniensis	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Bacillota;Bacilli;Lactobacillales;Enterococcaceae;Enterococcus;Enterococcus durans	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas cavernae	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Bacillota;Clostridia;Eubacteriales;Peptostreptococcaceae;Romboutsia;Romboutsia ilealis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	2
+Bacteria;Bacteria_none;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;Flavobacterium sp. N502536	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;Flavobacterium sp. MMS21-Er5	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Methylococcales;Methylococcaceae;Methylobacter;Methylobacter sp. S3L5C	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	2
+Bacteria;Bacteria_none;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Mariniflexile;Mariniflexile sp. TRM1-10	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Pectobacteriaceae;Pectobacterium;Pectobacterium sp. A5351	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	2
+Bacteria;Bacteria_none;Bacteroidota;Chitinophagia;Chitinophagales;Chitinophagaceae;Chitinophaga;Chitinophaga caeni	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Bacillota;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;Streptococcus mitis	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	2
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Mammaliicoccus;Mammaliicoccus sciuri	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	2
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Methylococcales;Methylococcaceae;Methylocaldum;Methylocaldum marinum	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Bacillota;Tissierellia;Tissierellales;Peptoniphilaceae;Peptoniphilus;Peptoniphilus harei	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	2
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Alteromonadales;Shewanellaceae;Shewanella;Shewanella aestuarii	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Bacillota;Tissierellia;Tissierellales;Peptoniphilaceae;Anaerococcus;Anaerococcus obesiensis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	2
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Morganellaceae;Proteus;Proteus vulgaris	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Bacillota;Tissierellia;Tissierellales;Gottschalkiaceae;Gottschalkia;Gottschalkia acidurici	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Bacillota;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;Streptococcus oralis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	2
+Bacteria;Bacteria_none;Pseudomonadota;Epsilonproteobacteria;Campylobacterales;Campylobacteraceae;Campylobacter;Campylobacter fetus	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Bacillota;Clostridia;Eubacteriales;Lachnospiraceae;Lachnospira;Lachnospira eligens	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Morganellaceae;Providencia;Providencia alcalifaciens	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus pseudintermedius	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Nevskiales;Sinobacteraceae;Flagellatimonas;Flagellatimonas centrodinii	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Polaribacter;Polaribacter sp. Q13	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Pectobacteriaceae;Pectobacterium;Pectobacterium cacticida	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	2
+Bacteria;Bacteria_none;Pseudomonadota;Betaproteobacteria;Neisseriales;Chromobacteriaceae;Chitiniphilus;Chitiniphilus sp. CD1	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Alteromonadales;Shewanellaceae;Shewanella;Shewanella polaris	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus simulans	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	2
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Bacillaceae;Oceanobacillus;Oceanobacillus kimchii	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Viruses;Viruses_Incertae_sedis;Viruses_Incertae_sedis_Incertae_sedis;Viruses_Incertae_sedis_Incertae_sedis_Incertae_sedis;Viruses_Incertae_sedis_Incertae_sedis_Incertae_sedis_Incertae_sedis;Polydnaviriformidae;Bracoviriform;Bracoviriform indiense	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Bartonellaceae;Bartonella;Bartonella vinsonii	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Eukaryota;Eukaryota_Incertae_sedis;Apicomplexa;Aconoidasida;Piroplasmida;Theileriidae;Theileria;Theileria annulata	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	2
+Eukaryota;Eukaryota_Incertae_sedis;Euglenozoa;Kinetoplastea;Trypanosomatida;Trypanosomatidae;Leishmania;Leishmania panamensis	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Deinococcota;Deinococci;Deinococcales;Deinococcaceae;Deinococcus;Deinococcus wulumuqiensis	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Planctomycetota;Planctomycetia;Planctomycetales;Planctomycetaceae;Planctomyces;Planctomyces sp. SH-PL14	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	2
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces sp. 2114.2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	2
+Bacteria;Bacteria_none;Cyanobacteriota;Cyanophyceae;Synechococcales;Prochlorococcaceae;Prochlorococcus;Prochlorococcus marinus	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Micromonosporales;Micromonosporaceae;Actinoplanes;Actinoplanes derwentensis	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	2
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Frateuria;Frateuria aurantia	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Mycobacteriales;Nocardiaceae;Rhodococcus;Rhodococcus globerulus	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio;Vibrio splendidus	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Micrococcales;Micrococcaceae;Kocuria;Kocuria palustris	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	2
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Propionibacteriales;Nocardioidaceae;Nocardioides;Nocardioides humi	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Actinomycetales;Actinomycetaceae;Actinomyces;Actinomyces sp. oral taxon 414	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Actinomycetales;Actinomycetaceae;Actinomyces;Actinomyces howellii	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Pseudomonadota;Betaproteobacteria;Betaproteobacteria_Incertae_sedis;Betaproteobacteria_Incertae_sedis_Incertae_sedis;Candidatus Kinetoplastibacterium;Candidatus Kinetoplastibacterium sorsogonicusi	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Micrococcales;Micrococcaceae;Arthrobacter;Arthrobacter sp. MMS18-M83	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	2
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Xanthomonas;Xanthomonas citri	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	2
+Bacteria;Bacteria_none;Mycoplasmatota;Mollicutes;Mycoplasmatales;Mycoplasmataceae;Mycoplasmopsis;Mycoplasmopsis bovirhinis	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Eukaryota;Eukaryota_Incertae_sedis;Apicomplexa;Aconoidasida;Haemosporida;Plasmodiidae;Plasmodium;Plasmodium berghei	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Mycobacteriales;Corynebacteriaceae;Corynebacterium;Corynebacterium mycetoides	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	2
+Bacteria;Bacteria_none;Mycoplasmatota;Mollicutes;Mycoplasmatales;Mycoplasmataceae;Mycoplasma;Mycoplasma sp. OR1901	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Eukaryota;Fungi;Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Eremothecium;Eremothecium sinecaudum	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Mycoplasmatota;Mollicutes;Mycoplasmatales;Mycoplasmataceae;Mycoplasma;Mycoplasma parvum	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	2
+Eukaryota;Fungi;Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Nakaseomyces;Nakaseomyces glabratus	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Rickettsiales;Anaplasmataceae;Ehrlichia;Ehrlichia ruminantium	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Mycobacteriales;Corynebacteriaceae;Corynebacterium;Corynebacterium minutissimum	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	2
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Mycobacteriales;Corynebacteriaceae;Corynebacterium;Corynebacterium argentoratense	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	2
+Bacteria;Bacteria_none;Fusobacteriota;Fusobacteriia;Fusobacteriales;Fusobacteriaceae;Fusobacterium;Fusobacterium ulcerans	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Mycobacteriales;Corynebacteriaceae;Corynebacterium;Corynebacterium timonense	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	2
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces ambofaciens	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Verrucomicrobiota;Verrucomicrobiae;Verrucomicrobiales;Verrucomicrobiaceae;Sulfuriroseicoccus;Sulfuriroseicoccus oceanibius	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Mycobacteriales;Gordoniaceae;Gordonia;Gordonia polyisoprenivorans	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Mycobacteriales;Lawsonellaceae;Lawsonella;Lawsonella clevelandensis	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	2
+Eukaryota;Fungi;Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Ogataea;Ogataea parapolymorpha	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Pseudomonadota;Betaproteobacteria;Burkholderiales;Alcaligenaceae;Achromobacter;Achromobacter sp. MFA1 R4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	2
+Eukaryota;Fungi;Ascomycota;Sordariomycetes;Hypocreales;Clavicipitaceae;Pochonia;Pochonia chlamydosporia	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	2
+Eukaryota;Fungi;Ascomycota;Sordariomycetes;Hypocreales;Ophiocordycipitaceae;Drechmeria;Drechmeria coniospora	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus dafuensis	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus pumilus	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	2
+Bacteria;Bacteria_none;Pseudomonadota;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia;Burkholderia sp. FERM BP-3421	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Eukaryota;Fungi;Ascomycota;Leotiomycetes;Helotiales;Sclerotiniaceae;Botrytis;Botrytis cinerea	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp. MYb193	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus sp. MBGLi79	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	2
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp. GOM7	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	2
+Eukaryota;Fungi;Basidiomycota;Tremellomycetes;Tremellales;Cryptococcaceae;Cryptococcus;Cryptococcus gattii VGI	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Eukaryota;Fungi;Basidiomycota;Ustilaginomycetes;Ustilaginales;Ustilaginaceae;Sporisorium;Sporisorium graminicola	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp. B21-054	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	2
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Nitrobacteraceae;Bradyrhizobium;Bradyrhizobium sp.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	2
+Eukaryota;Fungi;Ascomycota;Dothideomycetes;Mycosphaerellales;Mycosphaerellaceae;Fulvia;Fulvia fulva	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Bacillaceae;Cytobacillus;Cytobacillus oceanisediminis	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Phyllobacteriaceae;Mesorhizobium;Mesorhizobium sp. AR10	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Rhodobacterales;Roseobacteraceae;Loktanella;Loktanella salsilacus	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	2
+Bacteria;Bacteria_none;Bacteroidota;Sphingobacteriia;Sphingobacteriales;Sphingobacteriaceae;Pedobacter;Pedobacter ginsengisoli	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Pseudomonadota;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia;Burkholderia pseudomallei	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Micrococcales;Microbacteriaceae;Microbacterium;Microbacterium sp. SSW1-51	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Archaea;Archaea_none;Euryarchaeota;Methanobacteria;Methanobacteriales;Methanobacteriaceae;Methanothermobacter;Methanothermobacter marburgensis	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Eukaryota;Fungi;Ascomycota;Sordariomycetes;Sordariales;Chaetomiaceae;Thermothielavioides;Thermothielavioides terrestris	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	2
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Vibrionales;Vibrionaceae;Photobacterium;Photobacterium damselae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	2
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Vibrionales;Vibrionaceae;Aliivibrio;Aliivibrio fischeri	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces tsukubensis	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	2
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Streptosporangiales;Thermomonosporaceae;Actinomadura;Actinomadura madurae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	2
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Rhizobium;Rhizobium acidisoli	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	2
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp. S35	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	2
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Caulobacterales;Caulobacteraceae;Brevundimonas;Brevundimonas sp. NIBR11	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Archaea;Archaea_none;Euryarchaeota;Methanomicrobia;Methanomicrobiales;Methanomicrobiaceae;Methanoplanus;Methanoplanus endosymbiosus	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	2
+Bacteria;Bacteria_none;Pseudomonadota;Epsilonproteobacteria;Campylobacterales;Arcobacteraceae;Arcobacter;Arcobacter ellisii	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Rhodobacterales;Paracoccaceae;Parasedimentitalea;Parasedimentitalea marina	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Deltaproteobacteria;Myxococcales;Polyangiaceae;Polyangium;Polyangium aurulentum	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Rhodobacterales;Paracoccaceae;Thioclava;Thioclava electrotropha	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Epsilonproteobacteria;Campylobacterales;Arcobacteraceae;Aliarcobacter;Aliarcobacter lanthieri	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Rhodobacterales;Paracoccaceae;Cognatishimia;Cognatishimia activa	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Rhodobacterales;Paracoccaceae;Roseicitreum;Roseicitreum antarcticum	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Deltaproteobacteria;Myxococcales;Nannocystaceae;Nannocystis;Nannocystis sp. fl3	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Epsilonproteobacteria;Campylobacterales;Campylobacteraceae;Campylobacter;Campylobacter coli	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Deltaproteobacteria;Myxococcales;Polyangiaceae;Sorangium;Sorangium cellulosum	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Rhodobacterales;Paracoccaceae;Frigidibacter;Frigidibacter mobilis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Rhodobacterales;Paracoccaceae;Paracoccus;Paracoccus sanguinis	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Rhodobacterales;Paracoccaceae;Cereibacter;Cereibacter sphaeroides	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Deltaproteobacteria;Myxococcales;Sandaracinaceae;Sandaracinus;Sandaracinus amylolyticus	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Rhodobacterales;Paracoccaceae;Pacificitalea;Pacificitalea manganoxidans	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Ralstonia;Ralstonia solanacearum	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Epsilonproteobacteria;Campylobacterales;Campylobacteraceae;Campylobacter;Campylobacter concisus	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Rhizobium;Rhizobium phaseoli	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Alteromonadales;Alteromonadaceae;Paraglaciecola;Paraglaciecola mesophila	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Phyllobacteriaceae;Mesorhizobium;Mesorhizobium sp. B2-1-8	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Phyllobacteriaceae;Mesorhizobium;Mesorhizobium sp. NZP2077	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Alteromonadales;Alteromonadaceae;Lacimicrobium;Lacimicrobium alkaliphilum	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Phyllobacteriaceae;Phyllobacterium;Phyllobacterium sp. T1293	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Alteromonadales;Alteromonadaceae;Alteromonas;Alteromonas sp. LMIT006	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Ensifer;Ensifer sp. PDNC004	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Neorhizobium;Neorhizobium galegae	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Neorhizobium;Neorhizobium sp. SOG26	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Alteromonadales;Alteromonadaceae;Alteromonas;Alteromonas macleodii	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Alteromonadales;Alteromonadaceae;Alkalimarinus;Alkalimarinus sp. A2M4	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Rhizobium;Rhizobium jaguaris	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Aeromonadales;Succinivibrionaceae;Succinivibrio;Succinivibrio dextrinosolvens	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Aeromonadales;Aeromonadaceae;Zobellella;Zobellella denitrificans	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Aeromonadales;Aeromonadaceae;Aeromonas;Aeromonas dhakensis	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Rhodobacterales;Paracoccaceae;Aliiroseovarius;Aliiroseovarius crassostreae	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Rhizobium;Rhizobium sp. AB2/73	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Shinella;Shinella sp. XGS7	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Stappiaceae;Pannonibacter;Pannonibacter phragmitetus	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Epsilonproteobacteria;Nautiliales;Nautiliaceae;Nautilia;Nautilia profundicola	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Epsilonproteobacteria;Campylobacterales;Thiovulaceae;Sulfurimonas;Sulfurimonas sp. H1576	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Epsilonproteobacteria;Campylobacterales;Thiovulaceae;Sulfurimonas;Sulfurimonas hydrogeniphila	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Epsilonproteobacteria;Campylobacterales;Sulfurovaceae;Sulfurovum;Sulfurovum sp. XGS-02	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Epsilonproteobacteria;Campylobacterales;Helicobacteraceae;Helicobacter;Helicobacter mustelae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Epsilonproteobacteria;Campylobacterales;Helicobacteraceae;Helicobacter;Helicobacter bilis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Epsilonproteobacteria;Campylobacterales;Campylobacteraceae;Campylobacter;Campylobacter lari	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Epsilonproteobacteria;Campylobacterales;Campylobacteraceae;Campylobacter;Campylobacter jejuni	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Hyphomonadales;Hyphomonadaceae;Hyphomonas;Hyphomonas sp. KY3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Pelagibacterales;Pelagibacteraceae;Candidatus Pelagibacter;Candidatus Pelagibacter sp. RS40	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Pelagibacterales;Pelagibacteraceae;Candidatus Pelagibacter;Candidatus Pelagibacter ubique	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Rhodobacterales;Roseobacteraceae;Leisingera;Leisingera methylohalidivorans	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Maridesulfovibrio;Maridesulfovibrio hydrothermalis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Deltaproteobacteria;Myxococcales;Myxococcaceae;Corallococcus;Corallococcus sp. EGB	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Deltaproteobacteria;Myxococcales;Kofleriaceae;Haliangium;Haliangium ochraceum	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Betaproteobacteria;Burkholderiales;Comamonadaceae;Variovorax;Variovorax sp. RKNM96	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Betaproteobacteria;Burkholderiales;Alcaligenaceae;Alcaligenes;Alcaligenes sp. SORT26	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Pseudoduganella;Pseudoduganella plicata	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Betaproteobacteria;Burkholderiales;Sphaerotilaceae;Ideonella;Ideonella dechloratans	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingosinithalassobacter;Sphingosinithalassobacter sp. CS137	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingopyxis;Sphingopyxis sp. MG	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingomonas;Sphingomonas sp. KC8	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingomonas;Sphingomonas psychrotolerans	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingomonas;Sphingomonas panacis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingomonas;Sphingomonas lacunae	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingomonas;Sphingomonas alpina	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Betaproteobacteria;Neisseriales;Chromobacteriaceae;Aquitalea;Aquitalea sp. USM4	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingobium;Sphingobium yanoikuyae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Betaproteobacteria;Neisseriales;Chromobacteriaceae;Chitinibacter;Chitinibacter fontanus	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Sphingomonadales;Erythrobacteraceae;Qipengyuania;Qipengyuania sediminis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Betaproteobacteria;Burkholderiales;Comamonadaceae;Variovorax;Variovorax sp. PBL-H6	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Betaproteobacteria;Burkholderiales;Alcaligenaceae;Bordetella;Bordetella genomosp. 8	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Betaproteobacteria;Burkholderiales;Alcaligenaceae;Pigmentiphaga;Pigmentiphaga aceris	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Betaproteobacteria;Burkholderiales;Comamonadaceae;Comamonas;Comamonas kerstersii	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Betaproteobacteria;Burkholderiales;Burkholderiales_Incertae_sedis;Aquabacterium;Aquabacterium sp. J223	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Paraburkholderia;Paraburkholderia dokdonella	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Paraburkholderia;Paraburkholderia caribensis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Betaproteobacteria;Burkholderiales;Burkholderiales_Incertae_sedis;Rhizobacter;Rhizobacter sp. AJA081-3	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Pandoraea;Pandoraea oxalativorans	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Mycoavidus;Mycoavidus sp. SF9855	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Cupriavidus;Cupriavidus sp. USMAHM13	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Betaproteobacteria;Burkholderiales;Comamonadaceae;Variovorax;Variovorax sp. PAMC28562	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Betaproteobacteria;Burkholderiales;Comamonadaceae;Delftia;Delftia acidovorans	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Betaproteobacteria;Burkholderiales;Comamonadaceae;Diaphorobacter;Diaphorobacter sp. HDW4A	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Betaproteobacteria;Burkholderiales;Comamonadaceae;Hydrogenophaga;Hydrogenophaga sp. NH-16	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Betaproteobacteria;Burkholderiales;Comamonadaceae;Variovorax;Variovorax paradoxus	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia;Burkholderia mayonis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Betaproteobacteria;Burkholderiales;Alcaligenaceae;Pusillimonas;Pusillimonas sp. DMV24BSW_D	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Sphingomonadales;Erythrobacteraceae;Erythrobacter;Erythrobacter sp. BLCC-B19	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Sphingomonadales;Erythrobacteraceae;Aurantiacibacter;Aurantiacibacter sp. MUD61	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Betaproteobacteria;Neisseriales;Chromobacteriaceae;Deefgea;Deefgea tanakiae	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Rhodospirillales;Acetobacteraceae;Acetobacter;Acetobacter persici	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Rhodospirillales;Acetobacteraceae;Rhodovastum;Rhodovastum atsumiense	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Polynucleobacter;Polynucleobacter paludilacus	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Oceanidesulfovibrio;Oceanidesulfovibrio marinus	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Deltaproteobacteria;Desulfuromonadales;Desulfuromonadaceae;Desulfuromonas;Desulfuromonas versatilis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Rhodospirillales;Acetobacteraceae;Novacetimonas;Novacetimonas hansenii	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Rhodospirillales;Acetobacteraceae;Lichenicola;Lichenicola cladoniae	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Rhodospirillales;Acetobacteraceae;Acetobacter;Acetobacter orientalis	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio;Desulfovibrio sulfodismutans	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Rhodobacterales;Roseobacteraceae;Thalassobius;Thalassobius gelatinovorus	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Deltaproteobacteria;Desulfuromonadales;Geobacteraceae;Geoalkalibacter;Geoalkalibacter halelectricus	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Deltaproteobacteria;Desulfuromonadales;Geobacteraceae;Geobacter;Geobacter benzoatilyticus	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Rhodobacterales;Roseobacteraceae;Sulfitobacter;Sulfitobacter mediterraneus	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Rhodobacterales;Roseobacteraceae;Salipiger;Salipiger sp. CCB-MM3	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Deltaproteobacteria;Myxococcales;Archangiaceae;Archangium;Archangium gephyra	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Lawsonia;Lawsonia intracellularis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Deltaproteobacteria;Bradymonadales;Bradymonadaceae;Bradymonas;Bradymonas sediminis	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Rickettsiales;Rickettsiales_Incertae_sedis;Rickettsiales_Incertae_sedis_Incertae_sedis;Rickettsiales endosymbiont of Stachyamoeba lipophora	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Rickettsiales;Anaplasmataceae;Neorickettsia;Neorickettsia findlayensis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Betaproteobacteria;Neisseriales;Chromobacteriaceae;Paludibacterium;Paludibacterium paludis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Rickettsiales;Rickettsiaceae;Rickettsia;Rickettsia slovaca	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Rickettsiales;Rickettsiaceae;Rickettsia;Rickettsia prowazekii	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Rickettsiales;Rickettsiaceae;Rickettsia;Rickettsia conorii	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria;Neisseria brasiliensis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Rickettsiales;Anaplasmataceae;Wolbachia;Wolbachia endosymbiont of Trichogramma pretiosum	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Magnetospirillum;Magnetospirillum sp. ME-1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Betaproteobacteria;Rhodocyclales;Zoogloeaceae;Parazoarcus;Parazoarcus communis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Betaproteobacteria;Nitrosomonadales;Methylophilaceae;Methylotenera;Methylotenera versatilis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Rhodospirillales;Geminicoccaceae;Tistrella;Tistrella mobilis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Rhodospirillales;Azospirillaceae;Niveispirillum;Niveispirillum cyanobacteriorum	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Betaproteobacteria;Nitrosomonadales;Sulfuricellaceae;Sulfurimicrobium;Sulfurimicrobium lacus	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Rhodospirillales;Acetobacteraceae;Sediminicoccus;Sediminicoccus rosea	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Betaproteobacteria;Rhodocyclales;Fluviibacteraceae;Fluviibacter;Fluviibacter phosphoraccumulans	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Paraburkholderia;Paraburkholderia graminis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Legionellales;Legionellaceae;Legionella;Legionella sainthelensi	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Alteromonadales;Alteromonadaceae;Salinimonas;Salinimonas sediminis	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Oligoflexia;Silvanigrellales;Silvanigrellaceae;Fluviispira;Fluviispira sanaruensis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Luteimonas;Luteimonas sp. JM171	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Lysobacter;Lysobacter enzymogenes	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Lysobacter;Lysobacter sp. KIS68-7	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Pseudoxanthomonas;Pseudoxanthomonas sp. JBR18	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Stenotrophomonas;Stenotrophomonas maltophilia	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Xanthomonas;Xanthomonas arboricola	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Xanthomonas;Xanthomonas euvesicatoria	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Xanthomonas;Xanthomonas phaseoli	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Oligoflexia;Bacteriovoracales;Halobacteriovoraceae;Halobacteriovorax;Halobacteriovorax sp. BALOs_7	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Spirochaetota;Spirochaetia;Brachyspirales;Brachyspiraceae;Brachyspira;Brachyspira hampsonii	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas lundensis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+Bacteria;Bacteria_none;Spirochaetota;Spirochaetia;Brachyspirales;Brachyspiraceae;Brachyspira;Brachyspira pilosicoli	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Spirochaetota;Spirochaetia;Brevinematales;Thermospiraceae;Thermospira;Thermospira aquatica	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+Bacteria;Bacteria_none;Spirochaetota;Spirochaetia;Leptospirales;Leptospiraceae;Leptospira;Leptospira sp. mild_001	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Spirochaetota;Spirochaetia;Spirochaetales;Borreliaceae;Borreliella;Borreliella garinii	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Spirochaetota;Spirochaetia;Spirochaetales;Sphaerochaetaceae;Sphaerochaeta;Sphaerochaeta associata	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Spirochaetota;Spirochaetia;Spirochaetales;Spirochaetaceae;Salinispira;Salinispira pacifica	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Bacteria;Bacteria_none;Spirochaetota;Spirochaetia;Spirochaetales;Treponemataceae;Brucepastera;Brucepastera parasyntrophica	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+Bacteria;Bacteria_none;Spirochaetota;Spirochaetia;Spirochaetales;Treponemataceae;Treponema;Treponema socranskii	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Thermodesulfobacteria;Thermodesulfobacteria;Thermodesulfobacteriales;Thermodesulfobacteriaceae;Thermodesulfatator;Thermodesulfatator indicus	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Luteibacter;Luteibacter sp. 321	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio;Vibrio sp. SCSIO 43132	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio;Vibrio rumoiensis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio;Vibrio palustris	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas nunensis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas phytophila	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas psychrotolerans	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp. BT-42-2	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp. Colony2	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp. N3-W	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp. NS1(2017)	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas trivialis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas yamanorum	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Thiotrichales;Francisellaceae;Francisella;Francisella philomiragia	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Thiotrichales;Francisellaceae;Francisella;Francisella sp. LA112445	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Thiotrichales;Piscirickettsiaceae;Methylophaga;Methylophaga nitratireducenticrescens	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Thiotrichales;Piscirickettsiaceae;Piscirickettsia;Piscirickettsia salmonis	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio;Vibrio alfacsensis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio;Vibrio atlanticus	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio;Vibrio cholerae	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio;Vibrio coralliilyticus	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio;Vibrio gallaecicus	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio;Vibrio mimicus	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Thermotogota;Thermotogae;Petrotogales;Petrotogaceae;Petrotoga;Petrotoga mobilis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+Bacteria;Bacteria_none;Thermotogota;Thermotogae;Thermotogales;Fervidobacteriaceae;Fervidobacterium;Fervidobacterium nodosum	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Verrucomicrobiota;Methylacidiphilae;Methylacidiphilales;Methylacidiphilaceae;Methylacidiphilum;Methylacidiphilum kamchatkense	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Eukaryota;Fungi;Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Lachancea;Lachancea thermotolerans	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Eukaryota;Fungi;Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces;Saccharomyces paradoxus	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1
+Eukaryota;Fungi;Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Tetrapisispora;Tetrapisispora blattae	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Eukaryota;Fungi;Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Zygosaccharomyces;Zygosaccharomyces rouxii	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Eukaryota;Fungi;Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycodaceae;Saccharomycodes;Saccharomycodes ludwigii	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Eukaryota;Fungi;Ascomycota;Saccharomycetes;Saccharomycetales;Trichomonascaceae;Sugiyamaella;Sugiyamaella lignohabitans	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1
+Eukaryota;Fungi;Ascomycota;Schizosaccharomycetes;Schizosaccharomycetales;Schizosaccharomycetaceae;Schizosaccharomyces;Schizosaccharomyces pombe	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Eukaryota;Fungi;Ascomycota;Sordariomycetes;Glomerellales;Glomerellaceae;Colletotrichum;Colletotrichum higginsianum	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Eukaryota;Fungi;Ascomycota;Sordariomycetes;Hypocreales;Nectriaceae;Fusarium;Fusarium keratoplasticum	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Eukaryota;Fungi;Ascomycota;Sordariomycetes;Hypocreales;Nectriaceae;Fusarium;Fusarium verticillioides	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Eukaryota;Fungi;Ascomycota;Sordariomycetes;Magnaporthales;Pyriculariaceae;Pyricularia;Pyricularia pennisetigena	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Eukaryota;Fungi;Ascomycota;Sordariomycetes;Sordariales;Chaetomiaceae;Thermothelomyces;Thermothelomyces thermophilus	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Eukaryota;Fungi;Ascomycota;Sordariomycetes;Sordariales;Sordariaceae;Neurospora;Neurospora crassa	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Eukaryota;Fungi;Basidiomycota;Agaricomycetes;Cantharellales;Ceratobasidiaceae;Rhizoctonia;Rhizoctonia solani	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Eukaryota;Fungi;Basidiomycota;Pucciniomycetes;Pucciniales;Pucciniaceae;Puccinia;Puccinia triticina	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Viruses;Heunggongvirae;Peploviricota;Herviviricetes;Herpesvirales;Malacoherpesviridae;Ostreavirus;Ostreid herpesvirus 1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Viruses;Heunggongvirae;Uroviricota;Caudoviricetes;Caudoviricetes_Incertae_sedis;Caudoviricetes_Incertae_sedis_Incertae_sedis;Felixounavirus;Felixounavirus BPS17L1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Viruses;Heunggongvirae;Uroviricota;Caudoviricetes;Caudoviricetes_Incertae_sedis;Caudoviricetes_Incertae_sedis_Incertae_sedis;Gillianvirus;Gillianvirus oneinagillian	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Viruses;Heunggongvirae;Uroviricota;Caudoviricetes;Caudoviricetes_Incertae_sedis;Caudoviricetes_Incertae_sedis_Incertae_sedis;Kungbxnavirus;Kungbxnavirus pT24	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Viruses;Orthornavirae;Negarnaviricota;Monjiviricetes;Mononegavirales;Paramyxoviridae;Orthorubulavirus;Bat mumps orthorubulavirus	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Eukaryota;Fungi;Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces;Saccharomyces eubayanus	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Eukaryota;Fungi;Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kluyveromyces;Kluyveromyces lactis	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1
+Eukaryota;Eukaryota_Incertae_sedis;Apicomplexa;Aconoidasida;Haemosporida;Plasmodiidae;Plasmodium;Plasmodium chabaudi	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Eukaryota;Fungi;Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Kazachstania;Kazachstania naganishii	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Eukaryota;Eukaryota_Incertae_sedis;Apicomplexa;Aconoidasida;Haemosporida;Plasmodiidae;Plasmodium;Plasmodium coatneyi	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Eukaryota;Eukaryota_Incertae_sedis;Apicomplexa;Aconoidasida;Haemosporida;Plasmodiidae;Plasmodium;Plasmodium knowlesi	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1
+Eukaryota;Eukaryota_Incertae_sedis;Apicomplexa;Aconoidasida;Haemosporida;Plasmodiidae;Plasmodium;Plasmodium vivax	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Eukaryota;Eukaryota_Incertae_sedis;Apicomplexa;Aconoidasida;Piroplasmida;Theileriidae;Theileria;Theileria parva	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1
+Eukaryota;Eukaryota_Incertae_sedis;Apicomplexa;Conoidasida;Eucoccidiorida;Sarcocystidae;Besnoitia;Besnoitia besnoiti	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Eukaryota;Eukaryota_Incertae_sedis;Apicomplexa;Conoidasida;Eucoccidiorida;Sarcocystidae;Neospora;Neospora caninum	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Eukaryota;Eukaryota_Incertae_sedis;Bacillariophyta;Bacillariophyceae;Naviculales;Phaeodactylaceae;Phaeodactylum;Phaeodactylum tricornutum	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+Eukaryota;Eukaryota_Incertae_sedis;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira pseudonana	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Eukaryota;Eukaryota_Incertae_sedis;Euglenozoa;Kinetoplastea;Trypanosomatida;Trypanosomatidae;Leishmania;Leishmania major	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Eukaryota;Eukaryota_Incertae_sedis;Evosea;Eumycetozoa;Dictyosteliales;Dictyosteliaceae;Dictyostelium;Dictyostelium discoideum	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Eukaryota;Eukaryota_Incertae_sedis;Fornicata;Fornicata_Incertae_sedis;Diplomonadida;Hexamitidae;Giardia;Giardia intestinalis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Eukaryota;Fungi;Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Aspergillus;Aspergillus luchuensis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Eukaryota;Fungi;Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Aspergillus;Aspergillus oryzae	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Eukaryota;Fungi;Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Aspergillus;Aspergillus puulaauensis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Eukaryota;Fungi;Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida;Candida albicans	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Eukaryota;Fungi;Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida;Candida dubliniensis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Eukaryota;Fungi;Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Debaryomyces;Debaryomyces hansenii	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1
+Eukaryota;Fungi;Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Brettanomyces;Brettanomyces bruxellensis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Eukaryota;Fungi;Ascomycota;Saccharomycetes;Saccharomycetales;Pichiaceae;Pichia;Pichia kudriavzevii	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas multiresinivorans	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas granadensis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Alteromonadales;Colwelliaceae;Colwellia;Colwellia sp. Arc7-D	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Mixta;Mixta sp. X22927	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Klebsiella;Klebsiella michiganensis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Klebsiella;Klebsiella variicola	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Kluyvera;Kluyvera genomosp. 3	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Leclercia;Leclercia adecarboxylata	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Plesiomonas;Plesiomonas shigelloides	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Pseudescherichia;Pseudescherichia vulneris	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Erwinia;Candidatus Erwinia haradaeae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Erwinia;Erwinia rhapontici	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Erwinia;Erwinia tasmaniensis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Pantoea;Pantoea dispersa	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas extremaustralis	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Hafniaceae;Obesumbacterium;Obesumbacterium proteus	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Morganellaceae;Moellerella;Moellerella wisconsensis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Morganellaceae;Morganella;Morganella morganii	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Morganellaceae;Photorhabdus;Photorhabdus laumondii	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Morganellaceae;Proteus;Proteus sp. CD3	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Pectobacteriaceae;Pectobacterium;Pectobacterium wasabiae	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Yersiniaceae;Rahnella;Rahnella aceris	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Yersiniaceae;Rahnella;Rahnella inusitata	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Yersiniaceae;Serratia;Serratia marcescens	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia albertii	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Enterobacteriaceae_Incertae_sedis;Enterobacteriaceae endosymbiont of Donacia marginata	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Citrobacter;Citrobacter sp. BDA59-3	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Citrobacter;Citrobacter portucalensis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Alteromonadales;Pseudoalteromonadaceae;Pseudoalteromonas;Pseudoalteromonas mariniglutinosa	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Alteromonadales;Pseudoalteromonadaceae;Pseudoalteromonas;Pseudoalteromonas sp. R3	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Alteromonadales;Pseudoalteromonadaceae;Pseudoalteromonas;Pseudoalteromonas ulvae	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Alteromonadales;Pseudoalteromonadaceae;Pseudoalteromonas;Pseudoalteromonas viridis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Alteromonadales;Shewanellaceae;Shewanella;Shewanella cyperi	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Alteromonadales;Shewanellaceae;Shewanella;Shewanella decolorationis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Alteromonadales;Shewanellaceae;Shewanella;Shewanella maritima	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Alteromonadales;Shewanellaceae;Shewanella;Shewanella sp. FJAT-54031	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Alteromonadales;Shewanellaceae;Shewanella;Shewanella sp. SNU WT4	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Cellvibrionales;Cellvibrionaceae;Marinimicrobium;Marinimicrobium sp. C6131	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Cellvibrionales;Cellvibrionaceae;Teredinibacter;Teredinibacter haidensis	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Cellvibrionales;Microbulbiferaceae;Microbulbifer;Microbulbifer sp. GL-2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Chromatiales;Ectothiorhodospiraceae;Acidihalobacter;Acidihalobacter yilgarnensis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Chromatiales;Wenzhouxiangellaceae;Wenzhouxiangella;Wenzhouxiangella marina	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Budviciaceae;Jinshanibacter;Jinshanibacter zhutongyuii	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Budviciaceae;Pragia;Pragia fontium	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Candidatus Gullanella;Candidatus Gullanella endobia	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Candidatus Profftia;Candidatus Profftia sp. (ex Adelges kitamiensis)	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Citrobacter;Citrobacter freundii	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Yersiniaceae;Serratia;Serratia sp. ATCC 39006	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Yersiniaceae;Yersinia;Yersinia aleksiciae	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Yersiniaceae;Yersinia;Yersinia enterocolitica	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Oceanospirillales;Halomonadaceae;Halomonas;Halomonas sp. R57-5	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Oceanospirillales;Oceanospirillaceae;Amphritea;Amphritea atlantica	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Oceanospirillales;Oceanospirillaceae;Marinomonas;Marinomonas sp. A3A	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Orbales;Orbaceae;Gilliamella;Gilliamella apicola	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Pasteurellales;Pasteurellaceae;Actinobacillus;Actinobacillus lignieresii	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Pasteurellales;Pasteurellaceae;Frederiksenia;Frederiksenia canicola	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Pasteurellales;Pasteurellaceae;Glaesserella;Glaesserella parasuis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Pasteurellales;Pasteurellaceae;Haemophilus;Haemophilus parahaemolyticus	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Pasteurellales;Pasteurellaceae;Histophilus;Histophilus somni	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Pasteurellales;Pasteurellaceae;Mannheimia;Mannheimia sp. USDA-ARS-USMARC-1261	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Pasteurellales;Pasteurellaceae;Mannheimia;Mannheimia varigena	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Pasteurellales;Pasteurellaceae;Pasteurella;Pasteurella canis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Pasteurellales;Pasteurellaceae;Rodentibacter;Rodentibacter haemolyticus	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Pasteurellales;Pasteurellaceae;Rodentibacter;Rodentibacter heylii	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Azotobacter;Azotobacter vinelandii	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Halopseudomonas;Halopseudomonas litoralis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Halopseudomonas;Halopseudomonas sp. MFKK-1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Permianibacter;Permianibacter aggregans	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas atacamensis	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas eucalypticola	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Oceanospirillales;Litorivicinaceae;Litorivicinus;Litorivicinus lipolyticus	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Oceanospirillales;Halomonadaceae;Halomonas;Halomonas sp. PGE1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Yersiniaceae;Yersinia;Yersinia similis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Oceanospirillales;Halomonadaceae;Halomonas;Halomonas sp. JS92-SW72	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Phyllobacteriaceae;Mesorhizobium;Mesorhizobium huakuii	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Legionellales;Legionellaceae;Legionella;Legionella sp. PC997	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Legionellales;Legionellaceae;Legionella;Legionella spiritensis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Methylococcales;Methylococcaceae;Methylococcus;Methylococcus sp. Mc7	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Moraxellales;Moraxellaceae;Acinetobacter;Acinetobacter pittii	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Moraxellales;Moraxellaceae;Acinetobacter;Acinetobacter portensis	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Moraxellales;Moraxellaceae;Acinetobacter;Acinetobacter schindleri	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Moraxellales;Moraxellaceae;Acinetobacter;Acinetobacter seifertii	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Moraxellales;Moraxellaceae;Acinetobacter;Acinetobacter sp. 10FS3-1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Moraxellales;Moraxellaceae;Acinetobacter;Acinetobacter sp. ACNIH2	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Moraxellales;Moraxellaceae;Acinetobacter;Acinetobacter venetianus	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Moraxellales;Moraxellaceae;Acinetobacter;Acinetobacter vivianii	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Moraxellales;Moraxellaceae;Aquirhabdus;Aquirhabdus parva	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Moraxellales;Moraxellaceae;Moraxella;Moraxella nonliquefaciens	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Moraxellales;Moraxellaceae;Moraxella;Moraxella sp. ZY201224	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Moraxellales;Moraxellaceae;Psychrobacter;Psychrobacter sp. P11G3	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Moraxellales;Moraxellaceae;Psychrobacter;Psychrobacter urativorans	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Oceanospirillales;Hahellaceae;Hahella;Hahella chejuensis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Gammaproteobacteria;Oceanospirillales;Halomonadaceae;Chromohalobacter;Chromohalobacter salexigens	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Phyllobacteriaceae;Mesorhizobium;Mesorhizobium onobrychidis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+Archaea;Archaea_none;Candidatus Lokiarchaeota;Candidatus Lokiarchaeota_Incertae_sedis;Candidatus Lokiarchaeota_Incertae_sedis_Incertae_sedis;Candidatus Lokiarchaeota_Incertae_sedis_Incertae_sedis_Incertae_sedis;Candidatus Prometheoarchaeum;Candidatus Prometheoarchaeum syntrophicum	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Phyllobacteriaceae;Lentilitoribacter;Lentilitoribacter sp. Alg239-R112	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus sp. F19	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus sp. N3536	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus sp. WP8	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus sp. Y1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus xiamenensis	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus zhangzhouensis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Bacillaceae;Caldibacillus;Caldibacillus thermoamylovorans	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Bacillaceae;Cytobacillus;Cytobacillus firmus	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Bacillaceae;Gracilibacillus;Gracilibacillus sp. SSPM10-3	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Bacillaceae;Lentibacillus;Lentibacillus sp. ZS110521	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Bacillaceae;Lysinibacillus;Lysinibacillus sp. Ag94	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Bacillaceae;Lysinibacillus;Lysinibacillus sp. G01H	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Bacillaceae;Lysinibacillus;Lysinibacillus sp. PLM2	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Bacillaceae;Lysinibacillus;Lysinibacillus timonensis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Bacillaceae;Mesobacillus;Mesobacillus sp. S13	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Bacillaceae;Metabacillus;Metabacillus dongyingensis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Bacillaceae;Niallia;Niallia circulans	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Bacillaceae;Oceanobacillus;Oceanobacillus oncorhynchi	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Bacillaceae;Paenalkalicoccus;Paenalkalicoccus suaedae	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Bacillaceae;Peribacillus;Peribacillus asahii	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Bacillaceae;Peribacillus;Peribacillus butanolivorans	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Bacillaceae;Peribacillus;Peribacillus muralis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Bacillaceae;Peribacillus;Peribacillus simplex	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Bacillaceae;Priestia;Priestia aryabhattai	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus sp. FJAT-42376	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus luti	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Bacillaceae;Salicibibacter;Salicibibacter halophilus	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus aquiflavi	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Mycobacteriales;Nocardiaceae;Nocardia;Nocardia gipuzkoensis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Mycobacteriales;Nocardiaceae;Rhodococcus;Rhodococcus coprophilus	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Nakamurellales;Nakamurellaceae;Nakamurella;Nakamurella antarctica	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Propionibacteriales;Actinopolymorphaceae;Actinopolymorpha;Actinopolymorpha singaporensis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Propionibacteriales;Nocardioidaceae;Aeromicrobium;Aeromicrobium sp. HA	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Propionibacteriales;Nocardioidaceae;Micropruina;Micropruina glycogenica	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Propionibacteriales;Nocardioidaceae;Nocardioides;Nocardioides sp. LMS-CY	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Pseudonocardiales;Pseudonocardiaceae;Amycolatopsis;Amycolatopsis pretoriensis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Pseudonocardiales;Pseudonocardiaceae;Amycolatopsis;Amycolatopsis sp. EV170708-02-1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Pseudonocardiales;Pseudonocardiaceae;Lentzea;Lentzea sp. HUAS12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Pseudonocardiales;Pseudonocardiaceae;Pseudonocardia;Pseudonocardia sp. HH130630-07	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Pseudonocardiales;Pseudonocardiaceae;Saccharopolyspora;Saccharopolyspora sp. ASAGF58	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Streptosporangiales;Nocardiopsaceae;Nocardiopsis;Nocardiopsis alba	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Streptosporangiales;Nocardiopsaceae;Streptomonospora;Streptomonospora nanhaiensis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Streptosporangiales;Streptosporangiaceae;Nonomuraea;Nonomuraea coxensis	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Streptosporangiales;Streptosporangiaceae;Nonomuraea;Nonomuraea phyllanthi	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Coriobacteriia;Coriobacteriales;Coriobacteriaceae;Collinsella;Collinsella aerofaciens	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Coriobacteriia;Coriobacteriales;Coriobacteriaceae;Collinsella;Collinsella stercoris	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Coriobacteriia;Eggerthellales;Eggerthellaceae;Cryptobacterium;Cryptobacterium curtum	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Rubrobacteria;Rubrobacterales;Baekduiaceae;Baekduia;Baekduia sp. 0141_2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+Bacteria;Bacteria_none;Actinomycetota;Rubrobacteria;Rubrobacterales;Rubrobacteraceae;Rubrobacter;Rubrobacter marinus	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Thermoleophilia;Thermoleophilales;Thermoleophilaceae;Thermoleophilum;Thermoleophilum album	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Alicyclobacillaceae;Alicyclobacillus;Alicyclobacillus dauci	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Bacillaceae;Priestia;Priestia filamentosa	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Bacillaceae;Sutcliffiella;Sutcliffiella horikoshii	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Phyllobacteriaceae;Aminobacter;Aminobacter sp. MSH1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Thermoactinomycetaceae;Kroppenstedtia;Kroppenstedtia eburnea	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Thermoactinomycetaceae;Thermoactinomyces;Thermoactinomyces vulgaris	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Lactobacillales;Aerococcaceae;Ignavigranum;Ignavigranum ruoffiae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Lactobacillales;Aerococcaceae;Suicoccus;Suicoccus acidiformans	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Lactobacillales;Carnobacteriaceae;Carnobacterium;Carnobacterium divergens	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Lactobacillales;Carnobacteriaceae;Jeotgalibaca;Jeotgalibaca sp. PTS2502	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Lactobacillales;Carnobacteriaceae;Marinilactibacillus;Marinilactibacillus sp. 15R	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Lactobacillales;Enterococcaceae;Enterococcus;Enterococcus avium	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Lactobacillales;Enterococcaceae;Enterococcus;Enterococcus saigonensis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Lactobacillales;Lactobacillaceae;Apilactobacillus;Apilactobacillus bombintestini	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Lactobacillales;Lactobacillaceae;Companilactobacillus;Companilactobacillus allii	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Lactobacillales;Lactobacillaceae;Companilactobacillus;Companilactobacillus futsaii	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus amylovorus	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus johnsonii	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus sp. PV034	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus ultunensis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Lactobacillales;Lactobacillaceae;Latilactobacillus;Latilactobacillus graminis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Lactobacillales;Lactobacillaceae;Latilactobacillus;Latilactobacillus sakei	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Lactobacillales;Lactobacillaceae;Lentilactobacillus;Lentilactobacillus hilgardii	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Lactobacillales;Lactobacillaceae;Lentilactobacillus;Lentilactobacillus laojiaonis	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Lactobacillales;Lactobacillaceae;Leuconostoc;Leuconostoc pseudomesenteroides	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Lactobacillales;Lactobacillaceae;Levilactobacillus;Levilactobacillus brevis	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Lactobacillales;Lactobacillaceae;Ligilactobacillus;Ligilactobacillus acidipiscis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Lactobacillales;Lactobacillaceae;Limosilactobacillus;Limosilactobacillus reuteri	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Thermoactinomycetaceae;Novibacillus;Novibacillus thermophilus	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus warneri	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Bacillaceae;Virgibacillus;Virgibacillus natechei	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus simiae	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Bacillaceae;Virgibacillus;Virgibacillus sp. SK37	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Bacillales_Incertae_sedis;Exiguobacterium;Exiguobacterium mexicanum	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Listeriaceae;Brochothrix;Brochothrix thermosphacta	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Listeriaceae;Listeria;Listeria sp. PSOL-1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Brevibacillus;Brevibacillus choshinensis	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Brevibacillus;Brevibacillus sp. WF146	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Cohnella;Cohnella cholangitidis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus macerans	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus mucilaginosus	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus sp. 19GGS1-52	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus sp. 481	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus sp. SS4	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus sp. YPD9-1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus sp. YPG26	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus thiaminolyticus	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Saccharibacillus;Saccharibacillus brassicae	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Planococcaceae;Solibacillus;Solibacillus sp. R5-41	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Jeotgalicoccus;Jeotgalicoccus sp. ATCC 8456	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus haemolyticus	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus nepalensis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus ratti	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus saprophyticus	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus schweitzeri	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Mycobacteriales;Nocardiaceae;Nocardia;Nocardia brasiliensis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Mycobacteriales;Mycobacteriaceae;Mycolicibacterium;Mycolicibacterium sediminis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Mycobacteriales;Mycobacteriaceae;Mycolicibacterium;Mycolicibacterium sarraceniae	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Acidobacteriota;Terriglobia;Terriglobales;Acidobacteriaceae;Terriglobus;Terriglobus roseus	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Actinomycetales;Actinomycetaceae;Schaalia;Schaalia sp. JY-X169	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Actinomycetales;Actinomycetaceae;Varibaculum;Varibaculum prostatecancerukia	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Candidatus Nanopelagicales;Candidatus Nanopelagicaceae;Candidatus Nanopelagicus;Candidatus Nanopelagicus hibericus	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Frankiales;Frankiaceae;Frankia;Frankia sp. QA3	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Jatrophihabitantales;Jatrophihabitantaceae;Jatrophihabitans;Jatrophihabitans sp. SB3-54	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Kitasatospora;Kitasatospora sp. YST-16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces angustmyceticus	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces aurantiacus	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces aureoverticillatus	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces broussonetiae	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces deccanensis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces fodineus	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces hawaiiensis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces hygroscopicus	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces lydicus	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces pactum	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces peucetius	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces prasinus	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces sp. GS7	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces sp. Go40/10	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces sp. HUAS 14-6	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces sp. NEAU-S7GS2	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces sp. SM18	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Acidimicrobiia;Acidimicrobiales;Iamiaceae;Iamia;Iamia majanohamensis	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Acidobacteriota;Holophagae;Thermotomaculales;Thermotomaculaceae;Thermotomaculum;Thermotomaculum hydrothermale	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Mycobacteriales;Mycobacteriaceae;Mycolicibacterium;Mycolicibacterium parafortuitum	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Bacteria;Bacteria_none;Acidobacteriota;Blastocatellia;Blastocatellia_Incertae_sedis;Blastocatellia_Incertae_sedis_Incertae_sedis;Chloracidobacterium;Chloracidobacterium validum	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Archaea;Archaea_none;Crenarchaeota;Thermoprotei;Thermofilales;Thermofilaceae;Thermofilum;Thermofilum adornatum	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Archaea;Archaea_none;Euryarchaeota;Archaeoglobi;Archaeoglobales;Archaeoglobaceae;Geoglobus;Geoglobus ahangari	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1
+Archaea;Archaea_none;Euryarchaeota;Halobacteria;Halobacteriales;Haloarculaceae;Halorientalis;Halorientalis sp. IM1011	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Archaea;Archaea_none;Euryarchaeota;Halobacteria;Halobacteriales;Halobacteriaceae;Haladaptatus;Haladaptatus pallidirubidus	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Archaea;Archaea_none;Euryarchaeota;Halobacteria;Halobacteriales;Halobacteriaceae;Halobacterium;Halobacterium sp. BOL4-2	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Archaea;Archaea_none;Euryarchaeota;Halobacteria;Halobacteriales;Halobacteriaceae;Halomarina;Halomarina sp. BCD28	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Archaea;Archaea_none;Euryarchaeota;Halobacteria;Haloferacales;Haloferacaceae;Haloprofundus;Haloprofundus sp. MHR1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Archaea;Archaea_none;Euryarchaeota;Halobacteria;Haloferacales;Halorubraceae;Halalkaliarchaeum;Halalkaliarchaeum sp. AArc-CO	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Archaea;Archaea_none;Euryarchaeota;Halobacteria;Haloferacales;Halorubraceae;Halobaculum;Halobaculum halophilum	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Archaea;Archaea_none;Euryarchaeota;Halobacteria;Natrialbales;Natrialbaceae;Halopiger;Halopiger xanaduensis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Archaea;Archaea_none;Euryarchaeota;Halobacteria;Natrialbales;Natrialbaceae;Natrarchaeobaculum;Natrarchaeobaculum aegyptiacum	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Archaea;Archaea_none;Euryarchaeota;Halobacteria;Natrialbales;Natrialbaceae;Natrinema;Natrinema sp. DC36	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Archaea;Archaea_none;Euryarchaeota;Methanobacteria;Methanobacteriales;Methanobacteriaceae;Methanobrevibacter;Methanobrevibacter ruminantium	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Archaea;Archaea_none;Euryarchaeota;Methanobacteria;Methanobacteriales;Methanobacteriaceae;Methanosphaera;Methanosphaera stadtmanae	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Archaea;Archaea_none;Euryarchaeota;Methanococci;Methanococcales;Methanocaldococcaceae;Methanocaldococcus;Methanocaldococcus lauensis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Archaea;Archaea_none;Euryarchaeota;Methanococci;Methanococcales;Methanocaldococcaceae;Methanocaldococcus;Methanocaldococcus vulcanius	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Archaea;Archaea_none;Euryarchaeota;Methanomicrobia;Methanosarcinales;Methanosarcinaceae;Methanosarcina;Methanosarcina barkeri	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+Archaea;Archaea_none;Euryarchaeota;Methanomicrobia;Methanosarcinales;Methanosarcinaceae;Methanosarcina;Methanosarcina sp. WH1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Archaea;Archaea_none;Euryarchaeota;Thermococci;Thermococcales;Thermococcaceae;Thermococcus;Thermococcus chitonophagus	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Archaea;Archaea_none;Euryarchaeota;Thermococci;Thermococcales;Thermococcaceae;Thermococcus;Thermococcus cleftensis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Archaea;Archaea_none;Thaumarchaeota;Thaumarchaeota_Incertae_sedis;Nitrosopumilales;Nitrosopumilaceae;Nitrosarchaeum;Nitrosarchaeum sp. AC2	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1
+Archaea;Archaea_none;Thaumarchaeota;Thaumarchaeota_Incertae_sedis;Nitrosopumilales;Nitrosopumilaceae;Nitrosopumilus;Candidatus Nitrosopumilus koreensis	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Archaea;Archaea_none;Thaumarchaeota;Thaumarchaeota_Incertae_sedis;Thaumarchaeota_Incertae_sedis_Incertae_sedis;Thaumarchaeota_Incertae_sedis_Incertae_sedis_Incertae_sedis;Candidatus Nitrosotalea;Candidatus Nitrosotalea okcheonensis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces sp. Tu6071	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces venezuelae	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces yangpuensis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Micrococcales;Brevibacteriaceae;Brevibacterium;Brevibacterium sp. JSBI002	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Mycobacteriales;Corynebacteriaceae;Corynebacterium;Corynebacterium ammoniagenes	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Mycobacteriales;Corynebacteriaceae;Corynebacterium;Corynebacterium efficiens	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Mycobacteriales;Corynebacteriaceae;Corynebacterium;Corynebacterium endometrii	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Mycobacteriales;Corynebacteriaceae;Corynebacterium;Corynebacterium glucuronolyticum	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Mycobacteriales;Corynebacteriaceae;Corynebacterium;Corynebacterium halotolerans	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Mycobacteriales;Corynebacteriaceae;Corynebacterium;Corynebacterium hindlerae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Mycobacteriales;Corynebacteriaceae;Corynebacterium;Corynebacterium lujinxingii	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Mycobacteriales;Corynebacteriaceae;Corynebacterium;Corynebacterium macginleyi	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Mycobacteriales;Corynebacteriaceae;Corynebacterium;Corynebacterium maris	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Mycobacteriales;Corynebacteriaceae;Corynebacterium;Corynebacterium occultum	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Mycobacteriales;Corynebacteriaceae;Corynebacterium;Corynebacterium resistens	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Mycobacteriales;Corynebacteriaceae;Corynebacterium;Corynebacterium terpenotabidum	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Mycobacteriales;Corynebacteriaceae;Corynebacterium;Corynebacterium tuberculostearicum	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Mycobacteriales;Gordoniaceae;Gordonia;Gordonia amarae	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Mycobacteriales;Gordoniaceae;Gordonia;Gordonia sp. PP30	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Mycobacteriales;Mycobacteriaceae;Mycobacterium;Candidatus Mycobacterium methanotrophicum	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Mycobacteriales;Mycobacteriaceae;Mycobacterium;Mycobacterium lentiflavum	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Mycobacteriales;Mycobacteriaceae;Mycobacterium;Mycobacterium rufum	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Mycobacteriales;Mycobacteriaceae;Mycobacterium;Mycobacterium sp. Aquia_216	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Mycobacteriales;Mycobacteriaceae;Mycobacterium;Mycobacterium sp. DL592	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Mycobacteriales;Mycobacteriaceae;Mycolicibacillus;Mycolicibacillus parakoreensis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Mycobacteriales;Mycobacteriaceae;Mycolicibacterium;Mycolicibacterium aurum	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Mycobacteriales;Mycobacteriaceae;Mycolicibacterium;Mycolicibacterium insubricum	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Micromonosporales;Micromonosporaceae;Polymorphospora;Polymorphospora rubra	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Micromonosporales;Micromonosporaceae;Phytohabitans;Phytohabitans flavus	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Micromonosporales;Micromonosporaceae;Micromonospora;Micromonospora auratinigra	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Micrococcales;Microbacteriaceae;Microbacterium;Microbacterium esteraromaticum	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Micrococcales;Cellulomonadaceae;Cellulomonas;Cellulomonas sp. Y8	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Micrococcales;Dermabacteraceae;Brachybacterium;Brachybacterium saurashtrense	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Micrococcales;Dermacoccaceae;Yimella;Yimella sp. cx-51	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Micrococcales;Intrasporangiaceae;Janibacter;Janibacter limosus	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Micrococcales;Intrasporangiaceae;Phycicoccus;Phycicoccus sp. HDW14	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Micrococcales;Kytococcaceae;Kytococcus;Kytococcus sedentarius	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Micrococcales;Microbacteriaceae;Agromyces;Agromyces sp. LHK192	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Micrococcales;Microbacteriaceae;Chryseoglobus;Chryseoglobus sp. 28M-23	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Micrococcales;Microbacteriaceae;Gulosibacter;Gulosibacter sediminis	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Micrococcales;Microbacteriaceae;Leifsonia;Leifsonia xyli	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Micrococcales;Microbacteriaceae;Microbacterium;Microbacterium sp. 4R-513	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Micromonosporales;Micromonosporaceae;Actinocatenispora;Actinocatenispora thailandica	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Micrococcales;Microbacteriaceae;Plantibacter;Plantibacter sp. M259	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Micrococcales;Micrococcaceae;Arthrobacter;Arthrobacter agilis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Micrococcales;Micrococcaceae;Arthrobacter;Arthrobacter alpinus	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Micrococcales;Micrococcaceae;Arthrobacter;Arthrobacter sp. FW306-05-C	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Micrococcales;Micrococcaceae;Arthrobacter;Arthrobacter sp. Helios	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Micrococcales;Micrococcaceae;Arthrobacter;Arthrobacter sp. zg-Y809	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Micrococcales;Micrococcaceae;Citricoccus;Citricoccus sp. SGAir0253	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Micrococcales;Micrococcaceae;Kocuria;Kocuria turfanensis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Micrococcales;Micrococcaceae;Pseudarthrobacter;Pseudarthrobacter sp. L1SW	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1
+Bacteria;Bacteria_none;Actinomycetota;Actinomycetes;Micrococcales;Promicromonosporaceae;Xylanimonas;Xylanimonas cellulosilytica	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Lactobacillales;Lactobacillaceae;Paucilactobacillus;Paucilactobacillus oligofermentans	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Lactobacillales;Lactobacillaceae;Pediococcus;Pediococcus claussenii	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Lactobacillales;Lactobacillaceae;Weissella;Weissella confusa	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Sphingobacteriia;Sphingobacteriales;Sphingobacteriaceae;Mucilaginibacter;Mucilaginibacter ginsenosidivorax	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Sphingobacteriia;Sphingobacteriales;Sphingobacteriaceae;Mucilaginibacter;Mucilaginibacter sp. KACC 22773	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Sphingobacteriia;Sphingobacteriales;Sphingobacteriaceae;Pedobacter;Pedobacter schmidteae	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Sphingobacteriia;Sphingobacteriales;Sphingobacteriaceae;Sphingobacterium;Sphingobacterium psychroaquaticum	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Sphingobacteriia;Sphingobacteriales;Sphingobacteriaceae;Sphingobacterium;Sphingobacterium sp. LZ7M1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+Bacteria;Bacteria_none;Bacteroidota;Sphingobacteriia;Sphingobacteriales;Sphingobacteriaceae;Sphingobacterium;Sphingobacterium sp. dk4302	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Candidatus Cloacimonetes;Candidatus Cloacimonetes_Incertae_sedis;Candidatus Cloacimonetes_Incertae_sedis_Incertae_sedis;Candidatus Cloacimonetes_Incertae_sedis_Incertae_sedis_Incertae_sedis;Candidatus Cloacimonas;Candidatus Cloacimonas acidaminovorans	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Chlamydiota;Chlamydiia;Parachlamydiales;Rhabdochlamydiaceae;Candidatus Rhabdochlamydia;Candidatus Rhabdochlamydia oedothoracis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Chloroflexota;Ktedonobacteria;Ktedonobacterales;Ktedonosporobacteraceae;Ktedonosporobacter;Ktedonosporobacter rubrisoli	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Chloroflexota;Tepidiformia;Tepidiformales;Tepidiformaceae;Tepidiforma;Tepidiforma bonchosmolovskayae	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Chloroflexota;Tepidiformia;Tepidiformales;Tepidiformaceae;Tepidiforma;Tepidiforma sp. YIM 72310	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Cyanobacteriota;Cyanophyceae;Chroococcales;Aphanothecaceae;Euhalothece;Euhalothece natronophila	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Cyanobacteriota;Cyanophyceae;Nostocales;Aphanizomenonaceae;Nodularia;Nodularia sphaerocarpa	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Cyanobacteriota;Cyanophyceae;Nostocales;Nostocaceae;Nostoc;Nostoc flagelliforme	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Cyanobacteriota;Cyanophyceae;Nostocales;Nostocaceae;Nostoc;Nostoc sp. C057	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Cyanobacteriota;Cyanophyceae;Nostocales;Nostocaceae;Nostoc;Nostoc sp. MS1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Cyanobacteriota;Cyanophyceae;Nostocales;Nostocaceae;Nostoc;Nostoc sp. UHCC 0870	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+Archaea;Archaea_none;Crenarchaeota;Thermoprotei;Sulfolobales;Sulfolobaceae;Acidianus;Acidianus sulfidivorans	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Cyanobacteriota;Cyanophyceae;Oscillatoriales;Microcoleaceae;Planktothrix;Planktothrix agardhii	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Cyanobacteriota;Cyanophyceae;Pleurocapsales;Hyellaceae;Pleurocapsa;Pleurocapsa sp. PCC 7327	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1
+Bacteria;Bacteria_none;Cyanobacteriota;Cyanophyceae;Pseudanabaenales;Leptolyngbyaceae;Leptolyngbya;Leptolyngbya sp. 7M	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Cyanobacteriota;Cyanophyceae;Pseudanabaenales;Leptolyngbyaceae;Leptolyngbya;Leptolyngbya sp. Cla-17	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Cyanobacteriota;Cyanophyceae;Pseudanabaenales;Leptolyngbyaceae;Leptolyngbya;Leptolyngbya sp. PKUAC-SCTA174	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Cyanobacteriota;Cyanophyceae;Pseudanabaenales;Prochlorotrichaceae;Halomicronema;Halomicronema hongdechloris	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Sphingobacteriia;Sphingobacteriales;Sphingobacteriaceae;Mucilaginibacter;Mucilaginibacter gossypii	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Saprospiria;Saprospirales;Saprospiraceae;Aureispira;Aureispira sp. EL160426	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Galbibacter;Galbibacter sp. BG1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Elizabethkingia;Elizabethkingia bruuniana	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Gilvibacter;Gilvibacter sp. SZ-19	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Gramella;Gramella sp. MT6	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Kordia;Kordia antarctica	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Myroides;Myroides odoratus	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Nonlabens;Nonlabens spongiae	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Polaribacter;Polaribacter sp. ALD11	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Psychroflexus;Psychroflexus sp. ALD_RP9	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Psychroserpens;Psychroserpens sp. MSW6	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Pukyongia;Pukyongia salina	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Rasiella;Rasiella rasia	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Salegentibacter;Salegentibacter sp. T436	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+Bacteria;Bacteria_none;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Sinomicrobium;Sinomicrobium kalidii	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Tenacibaculum;Tenacibaculum todarodis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Urechidicola;Urechidicola croceus	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Winogradskyella;Winogradskyella helgolandensis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+Bacteria;Bacteria_none;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Zunongwangia;Zunongwangia sp. SCSIO 43204	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium sp.	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium sp. CY350	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium sp. G0201	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium sp. LJ668	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium sp. MEBOG07	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium sp. T16E-39	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium turcicum	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Cyanobacteriota;Cyanophyceae;Pseudanabaenales;Pseudanabaenaceae;Pseudanabaena;Pseudanabaena sp. Chao 1811	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Cyanobacteriota;Cyanophyceae;Synechococcales;Synechococcaceae;Synechococcus;Synechococcus sp. Minos11	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Deinococcota;Deinococci;Thermales;Thermaceae;Thermus;Thermus aquaticus	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Deinococcota;Deinococci;Thermales;Thermaceae;Thermus;Thermus sp. CCB_US3_UF1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Planctomycetota;Planctomycetia;Pirellulales;Pirellulaceae;Stieleria;Stieleria maiorica	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Planctomycetota;Planctomycetia;Planctomycetales;Planctomycetaceae;Crateriforma;Crateriforma conspicua	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Planctomycetota;Planctomycetia;Planctomycetales;Planctomycetaceae;Gimesia;Gimesia chilikensis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Bacteria;Bacteria_none;Planctomycetota;Planctomycetia;Planctomycetales;Planctomycetaceae;Gimesia;Gimesia maris	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Planctomycetota;Planctomycetia;Planctomycetales;Planctomycetaceae;Symmachiella;Symmachiella dynata	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Acidithiobacillia;Acidithiobacillales;Acidithiobacillaceae;Acidithiobacillus;Acidithiobacillus sp. YTS05	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Emcibacterales;Emcibacteraceae;Paremcibacter;Paremcibacter congregatus	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Amorphaceae;Acuticoccus;Acuticoccus sp. I52.16.1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Aurantimonadaceae;Aurantimonas;Aurantimonas sp. HBX-1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Bartonellaceae;Bartonella;Bartonella taylorii	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Blastochloridaceae;Blastochloris;Blastochloris viridis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Boseaceae;Bosea;Bosea sp. NBC_00550	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Boseaceae;Bosea;Bosea sp. RAC05	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Hyphomicrobiaceae;Hyphomicrobium;Hyphomicrobium denitrificans	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Hyphomicrobiales_Incertae_sedis;Nordella;Nordella sp. HKS 07	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Hyphomicrobiales_Incertae_sedis;Terrihabitans;Terrihabitans soli	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Methylobacteriaceae;Microvirga;Microvirga sp. VF16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Methylocystaceae;Methylocystis;Methylocystis sp. SB2	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Nitrobacteraceae;Afipia;Afipia sp. GAS231	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Nitrobacteraceae;Bradyrhizobium;Bradyrhizobium diazoefficiens	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Nitrobacteraceae;Bradyrhizobium;Bradyrhizobium genosp. L	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Nitrobacteraceae;Bradyrhizobium;Bradyrhizobium vignae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Bacteria;Bacteria_none;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Phreatobacteraceae;Phreatobacter;Phreatobacter sp. NMCR1094	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Planctomycetota;Planctomycetia;Pirellulales;Pirellulaceae;Roseimaritima;Roseimaritima multifibrata	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+Bacteria;Bacteria_none;Planctomycetota;Planctomycetia;Pirellulales;Pirellulaceae;Lignipirellula;Lignipirellula cremea	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Planctomycetota;Planctomycetia;Pirellulales;Pirellulaceae;Bremerella;Bremerella volcania	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Bacteria;Bacteria_none;Mycoplasmatota;Mollicutes;Mycoplasmatales;Mycoplasmataceae;Mycoplasma;Mycoplasma putrefaciens	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Elusimicrobia;Endomicrobia;Endomicrobiales;Endomicrobiaceae;Endomicrobium;Endomicrobium proavitum	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Mycoplasmatota;Mollicutes;Acholeplasmatales;Acholeplasmataceae;Alteracholeplasma;Alteracholeplasma palmae	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Mycoplasmatota;Mollicutes;Acholeplasmatales;Acholeplasmataceae;Candidatus Phytoplasma;Candidatus Phytoplasma solani	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1
+Bacteria;Bacteria_none;Mycoplasmatota;Mollicutes;Acholeplasmatales;Acholeplasmataceae;Paracholeplasma;Paracholeplasma brassicae	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Mycoplasmatota;Mollicutes;Entomoplasmatales;Spiroplasmataceae;Spiroplasma;Spiroplasma monobiae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1
+Bacteria;Bacteria_none;Mycoplasmatota;Mollicutes;Entomoplasmatales;Spiroplasmataceae;Spiroplasma;Spiroplasma poulsonii	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Mycoplasmatota;Mollicutes;Entomoplasmatales;Spiroplasmataceae;Spiroplasma;Spiroplasma sabaudiense	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Mycoplasmatota;Mollicutes;Entomoplasmatales;Spiroplasmataceae;Spiroplasma;Spiroplasma sp. TIUS-1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Mycoplasmatota;Mollicutes;Mycoplasmatales;Mycoplasmataceae;Mesomycoplasma;Mesomycoplasma ovipneumoniae	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Mycoplasmatota;Mollicutes;Mycoplasmatales;Mycoplasmataceae;Mycoplasma;Mycoplasma anserisalpingitidis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+Bacteria;Bacteria_none;Mycoplasmatota;Mollicutes;Mycoplasmatales;Mycoplasmataceae;Mycoplasma;Mycoplasma sp. 1654_15	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Planctomycetota;Planctomycetia;Pirellulales;Pirellulaceae;Aureliella;Aureliella helgolandensis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Mycoplasmatota;Mollicutes;Mycoplasmatales;Mycoplasmataceae;Mycoplasma;Mycoplasma sp. SG1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1
+Bacteria;Bacteria_none;Mycoplasmatota;Mollicutes;Mycoplasmatales;Mycoplasmataceae;Mycoplasmopsis;Mycoplasmopsis glycophila	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Mycoplasmatota;Mollicutes;Mycoplasmatales;Mycoplasmataceae;Ureaplasma;Ureaplasma urealyticum	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Mycoplasmatota;Mycoplasmatota_Incertae_sedis;Mycoplasmoidales;Metamycoplasmataceae;Metamycoplasma;Metamycoplasma arthritidis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Nitrospirota;Thermodesulfovibrionia;Thermodesulfovibrionales;Dissulfurispiraceae;Dissulfurispira;Dissulfurispira thermophila	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Planctomycetota;Candidatus Uabimicrobiia;Candidatus Uabimicrobiales;Candidatus Uabimicrobiaceae;Candidatus Uabimicrobium;Candidatus Uabimicrobium amorphum	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Planctomycetota;Phycisphaerae;Phycisphaerales;Phycisphaeraceae;Poriferisphaera;Poriferisphaera corsica	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Planctomycetota;Phycisphaerae;Sedimentisphaerales;Anaerohalosphaeraceae;Anaerohalosphaera;Anaerohalosphaera lusitana	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+Bacteria;Bacteria_none;Planctomycetota;Planctomycetia;Pirellulales;Lacipirellulaceae;Aeoliella;Aeoliella mucimassa	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Planctomycetota;Planctomycetia;Pirellulales;Lacipirellulaceae;Bythopirellula;Bythopirellula goksoeyrii	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Gillisia;Gillisia sp. Hel1_33_143	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;Flavobacterium sp. IMCC34775	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Lactobacillales;Streptococcaceae;Lactococcus;Lactococcus garvieae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1
+Bacteria;Bacteria_none;Bacillota;Clostridia;Eubacteriales;Eubacteriaceae;Eubacterium;Eubacterium ventriosum	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Clostridia;Eubacteriales;Lachnospiraceae;Anaerostipes;Anaerostipes hadrus	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Clostridia;Eubacteriales;Lachnospiraceae;Dorea;Dorea longicatena	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Clostridia;Eubacteriales;Lachnospiraceae;Herbinix;Herbinix luporum	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Clostridia;Eubacteriales;Lachnospiraceae;Lachnoclostridium;[Clostridium] scindens	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Clostridia;Eubacteriales;Lachnospiraceae;Mediterraneibacter;[Ruminococcus] torques	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Clostridia;Eubacteriales;Lachnospiraceae;Novisyntrophococcus;Novisyntrophococcus fermenticellae	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Clostridia;Eubacteriales;Lachnospiraceae;Roseburia;Roseburia sp. NSJ-69	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Clostridia;Eubacteriales;Oscillospiraceae;Caproicibacterium;Caproicibacterium amylolyticum	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Clostridia;Eubacteriales;Oscillospiraceae;Faecalibacterium;Faecalibacterium sp. HTF-F	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Clostridia;Eubacteriales;Oscillospiraceae;Pusillibacter;Pusillibacter faecalis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Clostridia;Eubacteriales;Oscillospiraceae;Ruminiclostridium;Ruminiclostridium herbifermentans	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Clostridia;Eubacteriales;Peptococcaceae;Desulforamulus;Desulforamulus reducens	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Clostridia;Eubacteriales;Peptostreptococcaceae;Filifactor;Filifactor alocis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Clostridia;Eubacteriales;Peptostreptococcaceae;Peptacetobacter;Peptacetobacter hiranonis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Clostridia;Eubacteriales;Vallitaleaceae;Vallitalea;Vallitalea guaymasensis	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Clostridia;Halanaerobiales;Halanaerobiaceae;Halanaerobium;Halanaerobium hydrogeniformans	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Clostridia;Natranaerobiales;Natranaerobiaceae;Natranaerobius;Natranaerobius thermophilus	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Clostridia;Thermoanaerobacterales;Thermoanaerobacterales Family III. Incertae Sedis;Thermoanaerobacterium;Thermoanaerobacterium sp. RBIITD	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Clostridia;Thermoanaerobacterales;Thermodesulfobiaceae;Thermodesulfobium;Thermodesulfobium narugense	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Negativicutes;Selenomonadales;Selenomonadaceae;Megamonas;Megamonas funiformis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Negativicutes;Selenomonadales;Sporomusaceae;Pelosinus;Pelosinus sp. UFO1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Negativicutes;Veillonellales;Veillonellaceae;Veillonella;Veillonella parvula	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Negativicutes;Veillonellales;Veillonellaceae;Veillonella;Veillonella rogosae	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Clostridia;Eubacteriales;Eubacteriales Family XIII. Incertae Sedis;Emergencia;Emergencia timonensis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1
+Bacteria;Bacteria_none;Bacillota;Clostridia;Eubacteriales;Desulfallaceae;Desulfoscipio;Desulfoscipio gibsoniae	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;Flavobacterium sp. IMCC34518	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Clostridia;Eubacteriales;Clostridiales Family XVII. Incertae Sedis;Thermaerobacter;Thermaerobacter sp. FW80	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Lactobacillales;Streptococcaceae;Lactococcus;Lactococcus lactis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Lactobacillales;Streptococcaceae;Lactococcus;Lactococcus protaetiae	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;Streptococcus alactolyticus	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;Streptococcus equinus	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;Streptococcus pantholopis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;Streptococcus pseudopneumoniae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;Streptococcus sanguinis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;Streptococcus sp. oral taxon 064	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;Streptococcus sp. oral taxon 431	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Bacillota_Incertae_sedis;Bacillota_Incertae_sedis_Incertae_sedis;Bacillota_Incertae_sedis_Incertae_sedis_Incertae_sedis;Bacillota_Incertae_sedis_Incertae_sedis_Incertae_sedis_Incertae_sedis;endosymbiont 'TC1' of Trimyema compressum	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Clostridia;Eubacteriales;Clostridiaceae;Alkaliphilus;Alkaliphilus sp. B6464	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Clostridia;Eubacteriales;Clostridiaceae;Caloramator;Caloramator sp. Dgby_cultured_2	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Clostridia;Eubacteriales;Clostridiaceae;Caloramator;Caloramator sp. E03	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Clostridia;Eubacteriales;Clostridiaceae;Clostridium;Clostridium butyricum	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1
+Bacteria;Bacteria_none;Bacillota;Clostridia;Eubacteriales;Clostridiaceae;Clostridium;Clostridium cochlearium	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Clostridia;Eubacteriales;Clostridiaceae;Clostridium;Clostridium gelidum	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Clostridia;Eubacteriales;Clostridiaceae;Clostridium;Clostridium intestinale	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Clostridia;Eubacteriales;Clostridiaceae;Clostridium;Clostridium pasteurianum	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Clostridia;Eubacteriales;Clostridiaceae;Clostridium;Clostridium saccharoperbutylacetonicum	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Clostridia;Eubacteriales;Clostridiaceae;Clostridium;Clostridium sp. 'deep sea'	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Clostridia;Eubacteriales;Clostridiaceae;Clostridium;Clostridium sp. C1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+Bacteria;Bacteria_none;Bacillota;Clostridia;Eubacteriales;Clostridiaceae;Crassaminicella;Crassaminicella profunda	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Clostridia;Eubacteriales;Clostridiaceae;Serpentinicella;Serpentinicella alkaliphila	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Tissierellia;Tissierellales;Peptoniphilaceae;Parvimonas;Parvimonas micra	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1
+Bacteria;Bacteria_none;Bacillota;Tissierellia;Tissierellales;Peptoniphilaceae;Peptoniphilus;Peptoniphilus sp. SAHP1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides fragilis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides thetaiotaomicron	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Cytophagia;Cytophagales;Hymenobacteraceae;Hymenobacter;Hymenobacter sp. HDW8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+Bacteria;Bacteria_none;Bacteroidota;Cytophagia;Cytophagales;Hymenobacteraceae;Hymenobacter;Hymenobacter sp. NBH84	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Cytophagia;Cytophagales;Mangrovivirgaceae;Mangrovivirga;Mangrovivirga cuniculi	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Cytophagia;Cytophagales;Persicobacteraceae;Persicobacter;Persicobacter sp. JZB09	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Cytophagia;Cytophagales;Spirosomaceae;Dyadobacter;Dyadobacter sp. CY22	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Cytophagia;Cytophagales;Spirosomaceae;Dyadobacter;Dyadobacter sp. LJ419	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Cytophagia;Cytophagales;Spirosomaceae;Dyadobacter;Dyadobacter sp. NIV53	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+Bacteria;Bacteria_none;Bacteroidota;Flavobacteriia;Flavobacteriales;Crocinitomicaceae;Fluviicola;Fluviicola taffensis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Algibacter;Algibacter alginicilyticus	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Antarcticibacterium;Antarcticibacterium arcticum	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Antarcticibacterium;Antarcticibacterium flavum	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+Bacteria;Bacteria_none;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Arenibacter;Arenibacter algicola	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Capnocytophaga;Capnocytophaga cynodegmi	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Capnocytophaga;Capnocytophaga sp. H2931	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Capnocytophaga;Capnocytophaga sp. oral taxon 878	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Flagellimonas;Flagellimonas sp. CMM7	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Flagellimonas;Flagellimonas sp. HMM57	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;Flavobacterium alkalisoli	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+Bacteria;Bacteria_none;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;Flavobacterium gilvum	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;Flavobacterium litorale	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;Flavobacterium magnum	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+Bacteria;Bacteria_none;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;Flavobacterium pallidum	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;Flavobacterium sp. I3-2	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Cytophagia;Cytophagales;Hymenobacteraceae;Hymenobacter;Hymenobacter sp. BT18	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Cytophagia;Cytophagales;Hymenobacteraceae;Hymenobacter;Hymenobacter sp. 5317J-9	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Cytophagia;Cytophagales;Hymenobacteraceae;Hymenobacter;Hymenobacter radiodurans	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Chitinophagia;Chitinophagales;Chitinophagaceae;Flavisolibacter;Flavisolibacter tropicus	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Bacteroidia;Bacteroidales;Bacteroidaceae;Phocaeicola;Phocaeicola dorei	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Bacteroidia;Bacteroidales;Barnesiellaceae;Coprobacter;Coprobacter secundus	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Bacteroidia;Bacteroidales;Odoribacteraceae;Butyricimonas;Butyricimonas virosa	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Bacteroidia;Bacteroidales;Porphyromonadaceae;Porphyromonas;Porphyromonas sp. oral taxon 275	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1
+Bacteria;Bacteria_none;Bacteroidota;Bacteroidia;Bacteroidales;Prevotellaceae;Prevotella;Prevotella jejuni	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Bacteroidia;Bacteroidales;Prevotellaceae;Pseudoprevotella;Pseudoprevotella muciniphila	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Bacteroidia;Bacteroidales;Tannerellaceae;Parabacteroides;Parabacteroides goldsteinii	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Bacteroidia;Marinilabiliales;Marinilabiliaceae;Alkalitalea;Alkalitalea saponilacus	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Chitinophagia;Chitinophagales;Chitinophagaceae;Arachidicoccus;Arachidicoccus sp. BS20	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Chitinophagia;Chitinophagales;Chitinophagaceae;Chitinophaga;Chitinophaga sp. R8	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Chitinophagia;Chitinophagales;Chitinophagaceae;Pseudocnuella;Pseudocnuella soli	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Cytophagia;Cytophagales;Hymenobacteraceae;Hymenobacter;Hymenobacter psoromatis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Cytophagia;Cytophagales;Bernardetiaceae;Bernardetia;Bernardetia litoralis	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Cytophagia;Cytophagales;Cyclobacteriaceae;Aquiflexum;Aquiflexum balticum	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Cytophagia;Cytophagales;Cytophagaceae;Aquirufa;Aquirufa nivalisilvae	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Cytophagia;Cytophagales;Cytophagaceae;Cytophaga;Cytophaga hutchinsonii	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Cytophagia;Cytophagales;Cytophagaceae;Spirosoma;Spirosoma rigui	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+Bacteria;Bacteria_none;Bacteroidota;Cytophagia;Cytophagales;Cytophagaceae;Spirosoma;Spirosoma sp. KUDC1026	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Cytophagia;Cytophagales;Flammeovirgaceae;Flammeovirga;Flammeovirga sp. MY04	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Cytophagia;Cytophagales;Fulvivirgaceae;Fulvivirga;Fulvivirga sp. SS9-22	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Cytophagia;Cytophagales;Hymenobacteraceae;Hymenobacter;Hymenobacter busanensis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Bacteroidota;Cytophagia;Cytophagales;Hymenobacteraceae;Hymenobacter;Hymenobacter monticola	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria;Bacteria_none;Cyanobacteriota;Cyanophyceae;Nostocales;Rivulariaceae;Rivularia;Rivularia sp. PCC 7116	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1

@@ -1,0 +1,15 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Homo sapiens	9606	S	306	0	306	0.91892
+Malassezia restricta	76775	S	7	0	7	0.02102
+Staphylococcus epidermidis	1282	S	3	0	3	0.00901
+Staphylococcus aureus	1280	S	3	0	3	0.00901
+Staphylococcus chromogenes	46126	S	1	0	1	0.00300
+Staphylococcus schweitzeri	1654388	S	1	0	1	0.00300
+Granulicatella elegans	137732	S	3	0	3	0.00901
+Enterococcus durans	53345	S	1	0	1	0.00300
+Clostridium botulinum	1491	S	2	0	2	0.00601
+Cutibacterium acnes	1747	S	1	0	1	0.00300
+Escherichia coli	562	S	1	0	1	0.00300
+Escherichia marmotae	1499973	S	1	0	1	0.00300
+Acidihalobacter yilgarnensis	2819280	S	1	0	1	0.00300
+Alkalitalea saponilacus	889453	S	1	0	1	0.00300

@@ -1,0 +1,20 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Homo sapiens	9606	S	109	6	115	0.72785
+Sugiyamaella lignohabitans	796027	S	1	0	1	0.00633
+Plasmodium relictum	85471	S	5	0	5	0.03165
+Babesia bigemina	5866	S	2	0	2	0.01266
+Toxoplasma gondii	5811	S	1	0	1	0.00633
+Trypanosoma brucei	5691	S	1	0	1	0.00633
+Wielerella bovis	2917790	S	14	0	14	0.08861
+Aquitalea sp. USM4	1590041	S	1	0	1	0.00633
+Klebsiella variicola	244366	S	1	0	1	0.00633
+Escherichia coli	562	S	1	1	2	0.01266
+Candidatus Gullanella endobia	1070130	S	1	0	1	0.00633
+Gynuella sunshinyii	1445505	S	2	0	2	0.01266
+Bacterioplanoides sp. SCSIO 12839	2829569	S	1	0	1	0.00633
+Vibrio anguillarum	55601	S	3	0	3	0.01899
+Pseudomonas psychrotolerans	237610	S	1	0	1	0.00633
+Corynebacterium yudongzhengii	2080740	S	3	0	3	0.01899
+Streptomyces aurantiacus	47760	S	1	0	1	0.00633
+Levilactobacillus brevis	1580	S	1	0	1	0.00633
+Clostridium botulinum	1491	S	1	0	1	0.00633

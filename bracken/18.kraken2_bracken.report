@@ -1,0 +1,37 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Homo sapiens	9606	S	1047	53	1100	0.69095
+Fusarium graminearum	5518	S	1	0	1	0.00063
+Malassezia restricta	76775	S	1	0	1	0.00063
+Babesia bigemina	5866	S	293	14	307	0.19284
+Plasmodium knowlesi	5850	S	1	0	1	0.00063
+Clostridium botulinum	1491	S	138	1	139	0.08731
+Vallitalea guaymasensis	1185412	S	1	0	1	0.00063
+Staphylococcus capitis	29388	S	1	0	1	0.00063
+Finegoldia magna	1260	S	1	0	1	0.00063
+Cutibacterium acnes	1747	S	7	0	7	0.00440
+Corynebacterium halotolerans	225326	S	1	0	1	0.00063
+Mycolicibacterium aurum	1791	S	1	0	1	0.00063
+Gordonia polyisoprenivorans	84595	S	1	0	1	0.00063
+Euhalothece natronophila	577489	S	1	0	1	0.00063
+Pseudomonas sp. GCEP-101	2974552	S	3	1	4	0.00251
+Escherichia marmotae	1499973	S	1	0	1	0.00063
+Morganella morganii	582	S	1	0	1	0.00063
+Pseudoalteromonas sp. R3	1709477	S	1	0	1	0.00063
+Pseudoalteromonas mariniglutinosa	206042	S	1	0	1	0.00063
+Alteromonas macleodii	28108	S	1	0	1	0.00063
+Acinetobacter vivianii	1776742	S	1	0	1	0.00063
+Marinomonas posidonica	936476	S	1	0	1	0.00063
+Magnetospirillum sp. ME-1	1639348	S	1	0	1	0.00063
+Paracoccus sanguinis	1545044	S	1	0	1	0.00063
+Sphingomonas lacunae	2698828	S	1	0	1	0.00063
+Variovorax sp. HW608	1034889	S	2	0	2	0.00126
+Hydrogenophaga sp. NH-16	2184519	S	1	0	1	0.00063
+Deefgea tanakiae	2865840	S	1	0	1	0.00063
+Capnocytophaga sp. H2931	1945657	S	1	0	1	0.00063
+Antarcticibacterium arcticum	2585771	S	1	0	1	0.00063
+Chryseobacterium sp.	1871047	S	1	0	1	0.00063
+Chryseobacterium sp. LJ668	2864040	S	1	0	1	0.00063
+Pedobacter schmidteae	2201271	S	1	0	1	0.00063
+Fulvivirga sp. SS9-22	2904245	S	1	0	1	0.00063
+Terriglobus roseus	392734	S	1	0	1	0.00063
+Geoalkalibacter halelectricus	2847045	S	1	0	1	0.00063

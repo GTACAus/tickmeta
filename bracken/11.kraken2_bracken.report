@@ -1,0 +1,48 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Homo sapiens	9606	S	625	57	682	0.39038
+Malassezia restricta	76775	S	3	0	3	0.00172
+Puccinia striiformis	27350	S	1	0	1	0.00057
+Aspergillus oryzae	5062	S	1	0	1	0.00057
+Neurospora crassa	5141	S	1	0	1	0.00057
+Candida albicans	5476	S	1	0	1	0.00057
+Babesia bigemina	5866	S	385	31	416	0.23812
+Plasmodium berghei	5821	S	1	0	1	0.00057
+Leishmania panamensis	5679	S	1	0	1	0.00057
+Clostridium botulinum	1491	S	566	12	578	0.33085
+Caloramator sp. E03	2576307	S	1	0	1	0.00057
+Dorea longicatena	88431	S	1	0	1	0.00057
+Ruminiclostridium herbifermentans	2488810	S	1	0	1	0.00057
+Alkalicella caledoniensis	2731377	S	1	0	1	0.00057
+Thermodesulfobium narugense	184064	S	1	0	1	0.00057
+Staphylococcus agnetis	985762	S	12	0	12	0.00687
+Staphylococcus petrasii	1276936	S	2	1	3	0.00172
+Oceanobacillus kimchii	746691	S	2	0	2	0.00114
+Peribacillus frigoritolerans	450367	S	1	0	1	0.00057
+Mesobacillus sp. S13	2880221	S	1	0	1	0.00057
+Listeria sp. PSOL-1	1844999	S	1	0	1	0.00057
+Streptococcus mitis	28037	S	1	0	1	0.00057
+Apilactobacillus bombintestini	2419772	S	1	0	1	0.00057
+Pelosinus sp. UFO1	484770	S	1	0	1	0.00057
+Corynebacterium terpenotabidum	89154	S	1	0	1	0.00057
+Cutibacterium acnes	1747	S	1	0	1	0.00057
+Paracholeplasma brassicae	61635	S	1	0	1	0.00057
+Providencia sp. R33	2828763	S	2	1	3	0.00172
+Pasteurella multocida	747	S	1	0	1	0.00057
+Rodentibacter haemolyticus	2778911	S	1	0	1	0.00057
+Frederiksenia canicola	123824	S	1	0	1	0.00057
+Dongshaea marina	2047966	S	2	0	2	0.00114
+Salinimonas sediminis	2303538	S	1	0	1	0.00057
+Francisella philomiragia	28110	S	1	0	1	0.00057
+Acinetobacter portensis	1839785	S	1	0	1	0.00057
+Vibrio cholerae	666	S	1	0	1	0.00057
+Halomonas sp. 3H	2952527	S	1	0	1	0.00057
+Pseudomonas extremaustralis	359110	S	1	0	1	0.00057
+Campylobacter gracilis	824	S	2	0	2	0.00114
+Flavobacterium pallidum	2172098	S	1	0	1	0.00057
+Bacteroides thetaiotaomicron	818	S	1	0	1	0.00057
+Fusobacterium ulcerans	861	S	1	0	1	0.00057
+Crateriforma conspicua	2527996	S	1	0	1	0.00057
+Thermococcus sp. 2319x1	1674923	S	2	0	2	0.00114
+Methanobrevibacter ruminantium	83816	S	1	0	1	0.00057
+Natrarchaeobaculum aegyptiacum	745377	S	1	0	1	0.00057
+Candidatus Nitrosopumilus koreensis	1510466	S	1	0	1	0.00057

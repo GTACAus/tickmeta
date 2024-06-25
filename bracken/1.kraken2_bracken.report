@@ -1,0 +1,15 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Homo sapiens	9606	S	62	3	65	0.73034
+Trichomonas vaginalis	5722	S	1	0	1	0.01124
+Escherichia marmotae	1499973	S	2	3	5	0.05618
+Moraxella osloensis	34062	S	1	0	1	0.01124
+Ferrimonas sp. SCSIO 43195	2822844	S	1	0	1	0.01124
+Vibrio anguillarum	55601	S	1	0	1	0.01124
+Wielerella bovis	2917790	S	6	0	6	0.06742
+Erythrobacter sp. 3-20A1M	2653850	S	1	0	1	0.01124
+Staphylococcus epidermidis	1282	S	1	0	1	0.01124
+Brochothrix thermosphacta	2756	S	1	0	1	0.01124
+Clostridium botulinum	1491	S	1	0	1	0.01124
+Synechococcus sp. Minos11	221341	S	1	0	1	0.01124
+Epilithonimonas vandammei	2487072	S	1	0	1	0.01124
+Parabacteroides distasonis	823	S	1	0	1	0.01124

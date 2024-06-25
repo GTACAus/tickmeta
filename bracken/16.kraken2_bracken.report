@@ -1,0 +1,13 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Homo sapiens	9606	S	84	7	91	0.77119
+Naumovozyma dairenensis	27289	S	1	0	1	0.00847
+Debaryomyces hansenii	4959	S	1	0	1	0.00847
+Fulvia fulva	5499	S	1	0	1	0.00847
+Babesia bigemina	5866	S	8	0	8	0.06780
+Pectobacterium cacticida	69221	S	1	0	1	0.00847
+Vibrio anguillarum	55601	S	1	0	1	0.00847
+Candidatus Midichloria mitochondrii	234827	S	4	0	4	0.03390
+Variovorax sp. RKNM96	2681552	S	1	0	1	0.00847
+Rhizobacter sp. AJA081-3	2753607	S	1	0	1	0.00847
+Clostridium botulinum	1491	S	6	0	6	0.05085
+Brevibacillus choshinensis	54911	S	1	0	1	0.00847

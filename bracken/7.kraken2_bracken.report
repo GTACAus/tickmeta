@@ -1,0 +1,43 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Homo sapiens	9606	S	518	35	553	0.53689
+Malassezia restricta	76775	S	2	0	2	0.00194
+Naumovozyma dairenensis	27289	S	1	0	1	0.00097
+Babesia bigemina	5866	S	274	18	292	0.28350
+Clostridium botulinum	1491	S	131	3	134	0.13010
+Clostridium butyricum	1492	S	1	0	1	0.00097
+Paraclostridium bifermentans	1490	S	1	0	1	0.00097
+Romboutsia ilealis	1115758	S	2	0	2	0.00194
+Romboutsia hominis	1507512	S	1	0	1	0.00097
+Emergencia timonensis	1776384	S	1	0	1	0.00097
+Bacillus cereus	1396	S	1	1	2	0.00194
+Bacillus subtilis	1423	S	1	2	3	0.00291
+Sutcliffiella horikoshii	79883	S	1	0	1	0.00097
+Paenibacillus sophorae	1333845	S	2	0	2	0.00194
+Enterococcus avium	33945	S	1	0	1	0.00097
+Ignavigranum ruoffiae	89093	S	1	0	1	0.00097
+Mycoplasma parvum	984991	S	2	0	2	0.00194
+Mycoplasma sp. SG1	2810348	S	1	0	1	0.00097
+Spiroplasma monobiae	2136	S	1	0	1	0.00097
+Candidatus Phytoplasma solani	69896	S	1	0	1	0.00097
+Pseudarthrobacter sp. L1SW	2851598	S	1	0	1	0.00097
+Mycolicibacterium neoaurum	1795	S	1	0	1	0.00097
+Nocardioides sp. LMS-CY	2840457	S	1	0	1	0.00097
+Kitasatospora sp. YST-16	2998080	S	1	0	1	0.00097
+Pleurocapsa sp. PCC 7327	118163	S	1	0	1	0.00097
+Escherichia marmotae	1499973	S	2	0	2	0.00194
+Photorhabdus laumondii	2218628	S	1	0	1	0.00097
+Pseudomonas yamanorum	515393	S	1	0	1	0.00097
+Pseudomonas fluorescens	294	S	1	0	1	0.00097
+Photobacterium damselae	38293	S	1	0	1	0.00097
+Vibrio palustris	1918946	S	1	0	1	0.00097
+Xanthomonas citri	346	S	1	0	1	0.00097
+Methylobacter sp. S3L5C	2839024	S	1	0	1	0.00097
+Halomonas sp. PGE1	2730360	S	1	0	1	0.00097
+Rodentibacter heylii	1906744	S	1	0	1	0.00097
+Rhodovastum atsumiense	504468	S	1	0	1	0.00097
+Sulfitobacter mediterraneus	83219	S	1	0	1	0.00097
+Gilvibacter sp. SZ-19	754429	S	1	0	1	0.00097
+Butyricimonas virosa	544645	S	1	0	1	0.00097
+Persicobacter sp. JZB09	1085624	S	1	0	1	0.00097
+Pseudocnuella soli	2502779	S	1	0	1	0.00097
+Campylobacter lari	201	S	1	0	1	0.00097

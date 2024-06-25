@@ -1,0 +1,68 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Homo sapiens	9606	S	845	65	910	0.53061
+Colletotrichum lupini	145971	S	1	0	1	0.00058
+Pyricularia oryzae	318829	S	1	0	1	0.00058
+Aspergillus fumigatus	746128	S	1	0	1	0.00058
+Kluyveromyces lactis	28985	S	1	0	1	0.00058
+Babesia bigemina	5866	S	298	19	317	0.18484
+Theileria annulata	5874	S	1	0	1	0.00058
+Theileria parva	5875	S	1	0	1	0.00058
+Plasmodium relictum	85471	S	3	0	3	0.00175
+Toxoplasma gondii	5811	S	1	0	1	0.00058
+Clostridium botulinum	1491	S	359	16	375	0.21866
+Bacillus cereus	1396	S	3	17	20	0.01166
+Bacillus sp. N3536	2666127	S	1	0	1	0.00058
+Peribacillus asahii	228899	S	1	0	1	0.00058
+Solibacillus sp. R5-41	2048654	S	1	0	1	0.00058
+Lactobacillus crispatus	47770	S	3	0	3	0.00175
+Lentilactobacillus laojiaonis	2883998	S	1	0	1	0.00058
+Latilactobacillus sakei	1599	S	1	0	1	0.00058
+Leuconostoc pseudomesenteroides	33968	S	1	0	1	0.00058
+Finegoldia magna	1260	S	1	3	4	0.00233
+Corynebacterium maris	575200	S	1	0	1	0.00058
+Mycolicibacterium neoaurum	1795	S	1	0	1	0.00058
+Gordonia polyisoprenivorans	84595	S	1	0	1	0.00058
+Cutibacterium acnes	1747	S	4	0	4	0.00233
+Agromyces sp. LHK192	2498704	S	1	0	1	0.00058
+Plantibacter sp. M259	2583822	S	1	0	1	0.00058
+Streptomyces tsukubensis	83656	S	1	1	2	0.00117
+Actinomyces howellii	52771	S	1	1	2	0.00117
+Actinoplanes derwentensis	113562	S	1	0	1	0.00058
+Saccharopolyspora sp. ASAGF58	2719023	S	1	0	1	0.00058
+Thermoleophilum album	29539	S	1	0	1	0.00058
+Calothrix brevissima	938406	S	1	0	1	0.00058
+Tepidiforma sp. YIM 72310	3004094	S	1	0	1	0.00058
+Mycoplasma sp. 1654_15	2725994	S	1	0	1	0.00058
+Salmonella enterica	28901	S	1	1	2	0.00117
+Obesumbacterium proteus	82983	S	1	0	1	0.00058
+Proteus vulgaris	585	S	1	0	1	0.00058
+Pragia fontium	82985	S	1	0	1	0.00058
+Dongshaea marina	2047966	S	3	0	3	0.00175
+Aeromonas dhakensis	196024	S	1	0	1	0.00058
+Moraxella osloensis	34062	S	2	0	2	0.00117
+Moraxella nonliquefaciens	478	S	1	0	1	0.00058
+Xanthomonas phaseoli	1985254	S	1	0	1	0.00058
+Stenotrophomonas maltophilia	40324	S	1	0	1	0.00058
+Frateuria aurantia	81475	S	1	0	1	0.00058
+Pseudomonas eucalypticola	2599595	S	1	0	1	0.00058
+Pseudomonas atacamensis	2565368	S	1	0	1	0.00058
+Ferrimonas sp. SCSIO 43195	2822844	S	2	0	2	0.00117
+Vibrio parahaemolyticus	670	S	1	1	2	0.00117
+Gilliamella apicola	1196095	S	1	0	1	0.00058
+Haemophilus parahaemolyticus	735	S	1	0	1	0.00058
+Marinimicrobium sp. C6131	3022676	S	1	0	1	0.00058
+Halomonas sp. JS92-SW72	2306583	S	1	0	1	0.00058
+Erythrobacter sp. 3-20A1M	2653850	S	2	0	2	0.00117
+Sphingomonas sp. KC8	1030157	S	1	0	1	0.00058
+Rhizobium jaguaris	1312183	S	1	0	1	0.00058
+Ensifer sp. PDNC004	2811423	S	1	0	1	0.00058
+Mesorhizobium sp. B2-1-8	2589967	S	1	0	1	0.00058
+Novacetimonas hansenii	436	S	1	0	1	0.00058
+Acetobacter orientalis	146474	S	1	0	1	0.00058
+Jannaschia sp. M317	2867011	S	1	1	2	0.00117
+Wielerella bovis	2917790	S	3	0	3	0.00175
+Algibacter alginicilyticus	1736674	S	1	0	1	0.00058
+Arenibacter algicola	616991	S	1	0	1	0.00058
+Parabacteroides faecis	1217282	S	1	1	2	0.00117
+Hymenobacter radiodurans	2496028	S	1	0	1	0.00058
+Bradymonas sediminis	1548548	S	1	0	1	0.00058

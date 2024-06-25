@@ -1,0 +1,62 @@
+ 87.71	364	364	U	0	unclassified
+ 12.29	51	0	R	1	root
+ 12.29	51	1	R1	131567	  cellular organisms
+ 10.60	44	0	D	2759	    Eukaryota
+  9.16	38	1	D1	33154	      Opisthokonta
+  8.92	37	0	K	33208	        Metazoa
+  8.92	37	0	K1	6072	          Eumetazoa
+  8.92	37	0	K2	33213	            Bilateria
+  8.92	37	0	K3	33511	              Deuterostomia
+  8.92	37	0	P	7711	                Chordata
+  8.92	37	0	P1	89593	                  Craniata
+  8.92	37	0	P2	7742	                    Vertebrata
+  8.92	37	0	P3	7776	                      Gnathostomata
+  8.92	37	0	P4	117570	                        Teleostomi
+  8.92	37	0	P5	117571	                          Euteleostomi
+  8.92	37	0	P6	8287	                            Sarcopterygii
+  8.92	37	0	P7	1338369	                              Dipnotetrapodomorpha
+  8.92	37	0	P8	32523	                                Tetrapoda
+  8.92	37	0	P9	32524	                                  Amniota
+  8.92	37	0	C	40674	                                    Mammalia
+  8.92	37	0	C1	32525	                                      Theria
+  8.92	37	0	C2	9347	                                        Eutheria
+  8.92	37	0	C3	1437010	                                          Boreoeutheria
+  8.92	37	0	C4	314146	                                            Euarchontoglires
+  8.92	37	0	O	9443	                                              Primates
+  8.92	37	0	O1	376913	                                                Haplorrhini
+  8.92	37	0	O2	314293	                                                  Simiiformes
+  8.92	37	0	O3	9526	                                                    Catarrhini
+  8.92	37	0	O4	314295	                                                      Hominoidea
+  8.92	37	0	F	9604	                                                        Hominidae
+  8.92	37	0	F1	207598	                                                          Homininae
+  8.92	37	0	G	9605	                                                            Homo
+  8.92	37	37	S	9606	                                                              Homo sapiens
+  1.45	6	0	D1	2698737	      Sar
+  1.45	6	0	D2	33630	        Alveolata
+  1.45	6	0	P	5794	          Apicomplexa
+  1.45	6	0	C	422676	            Aconoidasida
+  1.45	6	0	O	5863	              Piroplasmida
+  1.45	6	0	F	32594	                Babesiidae
+  1.45	6	0	G	5864	                  Babesia
+  1.45	6	6	S	5866	                    Babesia bigemina
+  1.45	6	0	D	2	    Bacteria
+  1.20	5	0	D1	1783272	      Terrabacteria group
+  0.96	4	0	P	1239	        Bacillota
+  0.96	4	0	C	186801	          Clostridia
+  0.96	4	0	O	186802	            Eubacteriales
+  0.96	4	0	F	31979	              Clostridiaceae
+  0.96	4	0	G	1485	                Clostridium
+  0.96	4	4	S	1491	                  Clostridium botulinum
+  0.24	1	0	P	201174	        Actinomycetota
+  0.24	1	0	C	84992	          Acidimicrobiia
+  0.24	1	0	O	84993	            Acidimicrobiales
+  0.24	1	0	F	633392	              Iamiaceae
+  0.24	1	0	G	467975	                Iamia
+  0.24	1	1	S	467976	                  Iamia majanohamensis
+  0.24	1	0	D1	1783257	      PVC group
+  0.24	1	0	P	203682	        Planctomycetota
+  0.24	1	0	C	203683	          Planctomycetia
+  0.24	1	0	O	2691354	            Pirellulales
+  0.24	1	0	F	2691359	              Lacipirellulaceae
+  0.24	1	0	G	2795781	                Aeoliella
+  0.24	1	1	S	2527972	                  Aeoliella mucimassa

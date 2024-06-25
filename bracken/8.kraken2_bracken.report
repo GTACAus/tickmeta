@@ -1,0 +1,109 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Homo sapiens	9606	S	1372	70	1442	0.72865
+Colletotrichum lupini	145971	S	6	0	6	0.00303
+Ustilaginoidea virens	1159556	S	2	0	2	0.00101
+Thermothielavioides terrestris	2587410	S	1	0	1	0.00051
+Naumovozyma dairenensis	27289	S	3	0	3	0.00152
+Yarrowia lipolytica	4952	S	1	0	1	0.00051
+Cryptococcus neoformans	5207	S	3	0	3	0.00152
+Puccinia striiformis	27350	S	1	0	1	0.00051
+Babesia bigemina	5866	S	176	6	182	0.09197
+Toxoplasma gondii	5811	S	1	0	1	0.00051
+Phaeodactylum tricornutum	2850	S	1	0	1	0.00051
+Clostridium botulinum	1491	S	181	5	186	0.09399
+Clostridium sp. C1	1155388	S	1	0	1	0.00051
+Lachnoclostridium phytofermentans	66219	S	1	0	1	0.00051
+Anoxybacter fermentans	1323375	S	1	0	1	0.00051
+Bacillus sp. Y1	352858	S	1	0	1	0.00051
+Bacillus sp. FJAT-42376	2014076	S	1	0	1	0.00051
+Bacillus pumilus	1408	S	1	0	1	0.00051
+Virgibacillus natechei	1216297	S	1	0	1	0.00051
+Sediminibacillus dalangtanensis	2729421	S	1	0	1	0.00051
+Lysinibacillus sp. G01H	3026425	S	1	0	1	0.00051
+Jeotgalicoccus saudimassiliensis	1461582	S	3	0	3	0.00152
+Jeotgalicoccus sp. ATCC 8456	946435	S	1	0	1	0.00051
+Staphylococcus epidermidis	1282	S	2	0	2	0.00101
+Novibacillus thermophilus	1471761	S	1	0	1	0.00051
+Streptococcus sanguinis	1305	S	1	0	1	0.00051
+Streptococcus equinus	1335	S	1	0	1	0.00051
+Streptococcus pantholopis	1811193	S	1	0	1	0.00051
+Enterococcus casseliflavus	37734	S	1	1	2	0.00101
+Limosilactobacillus fermentum	1613	S	1	1	2	0.00101
+Suicoccus acidiformans	2036206	S	1	0	1	0.00051
+Jeotgalibaca sp. PTS2502	1903686	S	1	0	1	0.00051
+Streptomyces sp. 2114.2	1881022	S	1	1	2	0.00101
+Streptomyces sp. HUAS 15-9	2981136	S	1	0	1	0.00051
+Streptomyces fodineus	1904616	S	1	0	1	0.00051
+Actinomadura madurae	1993	S	2	0	2	0.00101
+Xylanimonas cellulosilytica	186189	S	1	0	1	0.00051
+Kytococcus sedentarius	1276	S	1	0	1	0.00051
+Corynebacterium argentoratense	42817	S	1	0	1	0.00051
+Rhodococcus coprophilus	38310	S	1	0	1	0.00051
+Micromonospora auratinigra	261654	S	1	0	1	0.00051
+Phytohabitans flavus	1076124	S	1	0	1	0.00051
+Cutibacterium acnes	1747	S	1	0	1	0.00051
+Actinopolymorpha singaporensis	117157	S	1	0	1	0.00051
+Lentzea sp. HUAS12	2951806	S	1	0	1	0.00051
+Baekduia sp. 0141_2	2997333	S	1	0	1	0.00051
+Mycoplasma anserisalpingitidis	519450	S	1	0	1	0.00051
+Nostoc sp. UHCC 0870	2914041	S	1	0	1	0.00051
+Escherichia coli	562	S	4	26	30	0.01516
+Salmonella enterica	28901	S	1	1	2	0.00101
+Pectobacterium sp. A5351	2914983	S	2	0	2	0.00101
+Pectobacterium cacticida	69221	S	1	0	1	0.00051
+Candidatus Erwinia haradaeae	1922217	S	1	0	1	0.00051
+Pseudomonas sp. S35	1573719	S	1	1	2	0.00101
+Pseudomonas sp. B21-054	2895494	S	1	1	2	0.00101
+Pseudomonas libanensis	75588	S	1	1	2	0.00101
+Pseudomonas lundensis	86185	S	1	0	1	0.00051
+Halopseudomonas litoralis	797277	S	1	0	1	0.00051
+Vibrio gallaecicus	552386	S	1	0	1	0.00051
+Vibrio rumoiensis	76258	S	1	0	1	0.00051
+Vibrio coralliilyticus	190893	S	1	0	1	0.00051
+Vibrio alfacsensis	1074311	S	1	0	1	0.00051
+Photobacterium damselae	38293	S	1	0	1	0.00051
+Marinomonas posidonica	936476	S	1	0	1	0.00051
+Bacterioplanoides sp. SCSIO 12839	2829569	S	1	0	1	0.00051
+Chromohalobacter salexigens	158080	S	1	0	1	0.00051
+Gynuella sunshinyii	1445505	S	1	0	1	0.00051
+Acinetobacter pittii	48296	S	1	0	1	0.00051
+Aquirhabdus parva	2283318	S	1	0	1	0.00051
+Francisella persica	954	S	1	0	1	0.00051
+Microbulbifer sp. GL-2	2591606	S	1	0	1	0.00051
+Histophilus somni	731	S	1	0	1	0.00051
+Luteimonas sp. JM171	1896164	S	1	0	1	0.00051
+Bradyrhizobium sp.	376	S	2	0	2	0.00101
+Bradyrhizobium diazoefficiens	1355477	S	1	0	1	0.00051
+Mesorhizobium onobrychidis	2775404	S	1	0	1	0.00051
+Rhizobium phaseoli	396	S	1	0	1	0.00051
+Terrihabitans soli	708113	S	1	0	1	0.00051
+Loktanella salsilacus	195913	S	2	0	2	0.00101
+Frigidibacter mobilis	1335048	S	1	0	1	0.00051
+Qipengyuania sediminis	1532023	S	1	0	1	0.00051
+Erythrobacter sp. 3-20A1M	2653850	S	1	0	1	0.00051
+Sphingomonas psychrotolerans	1327635	S	1	0	1	0.00051
+Hyphomonas sp. KY3	2016196	S	1	0	1	0.00051
+Paremcibacter congregatus	2043170	S	1	0	1	0.00051
+Polynucleobacter necessarius	576610	S	2	0	2	0.00101
+Pandoraea oxalativorans	573737	S	1	0	1	0.00051
+Achromobacter sp. MFA1 R4	1881016	S	1	0	1	0.00051
+Flavobacterium magnum	2162713	S	1	0	1	0.00051
+Flavobacterium alkalisoli	2602769	S	1	0	1	0.00051
+Capnocytophaga endodontalis	2708117	S	1	0	1	0.00051
+Winogradskyella helgolandensis	2697010	S	1	0	1	0.00051
+Antarcticibacterium flavum	2058175	S	1	0	1	0.00051
+Salegentibacter sp. T436	1729720	S	1	0	1	0.00051
+Chryseobacterium arthrosphaerae	651561	S	1	1	2	0.00101
+Spirosoma rigui	564064	S	1	0	1	0.00051
+Hymenobacter sp. HDW8	2714932	S	1	0	1	0.00051
+Dyadobacter sp. NIV53	2861765	S	1	0	1	0.00051
+Prevotella herbatica	2801997	S	1	1	2	0.00101
+Sphingobacterium sp. LZ7M1	2961941	S	1	0	1	0.00051
+Planctomyces sp. SH-PL14	1632864	S	2	0	2	0.00101
+Roseimaritima multifibrata	1930274	S	1	0	1	0.00051
+Anaerohalosphaera lusitana	1936003	S	1	0	1	0.00051
+Brucepastera parasyntrophica	2880008	S	1	0	1	0.00051
+Thermospira aquatica	2828656	S	1	0	1	0.00051
+Arcobacter aquimarinus	1315211	S	1	0	1	0.00051
+Petrotoga mobilis	69499	S	1	0	1	0.00051
+Methanosarcina barkeri	2208	S	1	0	1	0.00051

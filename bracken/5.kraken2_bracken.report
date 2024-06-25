@@ -1,0 +1,40 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Homo sapiens	9606	S	648	20	668	0.60562
+Naumovozyma dairenensis	27289	S	17	0	17	0.01541
+Puccinia striiformis	27350	S	1	0	1	0.00091
+Malassezia restricta	76775	S	1	0	1	0.00091
+Bacillus paralicheniformis	1648923	S	328	14	342	0.31006
+Bacillus licheniformis	1402	S	7	10	17	0.01541
+Bacillus altitudinis	293387	S	3	0	3	0.00272
+Bacillus sp. MBGLi79	2070759	S	2	0	2	0.00181
+Bacillus zhangzhouensis	1178540	S	1	0	1	0.00091
+Alkalihalobacillus clausii	79880	S	3	0	3	0.00272
+Cytobacillus firmus	1399	S	1	0	1	0.00091
+Staphylococcus epidermidis	1282	S	3	0	3	0.00272
+Staphylococcus hominis	1290	S	3	0	3	0.00272
+Staphylococcus capitis	29388	S	2	0	2	0.00181
+Staphylococcus simulans	1286	S	1	0	1	0.00091
+Solibacillus silvestris	76853	S	2	0	2	0.00181
+Streptococcus oralis	1303	S	1	0	1	0.00091
+Streptococcus pseudopneumoniae	257758	S	1	0	1	0.00091
+Peptoniphilus harei	54005	S	2	0	2	0.00181
+Anaerococcus obesiensis	1287640	S	1	1	2	0.00181
+Parvimonas micra	33033	S	1	0	1	0.00091
+Serpentinicella alkaliphila	1734049	S	1	0	1	0.00091
+Corynebacterium sanguinis	2594913	S	2	1	3	0.00272
+Corynebacterium mycetoides	38302	S	1	0	1	0.00091
+Corynebacterium minutissimum	38301	S	1	1	2	0.00181
+Corynebacterium lujinxingii	2763010	S	1	0	1	0.00091
+Corynebacterium macginleyi	38290	S	1	0	1	0.00091
+Corynebacterium timonense	441500	S	1	0	1	0.00091
+Corynebacterium endometrii	2488819	S	1	0	1	0.00091
+Corynebacterium glaucum	187491	S	1	0	1	0.00091
+Corynebacterium tuberculostearicum	38304	S	1	0	1	0.00091
+Corynebacterium glucuronolyticum	39791	S	1	0	1	0.00091
+Cutibacterium acnes	1747	S	2	0	2	0.00181
+Salmonella enterica	28901	S	1	0	1	0.00091
+Moellerella wisconsensis	158849	S	1	0	1	0.00091
+Moraxella osloensis	34062	S	1	0	1	0.00091
+Candidatus Pelagibacter ubique	198252	S	1	0	1	0.00091
+Elizabethkingia bruuniana	1756149	S	1	0	1	0.00091
+Brachyspira hampsonii	1287055	S	1	0	1	0.00091

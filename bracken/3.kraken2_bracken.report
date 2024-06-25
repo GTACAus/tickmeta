@@ -1,0 +1,50 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Babesia bigemina	5866	S	1075	70	1145	0.33558
+Plasmodium relictum	85471	S	1	0	1	0.00029
+Homo sapiens	9606	S	689	59	748	0.21923
+Penicillium oxalicum	69781	S	2	0	2	0.00059
+Botrytis cinerea	40559	S	1	0	1	0.00029
+Ustilaginoidea virens	1159556	S	1	0	1	0.00029
+Saccharomyces paradoxus	27291	S	1	0	1	0.00029
+Clostridium botulinum	1491	S	1195	77	1272	0.37280
+Clostridium sporogenes	1509	S	1	0	1	0.00029
+Bacillus cereus	1396	S	25	131	156	0.04572
+Bacillus anthracis	1392	S	1	2	3	0.00088
+Lysinibacillus sp. PLM2	2929796	S	1	0	1	0.00029
+Staphylococcus chromogenes	46126	S	1	0	1	0.00029
+Solibacillus silvestris	76853	S	1	0	1	0.00029
+Gemella sp. zg-570	2840371	S	1	0	1	0.00029
+Limosilactobacillus panis	47493	S	2	0	2	0.00059
+Mycobacterium sp. Aquia_216	2991729	S	1	0	1	0.00029
+Mycolicibacterium neoaurum	1795	S	1	0	1	0.00029
+Streptomyces buecherae	2763006	S	1	2	3	0.00088
+Nonomuraea coxensis	404386	S	1	0	1	0.00029
+Nocardiopsis alba	53437	S	1	0	1	0.00029
+Microbacterium sp. 4R-513	2567934	S	1	0	1	0.00029
+Cutibacterium acnes	1747	S	1	0	1	0.00029
+Frankia sp. QA3	710111	S	1	0	1	0.00029
+Escherichia marmotae	1499973	S	6	0	6	0.00176
+Escherichia coli	562	S	5	21	26	0.00762
+Salmonella enterica	28901	S	5	0	5	0.00147
+Citrobacter sp. BDA59-3	2781952	S	1	0	1	0.00029
+Buchnera aphidicola	9	S	1	0	1	0.00029
+Providencia alcalifaciens	126385	S	1	0	1	0.00029
+Pseudomonas cavernae	2320867	S	2	0	2	0.00059
+Pseudomonas sp. N3-W	2975049	S	1	0	1	0.00029
+Pseudomonas libanensis	75588	S	1	0	1	0.00029
+Pseudoalteromonas spongiae	298657	S	1	0	1	0.00029
+Colwellia sp. Arc7-D	2161872	S	1	0	1	0.00029
+Teredinibacter haidensis	2731755	S	1	0	1	0.00029
+Halomonas sp. 3H	2952527	S	1	0	1	0.00029
+Vibrio atlanticus	693153	S	1	0	1	0.00029
+Sediminicoccus rosea	1225128	S	1	0	1	0.00029
+Mesorhizobium sp. NZP2077	2483404	S	1	0	1	0.00029
+Wielerella bovis	2917790	S	1	0	1	0.00029
+Chitiniphilus sp. CD1	2981137	S	1	0	1	0.00029
+Flavobacterium sp. IMCC34518	3003623	S	1	0	1	0.00029
+Flavobacterium sp. IMCC34775	3003258	S	1	0	1	0.00029
+Prevotella jejuni	1177574	S	1	0	1	0.00029
+Bernardetia litoralis	999	S	1	0	1	0.00029
+Halobacteriovorax sp. BALOs_7	2109558	S	1	0	1	0.00029
+Campylobacter fetus	196	S	1	0	1	0.00029
+Geoglobus ahangari	113653	S	1	0	1	0.00029
