@@ -1,0 +1,25 @@
+ 94.02	110	110	U	0	unclassified
+  5.98	7	0	R	1	root
+  5.98	7	0	R1	131567	  cellular organisms
+  5.98	7	0	D	2	    Bacteria
+  5.13	6	0	P	1224	      Pseudomonadota
+  4.27	5	0	C	1236	        Gammaproteobacteria
+  4.27	5	0	O	118969	          Legionellales
+  4.27	5	0	F	118968	            Coxiellaceae
+  4.27	5	0	F1	134284	              unclassified Coxiellaceae
+  4.27	5	5	S	1592897	                Coxiella-like endosymbiont
+  0.85	1	0	C	28216	        Betaproteobacteria
+  0.85	1	0	O	80840	          Burkholderiales
+  0.85	1	0	F	80864	            Comamonadaceae
+  0.85	1	0	G	28065	              Rhodoferax
+  0.85	1	0	G1	2627954	                unclassified Rhodoferax
+  0.85	1	1	S	2741720	                  Rhodoferax sp. BAB1
+  0.85	1	0	D1	1783270	      FCB group
+  0.85	1	0	D2	68336	        Bacteroidota/Chlorobiota group
+  0.85	1	0	P	976	          Bacteroidota
+  0.85	1	0	C	768503	            Cytophagia
+  0.85	1	0	O	768507	              Cytophagales
+  0.85	1	0	F	2896860	                Spirosomataceae
+  0.85	1	0	G	120831	                  Dyadobacter
+  0.85	1	0	G1	2625061	                    unclassified Dyadobacter
+  0.85	1	1	S	2861765	                      Dyadobacter sp. NIV53

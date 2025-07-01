@@ -1,0 +1,18 @@
+ 93.55	29	29	U	0	unclassified
+  6.45	2	0	R	1	root
+  6.45	2	0	R1	131567	  cellular organisms
+  6.45	2	0	D	2	    Bacteria
+  3.23	1	0	D1	1783272	      Terrabacteria group
+  3.23	1	0	P	201174	        Actinomycetota
+  3.23	1	0	C	1760	          Actinomycetes
+  3.23	1	0	O	85009	            Propionibacteriales
+  3.23	1	0	F	31957	              Propionibacteriaceae
+  3.23	1	0	G	1912216	                Cutibacterium
+  3.23	1	1	S	1747	                  Cutibacterium acnes
+  3.23	1	0	D1	1783257	      PVC group
+  3.23	1	0	P	203682	        Planctomycetota
+  3.23	1	0	C	2517206	          Candidatus Brocadiia
+  3.23	1	0	O	1127829	            Candidatus Brocadiales
+  3.23	1	0	F	1127830	              Candidatus Brocadiaceae
+  3.23	1	0	G	380738	                Candidatus Kuenenia
+  3.23	1	1	S	174633	                  Candidatus Kuenenia stuttgartiensis

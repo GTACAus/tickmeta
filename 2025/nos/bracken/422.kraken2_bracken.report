@@ -1,0 +1,6 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Coxiella-like endosymbiont	1592897	S	33	0	33	0.53226
+Pseudomonas otitidis	319939	S	1	0	1	0.01613
+Pararhizobium sp. BT-229	2986923	S	1	0	1	0.01613
+Mycobacterium senriense	2775496	S	1	0	1	0.01613
+Homo sapiens	9606	S	26	0	26	0.41935

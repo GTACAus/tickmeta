@@ -1,0 +1,11 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Coxiella-like endosymbiont	1592897	S	3195	3	3198	0.98370
+Salmonella enterica	28901	S	1	4	5	0.00154
+Candidatus Hodgkinia cicadicola	573658	S	2	0	2	0.00062
+Varunaivibrio sulfuroxidans	1773489	S	1	0	1	0.00031
+Paraburkholderia bryophila	420952	S	1	0	1	0.00031
+Fenollaria sporofastidiosus	2811778	S	4	11	15	0.00461
+Faecalibacterium sp. HTF-F	2929491	S	1	4	5	0.00154
+Paenibacillus naphthalenovorans	162209	S	1	0	1	0.00031
+Cutibacterium acnes	1747	S	1	1	2	0.00062
+Homo sapiens	9606	S	18	0	18	0.00554

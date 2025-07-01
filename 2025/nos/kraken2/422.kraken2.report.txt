@@ -1,0 +1,61 @@
+ 90.35	590	590	U	0	unclassified
+  9.65	63	0	R	1	root
+  9.65	63	0	R1	131567	  cellular organisms
+  5.67	37	0	D	2	    Bacteria
+  5.51	36	0	P	1224	      Pseudomonadota
+  5.36	35	0	C	1236	        Gammaproteobacteria
+  5.05	33	0	O	118969	          Legionellales
+  5.05	33	0	F	118968	            Coxiellaceae
+  5.05	33	0	F1	134284	              unclassified Coxiellaceae
+  5.05	33	33	S	1592897	                Coxiella-like endosymbiont
+  0.15	1	0	O	72274	          Pseudomonadales
+  0.15	1	0	F	135621	            Pseudomonadaceae
+  0.15	1	0	G	286	              Pseudomonas
+  0.15	1	1	S	319939	                Pseudomonas otitidis
+  0.15	1	0	O	91347	          Enterobacterales
+  0.15	1	1	F	1903409	            Erwiniaceae
+  0.15	1	0	C	28211	        Alphaproteobacteria
+  0.15	1	0	O	356	          Hyphomicrobiales
+  0.15	1	0	F	82115	            Rhizobiaceae
+  0.15	1	0	F1	227290	              Rhizobium/Agrobacterium group
+  0.15	1	0	G	1612611	                Pararhizobium
+  0.15	1	0	G1	2643050	                  unclassified Pararhizobium
+  0.15	1	1	S	2986923	                    Pararhizobium sp. BT-229
+  0.15	1	0	D1	1783272	      Terrabacteria group
+  0.15	1	0	P	201174	        Actinomycetota
+  0.15	1	0	C	1760	          Actinomycetes
+  0.15	1	0	O	85007	            Mycobacteriales
+  0.15	1	0	F	1762	              Mycobacteriaceae
+  0.15	1	0	G	1763	                Mycobacterium
+  0.15	1	0	G1	120793	                  Mycobacterium avium complex (MAC)
+  0.15	1	1	S	2775496	                    Mycobacterium senriense
+  3.98	26	0	D	2759	    Eukaryota
+  3.98	26	0	D1	33154	      Opisthokonta
+  3.98	26	0	K	33208	        Metazoa
+  3.98	26	0	K1	6072	          Eumetazoa
+  3.98	26	0	K2	33213	            Bilateria
+  3.98	26	0	K3	33511	              Deuterostomia
+  3.98	26	0	P	7711	                Chordata
+  3.98	26	0	P1	89593	                  Craniata
+  3.98	26	0	P2	7742	                    Vertebrata
+  3.98	26	0	P3	7776	                      Gnathostomata
+  3.98	26	0	P4	117570	                        Teleostomi
+  3.98	26	0	P5	117571	                          Euteleostomi
+  3.98	26	0	P6	8287	                            Sarcopterygii
+  3.98	26	0	P7	1338369	                              Dipnotetrapodomorpha
+  3.98	26	0	P8	32523	                                Tetrapoda
+  3.98	26	0	P9	32524	                                  Amniota
+  3.98	26	0	C	40674	                                    Mammalia
+  3.98	26	0	C1	32525	                                      Theria
+  3.98	26	0	C2	9347	                                        Eutheria
+  3.98	26	0	C3	1437010	                                          Boreoeutheria
+  3.98	26	0	C4	314146	                                            Euarchontoglires
+  3.98	26	0	O	9443	                                              Primates
+  3.98	26	0	O1	376913	                                                Haplorrhini
+  3.98	26	0	O2	314293	                                                  Simiiformes
+  3.98	26	0	O3	9526	                                                    Catarrhini
+  3.98	26	0	O4	314295	                                                      Hominoidea
+  3.98	26	0	F	9604	                                                        Hominidae
+  3.98	26	0	F1	207598	                                                          Homininae
+  3.98	26	0	G	9605	                                                            Homo
+  3.98	26	26	S	9606	                                                              Homo sapiens

@@ -1,0 +1,12 @@
+ 80.00	8	8	U	0	unclassified
+ 20.00	2	0	R	1	root
+ 20.00	2	0	R1	131567	  cellular organisms
+ 20.00	2	0	D	2	    Bacteria
+ 20.00	2	0	P	1224	      Pseudomonadota
+ 20.00	2	0	C	1236	        Gammaproteobacteria
+ 10.00	1	0	O	118969	          Legionellales
+ 10.00	1	0	F	118968	            Coxiellaceae
+ 10.00	1	0	F1	134284	              unclassified Coxiellaceae
+ 10.00	1	1	S	1592897	                Coxiella-like endosymbiont
+ 10.00	1	0	O	135614	          Xanthomonadales
+ 10.00	1	1	F	32033	            Xanthomonadaceae

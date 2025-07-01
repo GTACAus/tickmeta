@@ -1,0 +1,44 @@
+ 71.74	33	33	U	0	unclassified
+ 28.26	13	0	R	1	root
+ 28.26	13	0	R1	131567	  cellular organisms
+ 15.22	7	0	D	2759	    Eukaryota
+ 15.22	7	0	D1	33154	      Opisthokonta
+ 15.22	7	0	K	33208	        Metazoa
+ 15.22	7	0	K1	6072	          Eumetazoa
+ 15.22	7	0	K2	33213	            Bilateria
+ 15.22	7	0	K3	33511	              Deuterostomia
+ 15.22	7	0	P	7711	                Chordata
+ 15.22	7	0	P1	89593	                  Craniata
+ 15.22	7	0	P2	7742	                    Vertebrata
+ 15.22	7	0	P3	7776	                      Gnathostomata
+ 15.22	7	0	P4	117570	                        Teleostomi
+ 15.22	7	0	P5	117571	                          Euteleostomi
+ 15.22	7	0	P6	8287	                            Sarcopterygii
+ 15.22	7	0	P7	1338369	                              Dipnotetrapodomorpha
+ 15.22	7	0	P8	32523	                                Tetrapoda
+ 15.22	7	0	P9	32524	                                  Amniota
+ 15.22	7	0	C	40674	                                    Mammalia
+ 15.22	7	0	C1	32525	                                      Theria
+ 15.22	7	0	C2	9347	                                        Eutheria
+ 15.22	7	0	C3	1437010	                                          Boreoeutheria
+ 15.22	7	0	C4	314146	                                            Euarchontoglires
+ 15.22	7	0	O	9443	                                              Primates
+ 15.22	7	0	O1	376913	                                                Haplorrhini
+ 15.22	7	0	O2	314293	                                                  Simiiformes
+ 15.22	7	0	O3	9526	                                                    Catarrhini
+ 15.22	7	0	O4	314295	                                                      Hominoidea
+ 15.22	7	0	F	9604	                                                        Hominidae
+ 15.22	7	0	F1	207598	                                                          Homininae
+ 15.22	7	0	G	9605	                                                            Homo
+ 15.22	7	7	S	9606	                                                              Homo sapiens
+ 13.04	6	0	D	2	    Bacteria
+ 13.04	6	0	P	1224	      Pseudomonadota
+ 13.04	6	0	C	1236	        Gammaproteobacteria
+ 10.87	5	0	O	118969	          Legionellales
+ 10.87	5	0	F	118968	            Coxiellaceae
+ 10.87	5	0	F1	134284	              unclassified Coxiellaceae
+ 10.87	5	5	S	1592897	                Coxiella-like endosymbiont
+  2.17	1	0	O	135623	          Vibrionales
+  2.17	1	0	F	641	            Vibrionaceae
+  2.17	1	0	G	662	              Vibrio
+  2.17	1	1	S	55601	                Vibrio anguillarum

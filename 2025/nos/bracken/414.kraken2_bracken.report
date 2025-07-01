@@ -1,0 +1,20 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Homo sapiens	9606	S	195	7	202	0.60479
+Coxiella-like endosymbiont	1592897	S	106	0	106	0.31737
+Pantoea agglomerans	549	S	1	0	1	0.00299
+Photobacterium leiognathi	553611	S	1	0	1	0.00299
+Vibrio mangrovi	474394	S	1	0	1	0.00299
+Pseudomonas fulva	47880	S	1	4	5	0.01497
+Pararhizobium sp. BT-229	2986923	S	1	0	1	0.00299
+Sinorhizobium meliloti	382	S	1	0	1	0.00299
+Lichenihabitans sp. PAMC28606	2880932	S	1	0	1	0.00299
+Roseateles depolymerans	76731	S	1	0	1	0.00299
+Amycolatopsis orientalis	31958	S	1	0	1	0.00299
+Actinokineospora sp. UTMC 2448	2268449	S	1	0	1	0.00299
+Halalkalibacter krulwichiae	199441	S	1	0	1	0.00299
+Clostridium perfringens	1502	S	1	1	2	0.00599
+Synechococcus elongatus	32046	S	1	0	1	0.00299
+Acaryochloris sp. 'Moss Beach'	2740837	S	1	0	1	0.00299
+Chryseobacterium lactis	1241981	S	1	0	1	0.00299
+Bradymonas sediminis	1548548	S	1	0	1	0.00299
+Leptospira kirschneri	29507	S	1	0	1	0.00299

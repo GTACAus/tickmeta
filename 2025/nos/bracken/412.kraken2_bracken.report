@@ -1,0 +1,4 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Homo sapiens	9606	S	7	0	7	0.53846
+Coxiella-like endosymbiont	1592897	S	5	0	5	0.38462
+Vibrio anguillarum	55601	S	1	0	1	0.07692

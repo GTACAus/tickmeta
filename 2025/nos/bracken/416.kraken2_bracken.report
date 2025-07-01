@@ -1,0 +1,14 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Coxiella-like endosymbiont	1592897	S	302	0	302	0.77041
+Hydrogenophaga sp. SL48	2806347	S	1	0	1	0.00255
+Conchiformibius steedae	153493	S	1	0	1	0.00255
+Nocardiopsis exhalans	163604	S	3	0	3	0.00765
+Actinoplanes ianthinogenes	122358	S	1	0	1	0.00255
+Streptacidiphilus sp. P02-A3a	2704468	S	1	0	1	0.00255
+Fenollaria sporofastidiosus	2811778	S	2	8	10	0.02551
+Butyrivibrio crossotus	45851	S	1	0	1	0.00255
+Cytobacillus firmus	1399	S	1	0	1	0.00255
+Deinococcus peraridilitoris	432329	S	1	0	1	0.00255
+Nostoc sp. NIES-2111	1973475	S	1	0	1	0.00255
+Homo sapiens	9606	S	61	5	66	0.16837
+Pandoravirus dulcis	1349409	S	1	0	1	0.00255
