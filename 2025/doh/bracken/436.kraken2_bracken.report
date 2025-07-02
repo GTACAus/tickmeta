@@ -1,0 +1,7 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Homo sapiens	9606	S	39	5	44	0.88000
+Halalkalibacter krulwichiae	199441	S	1	0	1	0.02000
+Enterococcus cecorum	44008	S	1	0	1	0.02000
+Flavobacterium gilvum	1492737	S	1	0	1	0.02000
+Mucilaginibacter sp. KACC 22063	3025666	S	1	0	1	0.02000
+Pantoea vagans	470934	S	1	0	1	0.02000

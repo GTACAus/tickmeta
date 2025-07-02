@@ -1,0 +1,48 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Homo sapiens	9606	S	252	8	260	0.75362
+Coxiella-like endosymbiont	1592897	S	11	0	11	0.03188
+Pseudomonas fulva	47880	S	5	3	8	0.02319
+Pseudomonas sp. R4-35-07	658643	S	1	0	1	0.00290
+Pseudomonas sp. PIA16	2931382	S	1	0	1	0.00290
+Pseudomonas syringae	317	S	1	0	1	0.00290
+Escherichia marmotae	1499973	S	2	0	2	0.00580
+Jejubacter calystegiae	2579935	S	1	0	1	0.00290
+Symbiopectobacterium purcellii	2871826	S	1	0	1	0.00290
+Xenorhabdus budapestensis	290110	S	1	0	1	0.00290
+Aeromonas sp. ASNIH1	1636606	S	1	4	5	0.01449
+Oceanimonas pelagia	3028314	S	1	0	1	0.00290
+Tahibacter amnicola	2976241	S	1	0	1	0.00290
+Amphritea japonica	452627	S	1	0	1	0.00290
+Caulobacter sp. NIBR2454	3015996	S	2	0	2	0.00580
+Magnetospirillum magneticum	84159	S	1	0	1	0.00290
+Bradyrhizobium sp. CB82	3039159	S	1	0	1	0.00290
+Cupriavidus campinensis	151783	S	2	0	2	0.00580
+Burkholderia latens	488446	S	1	0	1	0.00290
+Massilia varians	457921	S	1	0	1	0.00290
+Halalkalibacter krulwichiae	199441	S	10	1	11	0.03188
+Cytobacillus firmus	1399	S	1	0	1	0.00290
+Priestia megaterium	1404	S	1	0	1	0.00290
+Paenibacillus sp. 481	2835869	S	1	0	1	0.00290
+Bombilactobacillus folatiphilus	2923362	S	1	0	1	0.00290
+Leuconostoc carnosum	1252	S	1	0	1	0.00290
+Aminipila luticellarii	2507160	S	1	0	1	0.00290
+Oceanirhabdus sp. W0125-5	2999116	S	1	0	1	0.00290
+Streptomyces rectiverticillatus	173860	S	1	0	1	0.00290
+Streptomyces lydicus	47763	S	1	0	1	0.00290
+Yinghuangia sp. ASG 101	2896848	S	1	0	1	0.00290
+Rhodococcus sp. WMMA185	679318	S	1	0	1	0.00290
+Dietzia sp. oral taxon 368	712270	S	1	0	1	0.00290
+Nocardioides panacisoli	627624	S	1	0	1	0.00290
+Candidatus Planktophila limnetica	573600	S	1	0	1	0.00290
+Synechococcus sp. PCC 7003	374981	S	2	0	2	0.00580
+Flavobacterium sp. F-29	2893883	S	1	0	1	0.00290
+Flavobacterium ammonificans	1751056	S	1	0	1	0.00290
+Pedobacter sp. G11	2482728	S	1	0	1	0.00290
+Chlamydia abortus	83555	S	3	0	3	0.00870
+Fusobacterium pseudoperiodonticum	2663009	S	1	0	1	0.00290
+Leptospirillum ferrooxidans	180	S	1	0	1	0.00290
+Aminomonas paucivorans	81412	S	1	0	1	0.00290
+Desulfobulbus propionicus	894	S	1	0	1	0.00290
+Methanogenium sp. S4BF	1789226	S	1	0	1	0.00290
+Methanomethylovorans hollandica	101192	S	1	0	1	0.00290
+Bocaparvovirus primate1	3052040	S	1	0	1	0.00290

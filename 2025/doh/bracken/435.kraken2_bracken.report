@@ -1,0 +1,14 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Homo sapiens	9606	S	247	3	250	0.93284
+Pseudomonas denitrificans (nom. rej.)	43306	S	1	0	1	0.00373
+Escherichia coli	562	S	1	0	1	0.00373
+Luteibacter aegosomatissinici	2911539	S	1	0	1	0.00373
+Vibrio cyclitrophicus	47951	S	1	0	1	0.00373
+Pararhizobium sp. BT-229	2986923	S	4	0	4	0.01493
+Vogesella sp. LIG4	1192162	S	1	0	1	0.00373
+Mycobacterium senriense	2775496	S	1	1	2	0.00746
+Streptomyces sp. LX-29	2900152	S	1	0	1	0.00373
+Eubacterium limosum	1736	S	1	0	1	0.00373
+Clostridium pasteurianum	1501	S	1	0	1	0.00373
+Thermodesulfobacterium sp. TA1	2234087	S	2	0	2	0.00746
+Acidianus manzaensis	282676	S	1	0	1	0.00373

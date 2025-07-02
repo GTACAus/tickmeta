@@ -1,0 +1,61 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Homo sapiens	9606	S	179	6	185	0.62290
+Candidatus Rickettsiella viridis	676208	S	4	1	5	0.01684
+Rickettsiella endosymbiont of Dermanyssus gallinae	2856608	S	1	0	1	0.00337
+Coxiella burnetii	777	S	1	1	2	0.00673
+Coxiella-like endosymbiont	1592897	S	1	0	1	0.00337
+Legionella israelensis	454	S	1	1	2	0.00673
+Pseudomonas fulva	47880	S	5	11	16	0.05387
+Pseudomonas citronellolis	53408	S	1	0	1	0.00337
+Halopseudomonas litoralis	797277	S	1	0	1	0.00337
+Enterobacter mori	539813	S	1	1	2	0.00673
+Proteus vulgaris	585	S	2	3	5	0.01684
+Candidatus Erwinia haradaeae	1922217	S	1	0	1	0.00337
+Thalassolituus oleivorans	187493	S	2	0	2	0.00673
+Oleiphilus messinensis	141451	S	1	0	1	0.00337
+Reinekea forsetii	1336806	S	1	0	1	0.00337
+Catenovulum sediminis	1740262	S	1	0	1	0.00337
+Alkalimarinus coralli	2935863	S	1	0	1	0.00337
+Colwellia sp. Arc7-D	2161872	S	1	0	1	0.00337
+Colwellia sp. M166	2583805	S	1	0	1	0.00337
+Candidatus Baumannia cicadellinicola	186490	S	1	0	1	0.00337
+Alkalilimnicola ehrlichii	351052	S	1	0	1	0.00337
+Photobacterium toruni	1935446	S	1	0	1	0.00337
+Paracoccus aminophilus	34003	S	1	0	1	0.00337
+Thioclava electrotropha	1549850	S	1	0	1	0.00337
+Sphingobium sp. CAP-1	2676077	S	1	0	1	0.00337
+Sphingopyxis sp. GC21	2933562	S	1	1	2	0.00673
+Bradyrhizobium lablabi	722472	S	1	0	1	0.00337
+Methylorubrum extorquens	408	S	1	0	1	0.00337
+Paenalcaligenes faecalis	2980099	S	3	0	3	0.01010
+Dechloromonas denitrificans	281362	S	1	0	1	0.00337
+Halalkalibacter krulwichiae	199441	S	5	0	5	0.01684
+Bacillus glycinifermentans	1664069	S	1	3	4	0.01347
+Sutcliffiella horikoshii	79883	S	1	0	1	0.00337
+Brevibacillus laterosporus	1465	S	1	1	2	0.00673
+Staphylococcus lutrae	155085	S	1	0	1	0.00337
+Exiguobacterium sp. PFWT01	2829816	S	1	0	1	0.00337
+Streptococcus porcinus	1340	S	1	0	1	0.00337
+Coprococcus eutactus	33043	S	1	0	1	0.00337
+Romboutsia ilealis	1115758	S	1	0	1	0.00337
+Flavonifractor plautii	292800	S	1	0	1	0.00337
+Sedimentibacter sp. MB35-C1	3070995	S	1	0	1	0.00337
+Rippkaea orientalis	2546366	S	2	0	2	0.00673
+Nostoc sp. NIES-2111	1973475	S	1	0	1	0.00337
+Prochlorococcus marinus	1219	S	1	0	1	0.00337
+Corynebacterium urealyticum	43771	S	1	0	1	0.00337
+Candidatus Mycobacterium wuenschmannii	3027808	S	1	0	1	0.00337
+Streptomyces sp. So13.3	2136173	S	1	0	1	0.00337
+Alteracholeplasma palmae	38986	S	1	0	1	0.00337
+Niabella soli	446683	S	1	0	1	0.00337
+Flavisolibacter tropicus	1492898	S	1	0	1	0.00337
+Lacibacter sp. S13-6-22	2760713	S	1	0	1	0.00337
+Flavobacterium sp. CC-SYL302	2870839	S	1	1	2	0.00673
+Prevotella melaninogenica	28132	S	1	0	1	0.00337
+Algoriphagus sp. Y33	2772483	S	1	0	1	0.00337
+Fusobacterium nucleatum	851	S	2	0	2	0.00673
+Fusobacterium necrophorum	859	S	1	0	1	0.00337
+Leptospira sp. severe_002	2838237	S	1	0	1	0.00337
+Desulforapulum autotrophicum	2296	S	1	0	1	0.00337
+Desulfurispirillum indicum	936456	S	1	0	1	0.00337
+Candidatus Nitrosomarinus catalina	1898749	S	1	0	1	0.00337

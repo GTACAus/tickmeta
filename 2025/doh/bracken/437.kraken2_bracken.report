@@ -1,0 +1,27 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Homo sapiens	9606	S	144	7	151	0.79058
+Salmonella enterica	28901	S	1	5	6	0.03141
+Edwardsiella tarda	636	S	1	0	1	0.00524
+Coxiella-like endosymbiont	1592897	S	3	0	3	0.01571
+Vibrio pelagius	28169	S	1	0	1	0.00524
+Vibrio spartinae	1918945	S	1	0	1	0.00524
+Pseudomonas fulva	47880	S	1	2	3	0.01571
+Acinetobacter bereziniae	106648	S	1	0	1	0.00524
+Stenotrophomonas sp. SI-NJAU-1	2886359	S	1	0	1	0.00524
+Methylomonas koyamae	702114	S	1	0	1	0.00524
+Gilliamella apis	1970738	S	1	0	1	0.00524
+Phaeobacter inhibens	221822	S	1	0	1	0.00524
+Bordetella trematum	123899	S	1	0	1	0.00524
+Paenibacillus sp. HWE-109	1306526	S	1	0	1	0.00524
+Enterococcus raffinosus	71452	S	1	0	1	0.00524
+Blautia producta	33035	S	1	0	1	0.00524
+Microbacterium sp. H1-D42	2925844	S	1	0	1	0.00524
+Actinocatenispora sera	390989	S	1	0	1	0.00524
+Baekduia alba	2997333	S	1	0	1	0.00524
+Nostoc sp. NIES-2111	1973475	S	3	1	4	0.02094
+Sphingobacterium sp. LZ7M1	2961941	S	1	0	1	0.00524
+Hymenobacter volaticus	2932254	S	1	0	1	0.00524
+Rosistilla oblonga	2527990	S	1	0	1	0.00524
+Sedimentisphaera cyanobacteriorum	1940790	S	1	0	1	0.00524
+Desulfobulbus propionicus	894	S	1	0	1	0.00524
+Halomicroarcula sp. DFY41	3032584	S	1	0	1	0.00524

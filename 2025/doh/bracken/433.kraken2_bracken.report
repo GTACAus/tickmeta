@@ -1,0 +1,6 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Homo sapiens	9606	S	13	0	13	0.61905
+Halalkalibacter krulwichiae	199441	S	3	1	4	0.19048
+Coxiella-like endosymbiont	1592897	S	2	0	2	0.09524
+Thauera sp. GDN1	2944810	S	1	0	1	0.04762
+Haliscomenobacter hydrossis	2350	S	1	0	1	0.04762

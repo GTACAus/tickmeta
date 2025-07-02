@@ -1,0 +1,83 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Coxiella-like endosymbiont	1592897	S	568	0	568	0.44619
+Pseudomonas fulva	47880	S	7	4	11	0.00864
+Pseudomonas ogarae	1114970	S	1	0	1	0.00079
+Pseudomonas denitrificans (nom. rej.)	43306	S	4	0	4	0.00314
+Enterobacter hormaechei	158836	S	1	3	4	0.00314
+Escherichia coli	562	S	1	2	3	0.00236
+Escherichia marmotae	1499973	S	1	0	1	0.00079
+Kluyvera intermedia	61648	S	1	0	1	0.00079
+Kosakonia sp. CCTCC M2018092	2492396	S	1	0	1	0.00079
+Photorhabdus akhurstii	171438	S	1	0	1	0.00079
+Agarivorans gilvus	680279	S	1	0	1	0.00079
+Paraglaciecola sp. L3A3	2686358	S	1	0	1	0.00079
+Pseudoalteromonas sp. SCSIO 43095	2894202	S	1	1	2	0.00157
+Shewanella sp. OMA3-2	2908650	S	1	1	2	0.00157
+Xanthomonas translucens	343	S	1	0	1	0.00079
+Tahibacter amnicola	2976241	S	1	0	1	0.00079
+Vibrio plantisponsor	664643	S	1	0	1	0.00079
+Vibrio parahaemolyticus	670	S	1	0	1	0.00079
+Acinetobacter bereziniae	106648	S	1	0	1	0.00079
+Amphritea atlantica	355243	S	1	0	1	0.00079
+Bradyrhizobium elkanii	29448	S	1	0	1	0.00079
+Bradyrhizobium septentrionale	1404411	S	1	0	1	0.00079
+Mesorhizobium sp. B2-1-1	2589974	S	1	0	1	0.00079
+Rhizobium sp. Pop5	1223565	S	1	0	1	0.00079
+Maritalea myrionectae	454601	S	1	0	1	0.00079
+Stappia indica	538381	S	1	0	1	0.00079
+Azospirillum oryzae	286727	S	1	0	1	0.00079
+Herbaspirillum huttiense	863372	S	1	0	1	0.00079
+Collimonas pratensis	279113	S	1	0	1	0.00079
+Comamonas flocculans	2597701	S	1	0	1	0.00079
+Diaphorobacter ruginosibacter	1715720	S	1	0	1	0.00079
+Kingella negevensis	1522312	S	1	0	1	0.00079
+Halalkalibacter krulwichiae	199441	S	14	1	15	0.01178
+Bacillus vallismortis	72361	S	1	1	2	0.00157
+Paenibacillus ihbetae	1870820	S	1	0	1	0.00079
+Paenibacillus pabuli	1472	S	1	0	1	0.00079
+Paenibacillus sp. R14(2021)	2859228	S	1	0	1	0.00079
+Staphylococcus pasteuri	45972	S	1	0	1	0.00079
+Staphylococcus capitis	29388	S	1	0	1	0.00079
+Lacticaseibacillus paracasei	1597	S	1	1	2	0.00157
+Enterococcus faecalis	1351	S	1	2	3	0.00236
+Jeotgalibaca ciconiae	2496265	S	1	0	1	0.00079
+Clostridium botulinum	1491	S	1	0	1	0.00079
+Clostridium estertheticum	238834	S	1	1	2	0.00157
+Thermaerobacter marianensis	73919	S	1	0	1	0.00079
+Fenollaria sporofastidiosus	2811778	S	1	0	1	0.00079
+Thermoanaerobacter mathranii	583357	S	1	0	1	0.00079
+Erysipelothrix rhusiopathiae	1648	S	1	1	2	0.00157
+Arthrobacter antioxidans	2895818	S	1	0	1	0.00079
+Arthrobacter sulfonylureivorans	2486855	S	1	0	1	0.00079
+Sinomonas sp. R1AF57	2020377	S	1	0	1	0.00079
+Agromyces soli	659012	S	1	0	1	0.00079
+Rathayibacter sp. VKM Ac-2759	2609252	S	1	0	1	0.00079
+Streptomyces actuosus	1885	S	1	0	1	0.00079
+Streptomyces liliifuscus	2797636	S	1	0	1	0.00079
+Nocardiopsis exhalans	163604	S	3	0	3	0.00236
+Bifidobacterium lemurum	1603886	S	1	0	1	0.00079
+Mycolicibacterium neoaurum	1795	S	1	0	1	0.00079
+Nostoc sp. PCC 7107	317936	S	1	0	1	0.00079
+Synechococcus sp. CB0101	232348	S	1	0	1	0.00079
+Thermocoleostomius sinensis	3065396	S	1	0	1	0.00079
+Mycoplasmopsis bovis	28903	S	1	0	1	0.00079
+Cellulophaga sp. L1A9	2686362	S	1	0	1	0.00079
+Tenacibaculum sp. SZ-18	754423	S	1	0	1	0.00079
+Formosa sp. Hel1_33_131	1336794	S	1	0	1	0.00079
+Nonlabens sp. Hel1_33_55	1336802	S	1	0	1	0.00079
+Aequorivita sp. Ant34-E75	3040348	S	1	0	1	0.00079
+Bacteroides stercoris	46506	S	1	0	1	0.00079
+Coprobacter fastidiosus	1099853	S	1	0	1	0.00079
+Mucilaginibacter ginsenosidivorax	862126	S	1	0	1	0.00079
+Symmachiella dynata	2527995	S	1	0	1	0.00079
+Gemmata massiliana	1210884	S	1	0	1	0.00079
+Candidatus Kuenenia stuttgartiensis	174633	S	1	0	1	0.00079
+Sulfurospirillum deleyianum	65553	S	2	0	2	0.00157
+Bdellovibrio bacteriovorus	959	S	1	0	1	0.00079
+Desulfoluna limicola	2810562	S	1	0	1	0.00079
+Homo sapiens	9606	S	554	19	573	0.45012
+Halococcoides cellulosivorans	1679096	S	1	0	1	0.00079
+Halocatena salina	2934340	S	1	0	1	0.00079
+Halapricum salinum	1457250	S	1	0	1	0.00079
+Acidianus hospitalis	563177	S	1	0	1	0.00079
+Fadolivirus algeromassiliense	3060017	S	1	0	1	0.00079
